@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assistant Commercial - Recherche Documentaire</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-50 min-h-screen flex flex-col items-center p-6">
+
+    <div class="w-full max-w-2xl bg-white p-8 rounded-xl shadow-md mt-10">
+        <div class="text-center mb-8">
+            <h1 class="text-3xl font-bold text-slate-800 mb-2">📂 Base de Connaissance</h1>
+            <p class="text-slate-500">Posez une question sur nos documents internes (fichiers sources)</p>
+        </div>
+
+        <form method="POST" class="space-y-4">
+            <div class="relative">
+                <input type="text" name="question" required 
+                       placeholder="Ex: Quel est le prix du produit Alpha ?" 
+                       value="{{ question if question else '' }}"
+                       class="w-full px-4 py-4 pr-12 border border-slate-300 rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 text-lg">
+                
+                <button type="submit" class="absolute right-2 top-2 bottom-2 bg-indigo-600 text-white px-6 rounded-md hover:bg-indigo-700 transition-colors font-medium">
+                    Chercher
+                </button>
+            </div>
+        </form>
+
+        {% if resultat %}
+        <div class="mt-10 animate-fade-in">
+            <div class="flex items-center gap-2 mb-3">
+                <span class="bg-green-100 text-green-800 text-xs font-semibold px-2.5 py-0.5 rounded">RÉPONSE IA</span>
+            </div>
+            
+            <div class="prose prose-slate max-w-none bg-slate-50 p-6 rounded-lg border border-slate-200">
+                {{ resultat | safe }}
+            </div>
+        </div>
+        {% endif %}
+    </div>
+
+    <footer class="mt-12 text-slate-400 text-sm">
+        Sources chargées depuis le dossier /sources
+    </footer>
+
+</body>
+</html>

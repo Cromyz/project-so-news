@@ -1,0 +1,5 @@
+flask
+flask[async]
+google-adk
+python-dotenv
+gunicorn
