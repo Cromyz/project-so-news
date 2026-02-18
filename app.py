@@ -1,8 +1,10 @@
 import os
+import io
 import glob
 import csv
 import re
 import json
+import requests as http_requests
 from flask import Flask, render_template, request
 from dotenv import load_dotenv
 from google import genai
@@ -20,29 +22,48 @@ if not api_key:
 client = genai.Client(api_key=api_key)
 
 # --- FONCTIONS DE CHARGEMENT CSV ---
-def charger_articles():
-    """Lit le CSV et retourne une liste de dictionnaires avec toutes les infos"""
+def parser_csv(reader):
+    """Parse un DictReader CSV et retourne une liste d'articles"""
     articles = []
+    for ligne in reader:
+        articles.append({
+            "titre": ligne.get('Titre', 'Sans titre'),
+            "description": ligne.get('Description', 'Pas de description'),
+            "tags": ligne.get('Tags', ''),
+            "url": ligne.get("URL", '#'),
+        })
+    return articles
+
+def charger_articles():
+    """Charge les articles depuis le Google Sheet (ou fallback CSV local)"""
+    sheet_url = os.getenv("GOOGLE_SHEET_CSV_URL")
+
+    if sheet_url:
+        try:
+            resp = http_requests.get(sheet_url, timeout=10)
+            resp.raise_for_status()
+            resp.encoding = 'utf-8'
+            reader = csv.DictReader(io.StringIO(resp.text), delimiter=',')
+            articles = parser_csv(reader)
+            if articles:
+                print(f"[SOURCE] Google Sheet chargé : {len(articles)} articles")
+                return articles
+        except Exception as e:
+            print(f"[SOURCE] Erreur Google Sheet, fallback CSV local : {e}")
+
     dossier_sources = os.path.join(os.path.dirname(__file__), 'sources')
     fichiers = glob.glob(os.path.join(dossier_sources, "*.csv"))
-
     if not fichiers:
         return []
 
     try:
         with open(fichiers[0], mode='r', encoding='utf-8-sig') as csvfile:
             reader = csv.DictReader(csvfile, delimiter=',')
-            for ligne in reader:
-                articles.append({
-                    "titre": ligne.get('Titre', 'Sans titre'),
-                    "description": ligne.get('Description', 'Pas de description'),
-                    "tags": ligne.get('Tags', ''),
-                    "url": ligne.get("URL", '#'),
-                })
+            articles = parser_csv(reader)
+            print(f"[SOURCE] CSV local chargé : {len(articles)} articles")
+            return articles
     except Exception:
         return []
-
-    return articles
 
 def construire_contexte(articles):
     """Construit le contexte texte pour l'IA (sans les URLs)"""
