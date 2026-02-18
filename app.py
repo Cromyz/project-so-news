@@ -158,8 +158,12 @@ def home():
     question = ""
 
     if request.method == 'POST':
-        question = request.form.get('question')
-        if question:
+        question = request.form.get('question', '').strip()
+        cleaned = re.sub(r'[^a-zA-ZÀ-ÿ0-9\s]', '', question).strip()
+
+        if not cleaned or len(cleaned) < 2:
+            resultat = "<p>Veuillez saisir une recherche valide (au moins 2 caractères).</p>"
+        elif question:
             try:
                 instruction = build_system_instruction(articles)
                 response = client.models.generate_content(
