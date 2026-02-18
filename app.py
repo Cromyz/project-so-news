@@ -39,9 +39,12 @@ def charger_articles():
     """Charge les articles depuis le Google Sheet (ou fallback CSV local)"""
     sheet_url = os.getenv("GOOGLE_SHEET_CSV_URL")
 
+    print(f"[SOURCE] GOOGLE_SHEET_CSV_URL = '{sheet_url}'")
+
     if sheet_url:
         try:
-            resp = http_requests.get(sheet_url, timeout=10)
+            resp = http_requests.get(sheet_url.strip(), timeout=15)
+            print(f"[SOURCE] HTTP status: {resp.status_code}, taille: {len(resp.text)} chars")
             resp.raise_for_status()
             resp.encoding = 'utf-8'
             reader = csv.DictReader(io.StringIO(resp.text), delimiter=',')
@@ -49,8 +52,12 @@ def charger_articles():
             if articles:
                 print(f"[SOURCE] Google Sheet chargé : {len(articles)} articles")
                 return articles
+            else:
+                print(f"[SOURCE] Google Sheet vide, fallback CSV local")
         except Exception as e:
             print(f"[SOURCE] Erreur Google Sheet, fallback CSV local : {e}")
+    else:
+        print("[SOURCE] Pas de GOOGLE_SHEET_CSV_URL, utilisation du CSV local")
 
     dossier_sources = os.path.join(os.path.dirname(__file__), 'sources')
     fichiers = glob.glob(os.path.join(dossier_sources, "*.csv"))
