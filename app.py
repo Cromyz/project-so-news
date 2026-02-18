@@ -4,6 +4,7 @@ import glob
 import csv
 import re
 import json
+import time
 import requests as http_requests
 from flask import Flask, render_template, request
 from dotenv import load_dotenv
@@ -88,17 +89,32 @@ def extraire_tags_uniques(articles):
                 tags_set.add(tag)
     return sorted(tags_set, key=str.lower)
 
-# 2. Initialisation
-articles_db = charger_articles()
-liste_tags = extraire_tags_uniques(articles_db)
-contexte_csv = construire_contexte(articles_db)
+# 2. Cache avec rechargement automatique (TTL = 5 minutes)
+CACHE_TTL = 300
+_cache = {
+    "articles": [],
+    "tags": [],
+    "last_refresh": 0,
+}
 
-SYSTEM_INSTRUCTION = f"""
+def get_donnees():
+    """Retourne les articles et tags, recharge depuis le Sheet si le cache a expiré"""
+    now = time.time()
+    if now - _cache["last_refresh"] > CACHE_TTL or not _cache["articles"]:
+        articles = charger_articles()
+        _cache["articles"] = articles
+        _cache["tags"] = extraire_tags_uniques(articles)
+        _cache["last_refresh"] = now
+    return _cache["articles"], _cache["tags"]
+
+def build_system_instruction(articles):
+    contexte = construire_contexte(articles)
+    return f"""
 Tu es un assistant de recherche bibliographique interne.
 Ton rôle est de trouver les articles les plus pertinents dans la base de données fournie ci-dessous.
 
 BASE DE DONNÉES :
-{contexte_csv}
+{contexte}
 
 RÈGLES DE RÉPONSE :
 1. Si aucun article ne correspond, réponds exactement : []
@@ -108,11 +124,11 @@ RÈGLES DE RÉPONSE :
 5. Ne retourne RIEN d'autre que le tableau JSON. Pas de texte, pas d'explication, pas de markdown.
 """
 
-def construire_html_resultats(titres_trouves):
+def construire_html_resultats(titres_trouves, articles):
     """Construit le HTML des cards à partir des titres retournés par l'IA"""
     html = ""
     for titre in titres_trouves:
-        article = next((a for a in articles_db if a['titre'].strip().lower() == titre.strip().lower()), None)
+        article = next((a for a in articles if a['titre'].strip().lower() == titre.strip().lower()), None)
         if article:
             url = article['url'].strip()
             has_url = url and url != '#'
@@ -130,6 +146,7 @@ def construire_html_resultats(titres_trouves):
 # 3. Route Flask
 @app.route('/', methods=['GET', 'POST'])
 def home():
+    articles, tags = get_donnees()
     resultat = None
     question = ""
 
@@ -137,10 +154,11 @@ def home():
         question = request.form.get('question')
         if question:
             try:
+                instruction = build_system_instruction(articles)
                 response = client.models.generate_content(
                     model="gemini-2.0-flash-lite",
                     config={
-                        "system_instruction": SYSTEM_INSTRUCTION,
+                        "system_instruction": instruction,
                         "http_options": {"timeout": 60000},
                     },
                     contents=question
@@ -152,7 +170,7 @@ def home():
 
                 titres = json.loads(raw)
                 if isinstance(titres, list) and len(titres) > 0:
-                    resultat = construire_html_resultats(titres)
+                    resultat = construire_html_resultats(titres, articles)
                 else:
                     resultat = "<p>Aucun article correspondant trouvé dans la base.</p>"
             except json.JSONDecodeError:
@@ -160,7 +178,7 @@ def home():
             except Exception as e:
                 resultat = f"<p style='color:red'>Erreur : {str(e)}</p>"
 
-    return render_template('index.html', resultat=resultat, question=question, tags=liste_tags, nb_articles=len(articles_db))
+    return render_template('index.html', resultat=resultat, question=question, tags=tags, nb_articles=len(articles))
 
 if __name__ == '__main__':
     print("CSV chargé. Serveur prêt.")
