@@ -114,12 +114,15 @@ def construire_html_resultats(titres_trouves):
     for titre in titres_trouves:
         article = next((a for a in articles_db if a['titre'].strip().lower() == titre.strip().lower()), None)
         if article:
+            url = article['url'].strip()
+            has_url = url and url != '#'
+            btn = f'<a href="{url}" target="_blank" class="btn-read">Lire l\'article &rarr;</a>' if has_url else ''
             html += f"""
 <div class="article-card">
     <h3>{article['titre']}</h3>
     <p class="tags">🏷️ {article['tags']}</p>
     <p class="description">{article['description']}</p>
-    <a href="{article['url']}" target="_blank" class="btn-read">Lire l'article &rarr;</a>
+    {btn}
 </div>
 """
     return html if html else "<p>Aucun article correspondant trouvé dans la base.</p>"
@@ -157,7 +160,7 @@ def home():
             except Exception as e:
                 resultat = f"<p style='color:red'>Erreur : {str(e)}</p>"
 
-    return render_template('index.html', resultat=resultat, question=question, tags=liste_tags)
+    return render_template('index.html', resultat=resultat, question=question, tags=liste_tags, nb_articles=len(articles_db))
 
 if __name__ == '__main__':
     print("CSV chargé. Serveur prêt.")
