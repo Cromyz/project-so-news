@@ -1,8 +1,1509 @@
 ID,Titre,Description,Tags,URL
-1,Replay des voeux de la direction Générale GSO,Olivier Cotinat et Christophe Galichon ont adressé leurs vœux pour l'année 2026 mardi 13 janvier dans le hall du siège du Groupe. Découvrez le replay capté par TV7 pour ceux qui l'auraient manqué.,"gso, voeux",https://go.sudouest-publicite.com/e/433602/677-video-des-voeux-de-DG-2026/b629dh/1847557823/h/RS2f2oHglBtHom6j2YPrWgCXtnwDQ_4BuKMdPGtJ9zA
-2,Nouvelle offre sponsoring Carré Météo,"Lancement de la commercialisation des Offres de Sponsoring du Carré Météo 2026 sur Sud Ouest et Sud Ouest Dimanche. Dispositif Neige, qualité de l'air et pollen, météo des forêts.","carré météo, offres",https://go.sudouest-publicite.com/e/433602/q1MgdCc5jLYK0-edit-usp-sharing/b61fb6/1839428072/h/fquIOr_ve7qyebE65RpZl_0iu4VzIvuNsEBhJjl4T3Q
-3,Musée des Beaux Arts d'Agen,"Campagne d’influence pour l’exposition “Lumières françaises, de la cour de Versailles à Agen” au musée des Beaux Arts d’Agen. Objectifs : Promouvoir l’exposition comme un événement culturel majeur à Agen et au-delà, Attirer une audience diversifiée (familles, scolaires, touristes, chercheurs, etc.), Renforcer l’attractivité du territoire agenais et le positionner comme une destination culturelle, Valoriser le patrimoine historique, artistique et architectural du XVIIIe siècle.","success story,",https://go.sudouest-publicite.com/e/433602/p-DSPJmAgjc1F-/b629dl/1847557823/h/RS2f2oHglBtHom6j2YPrWgCXtnwDQ_4BuKMdPGtJ9zA
-4,Lancement de la marque SÜVY,L'équipe 47 épaulée par DIGIVISION a accompagné ce client dans la création de teasers pour l'évènement SUVYLAND. Un lancement de marque réussi à Paris auquel l'équipe a participé !,"success story,",https://go.sudouest-publicite.com/e/433602/t5VLQ8k54e2N9-view-usp-sharing/b629dp/1847557823/h/RS2f2oHglBtHom6j2YPrWgCXtnwDQ_4BuKMdPGtJ9zA
-5,Geofencing pour IMAGIR,L'offre Geofancing a été vendue au groupe IMAGIR pour 19k€ Le concept : donner accès gratuitement à tous les contenus Sud Ouest dans les salles des centres d'imagerie du département L'argument de vente qui a fait mouche : soutenir un acteur local avec un engagement hors publicité commerciale.,"success story,",https://go.sudouest-publicite.com/e/433602/t5VLQ8k54e2N9-view-usp-sharing/b629dp/1847557823/h/RS2f2oHglBtHom6j2YPrWgCXtnwDQ_4BuKMdPGtJ9zA
-6,"Depuis le 17 décembre, Briefly est officiellement déployé !","Avec déjà plus de 100 briefs saisis, nous sommes ravis de voir que l’outil a été rapidement adopté. Les premiers retours sont très instructifs : près d’1 brief sur 2 est utilisé pour préparer vos rendez-vous clients. Résultat ? Des échanges plus efficaces, des questions mieux ciblées et déjà des premières pistes de leviers pertinents identifiées en amont. L’équipe Solution Média poursuit ses échanges avec vous afin d’améliorer la prise en main de l’outil. N’hésitez pas à les contacter pour toute question. En attendant, vous pouvez également consulter le replay de la formation pour tout savoir sur Briefly.",actualités,https://go.sudouest-publicite.com/e/433602/cDeOuiocxkRv--view-usp-sharing/b629dw/1847557823/h/RS2f2oHglBtHom6j2YPrWgCXtnwDQ_4BuKMdPGtJ9zA
-7,Digivision x Bordeaux Métropole,Un spot de 14 secondes destiné aux réseaux sociaux de Bordeaux Métropole qui met en scène 3 joueurs de l'UBB. Objectif : sensibiliser au tri des déchets Le message est simple et percutant : rappeler que chaque geste compte pour faire avancer le recyclage.,"success story,",https://go.sudouest-publicite.com/e/433602/watch-v--h1k-J7GhzQ/b61f9w/1839428072/h/fquIOr_ve7qyebE65RpZl_0iu4VzIvuNsEBhJjl4T3Q
+1,Replay des voeux de la direction Générale GSO,Olivier Cotinat et Christophe Galichon ont adressé leurs vœux pour l'année 2026 mardi 13 janvier dans le hall du siège du Groupe. Découvrez le replay capté par TV7 pour ceux qui l'auraient manqué.,gso,https://go.sudouest-publicite.com/e/433602/677-video-des-voeux-de-DG-2026/b629dh/1847557823/h/RS2f2oHglBtHom6j2YPrWgCXtnwDQ_4BuKMdPGtJ9zA
+2,Nouvelle offre sponsoring Carré Météo,"Lancement de la commercialisation des Offres de Sponsoring du Carré Météo 2026 sur Sud Ouest et Sud Ouest Dimanche. Dispositif Neige, qualité de l'air et pollen, météo des forêts.","offres, marketing",https://go.sudouest-publicite.com/e/433602/q1MgdCc5jLYK0-edit-usp-sharing/b61fb6/1839428072/h/fquIOr_ve7qyebE65RpZl_0iu4VzIvuNsEBhJjl4T3Q
+3,Musée des Beaux Arts d'Agen,"Campagne d’influence pour l’exposition “Lumières françaises, de la cour de Versailles à Agen” au musée des Beaux Arts d’Agen. Objectifs : Promouvoir l’exposition comme un événement culturel majeur à Agen et au-delà, Attirer une audience diversifiée (familles, scolaires, touristes, chercheurs, etc.), Renforcer l’attractivité du territoire agenais et le positionner comme une destination culturelle, Valoriser le patrimoine historique, artistique et architectural du XVIIIe siècle.",success story,https://go.sudouest-publicite.com/e/433602/p-DSPJmAgjc1F-/b629dl/1847557823/h/RS2f2oHglBtHom6j2YPrWgCXtnwDQ_4BuKMdPGtJ9zA
+4,Lancement de la marque SÜVY,L'équipe 47 épaulée par DIGIVISION a accompagné ce client dans la création de teasers pour l'évènement SUVYLAND. Un lancement de marque réussi à Paris auquel l'équipe a participé !,success story,https://go.sudouest-publicite.com/e/433602/t5VLQ8k54e2N9-view-usp-sharing/b629dp/1847557823/h/RS2f2oHglBtHom6j2YPrWgCXtnwDQ_4BuKMdPGtJ9zA
+5,Geofencing pour IMAGIR,L'offre Geofancing a été vendue au groupe IMAGIR pour 19k€ Le concept : donner accès gratuitement à tous les contenus Sud Ouest dans les salles des centres d'imagerie du département L'argument de vente qui a fait mouche : soutenir un acteur local avec un engagement hors publicité commerciale.,success story,https://go.sudouest-publicite.com/e/433602/t5VLQ8k54e2N9-view-usp-sharing/b629dp/1847557823/h/RS2f2oHglBtHom6j2YPrWgCXtnwDQ_4BuKMdPGtJ9zA
+6,"Depuis le 17 décembre, Briefly est officiellement déployé !","Avec déjà plus de 100 briefs saisis, nous sommes ravis de voir que l’outil a été rapidement adopté. Les premiers retours sont très instructifs : près d’1 brief sur 2 est utilisé pour préparer vos rendez-vous clients. Résultat ? Des échanges plus efficaces, des questions mieux ciblées et déjà des premières pistes de leviers pertinents identifiées en amont. L’équipe Solution Média poursuit ses échanges avec vous afin d’améliorer la prise en main de l’outil. N’hésitez pas à les contacter pour toute question. En attendant, vous pouvez également consulter le replay de la formation pour tout savoir sur Briefly.",outils,https://go.sudouest-publicite.com/e/433602/cDeOuiocxkRv--view-usp-sharing/b629dw/1847557823/h/RS2f2oHglBtHom6j2YPrWgCXtnwDQ_4BuKMdPGtJ9zA
+7,Digivision x Bordeaux Métropole,Un spot de 14 secondes destiné aux réseaux sociaux de Bordeaux Métropole qui met en scène 3 joueurs de l'UBB. Objectif : sensibiliser au tri des déchets Le message est simple et percutant : rappeler que chaque geste compte pour faire avancer le recyclage.,"success story, digivision",https://go.sudouest-publicite.com/e/433602/watch-v--h1k-J7GhzQ/b61f9w/1839428072/h/fquIOr_ve7qyebE65RpZl_0iu4VzIvuNsEBhJjl4T3Q
+8,Cellule Créa x Agence Eliette,"En 2023, une équipe projet Eliette x Cellule créa a créé le concept des petits monstres pour répondre au besoin de communication de la Communauté de Communes du Grand Villeneuvois (47) sur la  redevance incitative. Déclinée dans un premier temps sur des documents ""papier"", livret pédagogique, annonces presse, etc, la campagne a fait l'objet de la création de 3 motions design dans ce dernier trimestre 2025. Toujours avec la même équipe de départ et avec l'arrivée de 2 nouvelles compétences en Motion Design qui ont intégré le studio en 2025.","success story, cellule créa, agence eliette",https://go.sudouest-publicite.com/e/433602/4I4Qr5hKhDJmIsw-usp-drive-link/b61f9z/1839428072/h/fquIOr_ve7qyebE65RpZl_0iu4VzIvuNsEBhJjl4T3Q
+9,Le collectif Girondin,"L'année a été une réussite totale, les défis ont été relevés brillamment et globale avec 100% des équipes à l'objectif.
+Si nous devions décrire l'équipe, cet acrostiche est en quelque sorte notre ADN du moment : 
+- Généreux efforts pour un but commun,
+- Inspiration mutuelle
+- Rires partagés
+- Optimisme
+- Nouvelle énergie dans l'élan collectif,
+- Désir d'atteindre l'objectif,
+- Entraide sincère, clé de notre réussite",actualités,
+10,L'année des Grands Comptes rythmée par le rugby,"Une année rythmée par de belles réussites individuelles. 
+
+La belle réussite collective et sportive c'est l'UBB avec son titre de Champion d'Europe et sa finale de Top 14. 
+
+Réussite collective également pour le bilan de l'équipe Grands Compte et Hors Zone sur les suppléments liées à ces matchs, sur Raffut et sur nos events rugby (beach, Etoiles du rgby amateur et Etoiles du rugby Féminin) avec au global plus de 300 K€ réalisés par Céline, Camille M, Diane, Krislaine, Stéfany, Arnaud, Laurent et Camille E. 
+
+Bravo à tous !",actualités,
+11,La Charente organise le 1er Salon des Séniors,"L'événement qui a eu lieu en novembre a réunit 5 univers autour de la retraite : Préparer/financer sa retraite, prévenir/soigner ma Santé, améliorer /aménager mon cadre de vie, hébergement adapté pour ma retraite.
+
+3000 personnes sur 2 jours 
+53 exposants 
+12 débats animés et filmés par les journalistes de Charente Libre
+Une dizaine d'associations qui ont proposé des animations.
+
+8 mois de travail pour un CA réalisé par toute l'équipe SOP Charente + Elodie Musseau, Fred et Mickael, = 111 k€
+
+L''enquête de satisfaction auprès du public est excellente et celle auprès des exposants aussi  ! En Route vers la 2ème édition qui sera les 20 et 21 novembre 2026 en espérant faire aussi bien voir mieux que la 1ère édition !",actualités,
+12,L'équipe de Dordogne désormais complète avec l'arrivée d'Estelle,"Estelle Lassale est venue compléter l'équipe de Dordogne cet été, et est en charge du Bergeracois.",actualités,
+13,"Les férias, incontournables de l'équipe Landes / Pays basque","SO BAIONA, SO MADELEINE, SO DAX
+3 évènements réussis qui génèrent du business du réseau et de l’engagement !
+
+Plus de 900 invités présents
+Plus de 180 photos des invités sur so.fr
+30K€ de CA direct
+
+Des partenaires enthousiastes
+
+90K€ de CA indirect : Foulée des Entreprises, suppléments Féria Landaises",actualités,
+14,L'équipe Lot-et-garonnaise clôture l'année en beauté,"Super soirée afterwork pour clôturer l’année avec une vingtaine de clients pour une visite privée de l’expo événement ""Lumières françaises, de la cour de Versailles à Agen"". Un moment de culture privilégié suivi d’un apéro gascon !",actualités,
+15,Tableau de suivi de l'offre Tourisme 2026,"Dans le cadre de la refonte de notre offre Tourisme, un tableau de suivi partagé a été mis en place afin de faciliter la coordination entre les différentes équipes impliquées sur le sujet.
+Pensez à vous l'enregistrer !",marketing,https://go.sudouest-publicite.com/e/433602/-gid-1035490498-gid-1035490498/b61fb3/1839428072/h/fquIOr_ve7qyebE65RpZl_0iu4VzIvuNsEBhJjl4T3Q
+16,"Répertoire et ""Qui fait quoi""","A la recherche du bon contact pour répondre à votre problématique ou votre question ? L'onglet ""qui fait quoi"" du répertoire est la pour ça !",outils,https://go.sudouest-publicite.com/e/433602/5gsTAl8VyvhfM-edit-usp-sharing/b61fb9/1839428072/h/fquIOr_ve7qyebE65RpZl_0iu4VzIvuNsEBhJjl4T3Q
+17,Campus Briefly,"Pour ceux qui ont manqué le campus Briefly, le nouvel outil IA, à ne pas manquer, il est dispo dans la Market Place",outils,https://go.sudouest-publicite.com/e/433602/fpfd-7jBwD3S--3-usp-drive-link/b61fbd/1839428072/h/fquIOr_ve7qyebE65RpZl_0iu4VzIvuNsEBhJjl4T3Q
+18,TV7 x UBB,"TV7 devient le diffuseur des matchs espoirs de l'UBB sur toute la saison, domicile et extérieur
+
+Budget 30k€
+Commerciale Céline Pauquet",success story,https://go.sudouest-publicite.com/e/433602/ivity-7384930319860400130-Betm/b5zhf9/1827215450/h/15wg6FXUN0l6X4dEcUOvNvpYuV89iTRBoGT_p835opM
+19,Main dans la main avec SUEZ,"Il y a une semaine, la Mairie de Bordeaux et Bordeaux Métropole accueillaient le Bordeaux GSEF 2025. + 10 000 participants issus de près de 70 pays différents. L'occasion de mettre en lumière ce pan de l'économie, sociale et solidaire.
+
+Nous avons eu l'idée de créer une web série pour valoriser l'accompagnement de tout un écosystème social et solidaire par SUEZ.",success story,https://go.sudouest-publicite.com/e/433602/ivity-7392613831023394816-raPG/b5zhfd/1827215450/h/15wg6FXUN0l6X4dEcUOvNvpYuV89iTRBoGT_p835opM
+20,Supplément Audition et Optique Dordogne,"Nous avons réussi à créer un supplément spécial axé sur l'audition et l'optique. 
+Ce supplément de 8 pages a été conçu sous forme de publi-reportages pour chaque annonceur, privilégiant une approche pédagogique autour de ces thèmes plutôt qu'une simple présentation de produits et de prix.
+
+Résultat : CA de 9 800€",supplément,
+21,Supplément Audition et Optique Landes et Pays Basque 100% Print,"Grâce à l'initiative d'Olivier Modeste et son équipe, un supplément réalisé sur le même principe sur les Landes et le Pays basque et paru le 29/10
+
+Résultat : 16k€ avec 9 clients et 5 commerciaux participants",supplément,https://go.sudouest-publicite.com/e/433602/1SjcNiCNYS1ja-view-usp-sharing/b5zhfh/1827215450/h/15wg6FXUN0l6X4dEcUOvNvpYuV89iTRBoGT_p835opM
+22,Votez pour nos projets aux Trophées de la Com' du Sud-ouest !,"Les Trophées de la Com' du Sud-ouest récompensent les meilleures initiatives de communication de la région. 
+Votre soutien est essentiel pour mettre en lumière le talent et la créativité de notre groupe grâce au Prix du Public !
+
+🗳️ C'est simple et ça ne rend que 2 minutes pour donner vos 3 votes !
+
+4 dossiers du Groupe sont en compétition pour cette catégorie :
+
+❤️Eliette et sa campagne audacieuse avec la Caisse d'Epargne Aquitaine Poitou-Charente : la banque qui parle (vraiment) aux jeunes",actualités,https://go.sudouest-publicite.com/e/433602/GwBLP4sZv6c7DzXdFHOVkaZWQapmDQ/b5zhdp/1827215450/h/15wg6FXUN0l6X4dEcUOvNvpYuV89iTRBoGT_p835opM
+23,Digivision et sa vidéo pour Ubisoft Bordeaux,"1 combat de boss, 9 métiers, un client SOP",actualités,https://go.sudouest-publicite.com/e/433602/ivity-7381668642259750912-bWAz/b5zhds/1827215450/h/15wg6FXUN0l6X4dEcUOvNvpYuV89iTRBoGT_p835opM
+24,Placéco et sa grande soirée économique en Gironde,,actualités,https://go.sudouest-publicite.com/e/433602/ivity-7394305467868688384-DNH8/b5zhdw/1827215450/h/15wg6FXUN0l6X4dEcUOvNvpYuV89iTRBoGT_p835opM
+25,ôte Ouest et son événement futuriste le Festival Connect 2025,,actualités,https://go.sudouest-publicite.com/e/433602/ivity-7389708943968595968-zfDE/b5zhdz/1827215450/h/15wg6FXUN0l6X4dEcUOvNvpYuV89iTRBoGT_p835opM
+26,Grand Angle et son documentaire Neo Terra pour la région Nouvelle-Aquitaine,,actualités,https://go.sudouest-publicite.com/e/433602/ivity-7266765480399441920-GW-0/b5zhf3/1827215450/h/15wg6FXUN0l6X4dEcUOvNvpYuV89iTRBoGT_p835opM
+27,,"DIGIVISION est parti à la rencontre de celles et ceux qui font vivre l’économie sociale et solidaire en Nouvelle-Aquitaine pour réaliser 9 épisodes d'une websérie “Main dans la Main”, qu'on a promu en post méta co-brandé avec Sud Ouest.
+
+Commerciale Camille Mathon",success story,
+28,Lancement des soirées Néo-Aquitains 2025-2026,"Les traditionnelles soirées des Prix de l'économie Néo-Aquitains ont démarré avec une première soirée dans le Lot et Garonne le 4 novembre.
+
+Près de 300 dirigeants et acteurs économiques étaient présents pour découvrir les lauréats départementaux.",,https://go.sudouest-publicite.com/e/433602/vity-7391821974454321152-pMSw-/b5zhfl/1827215450/h/15wg6FXUN0l6X4dEcUOvNvpYuV89iTRBoGT_p835opM
+29,"Estelle Lassalle, commerciale à Bergerac","Je suis Estelle et je suis arrivée il y a pile 1 an dans la superbe région de Dordogne pour changer de vie ! 
+J'ai quitté la région parisienne et mon travail de professeur des écoles pour reprendre une formation de com événementiel sur Périgueux sans connaître personne et aujourd'hui, comme dirait Piaf ""Je ne regrette rien !"". 
+J'ai intégré l'entreprise en août dernier en tant que commerciale publicité, nouveau chapitre de ma vie !
+
+Quelles sont tes missions actuelles ? Mes missions sont déjà de réussir à intégrer les 3 564 produits de SOP 🤪
+et de reconquérir le Bergeracois pour implanter le drapeau SUD-OUEST ⛳ !
+
+Quelle est ton actualité du moment ? Mon actualité du moment ? J'attends avec impatience la sortie de la saison 5 de Stranger Things !!
+
+Quel est ton péché mignon ?
+Les religieuses au café du boulanger !
+",portrait,
+30,Les Campus SEA et bilan,Tout savoir sur le SEA et les bilans pour être à l'aise face aux clients.,marketing,https://go.sudouest-publicite.com/e/433602/GwBLP4sZv6c7DzXdFHOVkaZWQapmDQ/b5zhfp/1827215450/h/15wg6FXUN0l6X4dEcUOvNvpYuV89iTRBoGT_p835opM
+31,Challenge Local Booster,"Le Challenge Local Booster courre toujours jusqu'au 15/12, à vos ventes !",marketing,https://go.sudouest-publicite.com/e/433602/Y8poe5IttitEw-edit-usp-sharing/b5zhfs/1827215450/h/15wg6FXUN0l6X4dEcUOvNvpYuV89iTRBoGT_p835opM
+32,Participez au mois des Gentlemen,Venez échanger sur la santé au masculin et profitez de la présence d'un barbier professionnel pour faire couper ou entretenir votre moustache le 25/11,rendez-vous,https://go.sudouest-publicite.com/e/433602/faites-pousser-votre-moustache/b5zhfw/1827215450/h/15wg6FXUN0l6X4dEcUOvNvpYuV89iTRBoGT_p835opM
+33,"Atelier ""Mieux réguler ses émotions"" le 18/11","Un moment expérientiel, nourri d’outils concrets à réutiliser au quotidien pour prendre soin de sa santé mentale !",rendez-vous,https://go.sudouest-publicite.com/e/433602/telier-rC3A9guler-ses-emotions/b5zhfz/1827215450/h/15wg6FXUN0l6X4dEcUOvNvpYuV89iTRBoGT_p835opM
+34,Découvrez la première vidéo corporate Groupe Sud Ouest,"Car oui, c'est une première !
+
+La vidéo corporate du Groupe Sud Ouest réalisée par Digivision en collaboration avec le service communication a été dévoilée lors de la journée portes ouvertes.
+
+A la fois nostalgique, dynamique, esthétique et symbolique, elle montre la pluralité des marques du Groupe et surtout la diversité et la complémentarité des métiers et activités qui en font notre richesse.
+
+L'objectif de cette réalisation est de : 
+
+valoriser la diversité des activités du groupe
+témoigner de nos expertises croisées
+renforcer l'image de GSO en tant qu""acteur régional de proximité",gso,https://go.sudouest-publicite.com/e/433602/watch-v-joDMaYvihCQ/b5y5py/1814580964/h/7b_owQX4Q2ne3LkMzvvtMhiorFCYeMGFzSYsRQR2HQw
+35,Point important concernant le CRM et les envois emailing,"Lorsque nous effectuons un ciblage pour un envoi d’emailing, nous nous appuyons principalement sur la notion de contact principal.
+
+ Cela permet d’éviter l’envoi d’informations commerciales à des contacts qui ne sont pas directement concernés.
+
+ 
+Afin d’assurer un meilleur ciblage, nous vous invitons à vérifier les informations de votre interlocuteur principal dans la fiche contact : 
+
+Nom, Prénom, Adresse e-mail, Service et Fonction, 
+
+et à cocher la case “Conta",actualités,
+36,"Soutenir l'appel à projet de l""Agglo de Rochefort","L'Agglo de Rochefort a remporté un appel à projet européen pour la création et le développement de starts up en zone rurale pour favoriser l'industrie durable.
+
+Objectif  : alerter les porteurs de projets sur la Nouvelle-Aquitaine du dispositif
+
+Propal : un dispositif multicanal rapide
+publi reportage toutes éditions dans SO Eco
+publi web Placéco Gironde
+bandeaux de Une Eco & Entreprises
+campagne Linkedin
+Résultat : la variété de support est cohérente, on leur fait la créa et ils signent un dispositif à 20k€",success story,
+37,Projet audiovisuel Ubisoft ,"Encore un beau projet audiovisuel issu d'une collaboration entre Digivision et SOP pour Ubisoft Bordeaux, qui met en valeur les métiers impliqués à chaque projet avec humour.
+
+Commerciale Camille Mathon",success story,https://go.sudouest-publicite.com/e/433602/GwBLP4sZv6c7DzXdFHOVkaZWQapmDQ/b5y5q5/1814580964/h/7b_owQX4Q2ne3LkMzvvtMhiorFCYeMGFzSYsRQR2HQw
+38,,"Une deuxième vidéo aftermovie réalisée pour Ubisoft diffusée uniquement au sein de l""entreprise.",success story,https://go.sudouest-publicite.com/e/433602/1SjcNiCNYS1ja-view-usp-sharing/b5y5q8/1814580964/h/7b_owQX4Q2ne3LkMzvvtMhiorFCYeMGFzSYsRQR2HQw
+39,EPA Bordeaux Euratlantique,"L'Agence Eliette remporte l'appel d'offre avec l'EPA Bordeaux Auratlantique sur de l'accompagnement social media. 
+Un projet à suivre de près !
+
+Bravo Olivia Afanou, Margot Baraton, Diane Guibourt et Camille Mathon pour ce travail d""équipe !","success story, agence eliette",
+40,Résolution Charente-Maritime,"La 2e édition rochelaise de la journée des solutions RSE a fait salle comble, le 1er octobre dernier, à l""espace Encan avec 400 visiteurs, 5 grands partenaires, 5",success story,https://go.sudouest-publicite.com/e/433602/mble-en-charente-maritime-8682/b5y5qc/1814580964/h/7b_owQX4Q2ne3LkMzvvtMhiorFCYeMGFzSYsRQR2HQw
+41,Nouvelle vague ONE NEXT 2025 S2,"La nouvelle vague d'audiences print de l'ACPM sort ce jour, n""hésitez pas à relayer ces audiences print pour Sud Ouest et les Journaux du Sud Ouest sur Linkedin.",,https://go.sudouest-publicite.com/e/433602/GZHCbfWGdTd2w-edit-usp-sharing/b5y5qg/1814580964/h/7b_owQX4Q2ne3LkMzvvtMhiorFCYeMGFzSYsRQR2HQw
+42,Outils marketing,"Julie, Maguy et Diane vous présentent les Book des temps forts de communication Tome 1 média et Tome 2 conseil",campus,https://go.sudouest-publicite.com/e/433602/fFy1fZx9MWDAXul-usp-drive-link/b5y5qk/1814580964/h/7b_owQX4Q2ne3LkMzvvtMhiorFCYeMGFzSYsRQR2HQw
+43,Webinaire 30 minutes,Jean-Marie et Alexandre animent un webinaire sur le duo Influence + Social Ads pour booster les ventes. ,campus,https://go.sudouest-publicite.com/e/433602/oster-vos-ventes-de-fin-dannee/b5y5qn/1814580964/h/7b_owQX4Q2ne3LkMzvvtMhiorFCYeMGFzSYsRQR2HQw
+44,Retour sur la conférence Elyse Energy,Une conférence Sud Ouest et Elyse Energy le 12 octobre qui a été une vraie réussite !,évènements,https://go.sudouest-publicite.com/e/433602/GwBLP4sZv6c7DzXdFHOVkaZWQapmDQ/b5y5qr/1814580964/h/7b_owQX4Q2ne3LkMzvvtMhiorFCYeMGFzSYsRQR2HQw
+45,Visio conférence sur la santé mentale des jeunes,"Une visio-conférence avec l'ARS Nouvelle-Aquitaine sur un enjeu majeur, diffusée le 14/10 sur les canaux Sud Ouest.",évènements,https://go.sudouest-publicite.com/e/433602/ent-preoccupantes-26323704-php/b5y5qv/1814580964/h/7b_owQX4Q2ne3LkMzvvtMhiorFCYeMGFzSYsRQR2HQw
+46,Retour sur la visite du NCI le 02/10 avec des clients,"Une visite privée du centre d'impression avec une cinquantaine de clients.
+
+Merci aux équipes d'avoir joué le jeu et d""avoir partagé ce moment",évènements,https://go.sudouest-publicite.com/e/433602/nliactivity7380888709300133888/b5y5r2/1814580964/h/7b_owQX4Q2ne3LkMzvvtMhiorFCYeMGFzSYsRQR2HQw
+47,Retour sur la croisière avec Les Bateaux Bordelais le 06/10,"Une soirée exceptionnelle à bord du Sicambre pour un moment convivial avec nos clients.
+Bravo à l'équipe Gironde pour l""organisation !",évènements,https://go.sudouest-publicite.com/e/433602/GwBLP4sZv6c7DzXdFHOVkaZWQapmDQ/b5y5r5/1814580964/h/7b_owQX4Q2ne3LkMzvvtMhiorFCYeMGFzSYsRQR2HQw
+48,La nouvelle gouvernance du Groupe Sud Ouest,"A la suite du départ de Nicolas Sterckx, Olivier Cotinat a été nommé président-directeur général et Christophe Galichon, directeur général délégué du groupe et directeur général de « Sud Ouest »",gso,https://go.sudouest-publicite.com/e/433602/-groupe-sud-ouest-25681295-php/b5wztd/1802011247/h/PolyT999AySQSyYJ8KsewHCOI-n5WPJS7ROHL8B4JJU
+49,"Septembre est synonyme de nouvelles énergies, et cette année ne fait pas exception ! ","Notre rentrée est déjà rythmée par de belles opportunités d'échanger et de construire avec nos clients avec plusieurs événements qui s'organisent au sein du Groupe Sud Ouest.
+
+A venir :
+
+Visite exclusive du Centre d'impression pour nos clients le 2 octobre. 
+Proposez à vos clients l'expérience unique d'une visite exclusive de notre Centre d'impression pour un groupe de 50 invités. C'est le moment idéal pour valoriser nos produits print et leur montrer nos engagements RSE. Un kit de com' est disponible pour inviter vos annonceurs.",actualités,https://go.sudouest-publicite.com/e/433602/sa6hVY3dKMP1k-edit-usp-sharing/b5wzth/1802011247/h/PolyT999AySQSyYJ8KsewHCOI-n5WPJS7ROHL8B4JJU
+50,Croisière sur la Garonne avec nos clients le 6 octobre.,"Une croisière en collaboration avec Les Bateaux Bordelais organisée pour 150 personnes. Un afterwork sous le signe de la convivialité pour remercier et fidéliser.
+Un kit de communication est disponible pour cet événement. (kit de comm à venir)",actualités,https://go.sudouest-publicite.com/e/433602/GQIqzezRcLAgA-edit-usp-sharing/b5wztl/1802011247/h/PolyT999AySQSyYJ8KsewHCOI-n5WPJS7ROHL8B4JJU
+51,La Journée Portes Ouvertes du Groupe Sud Ouest le 4 octobre,"Cet événement, qui affiche déjà complet, est une formidable occasion de valoriser notre savoir-faire. Participez à cette journée, nous recherchons toujours des bénévoles pour l'accueil du public, contactez Carole Villeneuve !
+
+On compte sur vous pour utiliser des outils de communication afin de faire de ces moments des succès et de faire briller nos valeurs !",actualités,
+52,Hors Série Raffut x Charente Libre,"Un beau Hors série co-brandé Raffut- Charente Libre pour fêter les 15 ans du SA XV et la belle année 2024-2025.
+
+64 pages 100% SA XV  
+2 500 exemplaires dont 440 ex. acheté par le SA XV et le reste vente en kiosque 
+
+Une belle opé collective de l'équipe SOP de la Charente et de Diane Destombes 
+💰Budget : 15k€ ",success story,
+53,Supplément ouverture de chasse,"Beau succès pour une première : le supplément ouverture de la chasse, piloté par l'agence de développement avec des sujets généraux et zooms sur chaque département à découvrir le 12/09.
+
+Des fédérations qui nous ont suivi partout, des magasins spécialisés, ainsi que des concessions autos. ","supplément, success story",
+54,Les Formidables Charente-Maritime,"Le 29 août, au centre des congrès de Jonzac, plus de 250 personnes se sont données rendez-vous pour une soirée ""Formidable"". 
+
+Organisé par la rédaction de Sud Ouest, cet événement a mis à l’honneur celles et ceux qui font rayonner la Charente-Maritime par leur passion, leur engagement, leur audace … et leur humanité. 
+
+💰 Le succès est au rendez-vous aussi pour la régie sop et plus particulièrement le département 17 qui réalise 43 K€ de CA sur cette opération. ",success story,
+55,Lancement du supplément Bien-Être & Santé,"Un supplément mensuel dédié au bien-être quotidien et à la santé préventive. 
+📅 chaque 3e mardi du mois à partir du 23 septembre et sur sudouest.fr
+
+🖊️Un contenu pédagogique, pratique et optimiste, avec un fort ancrage local. Des thématiques variées : le corps, l'esprit, l'alimentation, l'environnement
+👥Des experts de la région",marketing,
+56,Nouveauté avec le 1er salon des Séniors de la Charente,"Toujours en commercialisation le Salon des SENIORS en Charente 
+💰 CA : 99k€ de signé à date
+
+Avec 43 stands on vise les 50 stands et on croise les doigts pour aller chercher 105k€",évènements,
+57,Lancement des Prix de l'économie,"La délibération du jury le 28/08 a marqué le lancement des Prix Néo-Aquitains 
+Les lauréats sur les 5 départements couverts par Sud Ouest pour les prix sont connus
+
+La 1ère soirée qui lance cette nouvelle édition sera à Agen le 04/11",évènements,https://go.sudouest-publicite.com/e/433602/ry-s-est-prononce-25721363-php/b5wztz/1802011247/h/PolyT999AySQSyYJ8KsewHCOI-n5WPJS7ROHL8B4JJU
+58,Team building ,dans l'Albret à Nérac pour l'équipe Lot & Garonne avec une croisière déjeuner sur la Baïse,,
+59,C'est la rentrée pour IZI,"C'est reparti avec le groupe de la rentrée qui débutait son parcours IZI les 25 et 26 août :
+
+Audrey Brouage, Laurent Durand, Margaux Laly, Margaux Gernolle, Estelle Lassalle, Ennio Cabri, Diane Destombes, Karim Medraoui et Léo Brossier",,
+60,Les équipes se renforcent,"Laurent Durand rejoint l'équipe désormais complète de la Charente-Maritime sur le secteur sud (découvrez son portrait ci-dessous) et Leo Brossier à l'agence de La Rochelle.
+
+Estelle Lassalle est arrivée mi-août à Bergerac pour compléter l'équipe de Dordogne.
+
+ 
+Ennio Cabri en alternance Tech de Co pour 1 an à l'agence d'Angoulême, plusieurs missions pour lui en renfort de l'équipe du salon de l'immobilier avec Nina et un travail de fond sur l'emploi en Charente.
+
+Bienvenue et bonne rentrée à tous !",,
+61,"Laurent Durand,
+commercial Royan Saintes Jonzac","Peux-tu te présenter ?
+Professionnel des médias avec 25 ans d’expérience, je me suis spécialisé dans les régies publicitaires, en développant une expertise dans des environnements variés : Presse Quotidienne Régionale, Radio, Télévision locale et affichage extérieur OOH & DooH.
+Tout au long de mon parcours, j’ai su conjuguer rigueur, sens des responsabilités, engagement fort auprès de mes clients et partenaires, et un dynamisme constant au service de la performance.
+Doté d’une vision stratégique et opérationnelle, j’ai accompagné des marques locales et nationales dans la mise en œuvre de dispositifs média impactants, toujours avec l’exigence de résultats et une grande adaptabilité face aux mutations du marché.
+
+Quelles sont tes missions actuelles ?Actuellement au sein de SOP, j’assure la gestion et le développement de la région Sud de la Charente-Maritime, en pilotant les agences de Saintes et Royan. Mon rôle consiste à activer des plans de communication 360° à destination des TPE, PME et ETI, en mobilisant l’ensemble des leviers :
+
+ 
+Médias : print, digital, réseaux sociaux, DOOH et vidéo
+Création de contenus originaux
+Organisation d’événements
+Conseil et accompagnement stratégique auprès des dirigeants et décideurs
+J’interviens sur un périmètre géographique comprenant :
+
+La Communauté d’Agglomération Royan Atlantique
+Saintes Grandes Rives, l’Agglo
+Jonzac et la Communauté de Communes de la Haute-Saintonge
+Enfin, je suis également actif en relations publiques, afin de renforcer la proximité avec les acteurs économiques et institutionnels du territoire.
+
+Quelle est ton actualité du moment ? 
+Mon actualité du moment est d’abord de prendre mes marques sur mon secteur, en allant à la rencontre des acteurs locaux et en me présentant à l’ensemble de mon portefeuille clients et prospects. L’objectif est de poser les bases d’une relation de confiance solide, afin de préparer dès maintenant le développement du chiffre d’affaires à horizon 2026, dans les meilleures conditions et de manière sereine.
+
+Quel est ton péché mignon ? 
+Mon péché mignon ? Les sushis… alors si vous voulez être sûr d’avoir mon attention, inutile de m’envoyer un mail, proposez-moi plutôt un plateau ! ",portrait,
+62,,Sud Ouest est partenaire des Férias d'Agen édition 2025,,https://go.sudouest-publicite.com/e/433602/nliactivity7369278129569161217/b5wzv9/1802011247/h/PolyT999AySQSyYJ8KsewHCOI-n5WPJS7ROHL8B4JJU
+63,,l'Agence Eliette démarre la rentrée avec les photos de classe !,agence eliette,https://go.sudouest-publicite.com/e/433602/GwBLP4sZv6c7DzXdFHOVkaZWQapmDQ/b5wzvd/1802011247/h/PolyT999AySQSyYJ8KsewHCOI-n5WPJS7ROHL8B4JJU
+64,Devenez bénévole aux Portes Ouvertes du siège le 4 octobre !,"Après le succès de l'année précédente, le siège du Groupe ouvre à nouveau ses portes au public le samedi 4 octobre. 
+
+Nous espérons battre le record des 1000 visiteurs !
+
+ 
+Le pôle communication cherche des collaborateurs bénévoles pour faire de cet événement un nouveau succès.
+
+A l'accueil ou en visite, sur l'après-midi ou toute la journée, toute aide est la bienvenue !",actualités,https://go.sudouest-publicite.com/e/433602/s7Byxl-KZfzsbSnV5iKMQ-viewform/b5vrs5/1786564612/h/koS3oWFDZvBYh2eamSvdYceS4187YgNhRvvURVeIHow
+65,TV7 et Digivision pour la Bordelaise de Literie,"Une vidéo pour La Bordelaise de Literie, produite par les équipes de Digivision et diffusée sur la chaîne locale TV7.",success story,https://go.sudouest-publicite.com/e/433602/GwBLP4sZv6c7DzXdFHOVkaZWQapmDQ/b5vrsc/1786564612/h/koS3oWFDZvBYh2eamSvdYceS4187YgNhRvvURVeIHow
+66,La Météo des Forêts,"Sur une initiative de la rédaction, du 12 au 24 juillet le carré météo devient ""la météo des forets""
+
+Un sponsoring Groupama forêts assureur et Petits fils grâce à Mikael Mallie et Alexandra Michelet",success story,
+67,Sunêlia x Influences Locales,"Un projet audacieux de l'Agence Eliette pour Sunêlia, réseau européen de campings
+
+Une collaboration entre l'équipe commerciale et la Brand Factory, qui a mené à la création de la chanson de l'été.
+
+Bravo à toute l'équipe projet pour ce projet innovant !","success story, agence eliette, influences locales",https://go.sudouest-publicite.com/e/433602/GwBLP4sZv6c7DzXdFHOVkaZWQapmDQ/b5vrsg/1786564612/h/koS3oWFDZvBYh2eamSvdYceS4187YgNhRvvURVeIHow
+68,Une offre spéciale pour les premiers numéros du Cahier Eco de septembre,"Pour accompagner nos annonceurs dans une rentrée à fort impact, l'offre booster éco & entreprises est prolongée pour tout le mois de septembre.
+
+Détail de l’offre :
+
+4 éditions concernées : 4,11, 18 et 25 septembre
+1 pack visibilité acheté = 1 pack visibilité offert
+Amplification digitale géolocalisée : 1000 clics garantis (activation septembre) sur un bouquet de sites des catégories actualités, informations et actualités financières, BtoB",offres,
+69,Saisie Advendio,"Utilisez l’offre ""Éco & Entreprises classique"", en appliquant la remise uniquement sur les dates du 4, 11, 18 et 25 septembre
+
+Pour les 1000 clics digitaux, utilisez l’offre ""Local Vista Entreprises"".",offres,
+70,Dossier Mobilité durable,Un supplément de 12 pages diffusé le 17 septembre avec les quotidiens,supplément,https://go.sudouest-publicite.com/e/433602/RBoH2ALcXqx1Q-edit-usp-sharing/b5vrsk/1786564612/h/koS3oWFDZvBYh2eamSvdYceS4187YgNhRvvURVeIHow
+71,Supplément Bien Vieillir,Le supplément annuel intégré au Sud Ouest Week-End et avec Charente Libre le 4 octobre,,https://go.sudouest-publicite.com/e/433602/ZPrhCmLH6s7l0-edit-usp-sharing/b5vrsn/1786564612/h/koS3oWFDZvBYh2eamSvdYceS4187YgNhRvvURVeIHow
+72,Cahier Santé et Bien Être,"Le nouveau rendez-vous mensuel bien être & santé à découvrir dès le 23/09 avec Sud Ouest, sur le modèle de Eco & Entreprises.
+
+Une opportunité pour nos annonceurs de bénéficier d'une forte visibilité auprès d'une audience engagée et affinitaire.
+
+L'offre de lancement : pour 2 numéros achetés, le 3ème est offert, soit 33% de remise par numéro",,https://go.sudouest-publicite.com/e/433602/P-tETFq2YVRJE-edit-usp-sharing/b5vrsv/1786564612/h/koS3oWFDZvBYh2eamSvdYceS4187YgNhRvvURVeIHow
+73,,L'équipe Sud Ouest présente au tournoi partenaires du Beach Rugby organisé par Raffut,,
+74,,"Découvrez l'aftermovie de Garorock 2025, produit par Digivision",garorock,https://go.sudouest-publicite.com/e/433602/GwBLP4sZv6c7DzXdFHOVkaZWQapmDQ/b5vrt2/1786564612/h/koS3oWFDZvBYh2eamSvdYceS4187YgNhRvvURVeIHow
+75,,Isabelle DOUSSET décrypte la quête de l'insight,,https://go.sudouest-publicite.com/e/433602/GwBLP4sZv6c7DzXdFHOVkaZWQapmDQ/b5vrt5/1786564612/h/koS3oWFDZvBYh2eamSvdYceS4187YgNhRvvURVeIHow
+76,Géofencing : nouveauté en test avec Bordeaux Métropole,"Avez-vous déjà entendu parler de GEOFENCING ?
+
+Il s'agit d'une fonctionnalité innovante qui établit un zonage géographique et permet de cibler toute personne qui y entre. (un peu comme sur Deliveroo ou Uber Eat).
+
+Cette fonctionnalité proposée par Sud Ouest est actuellement en test dans le cadre d'un partenariat avec Bordeaux Métropole pendant les travaux estivaux autour des tramways.
+
+ 
+ 
+Le principe ?
+
+proposer un accès gratuit à l'édition numérique de Sud Ouest pendant 2h sans abonnement ni connexion
+un dispositif mis en place aux abords de 17 stations de tram
+rendre l'actualité plus accessible à tous les usagers",actualités,https://go.sudouest-publicite.com/e/433602/ndant-deux-heures-24934408-php/b5tts3/1776716435/h/FR8subKMWvKFA0aBSOkiDz-uuH8gQjFVlY55SIzXwcE
+77,Retour en images sur l'afterwork chez Aroma-Zone,"L'équipe Gironde a proposé à une centaine d'annonceurs un afterwork sur le format ""Late Night Shopping"" à la boutique Aroma-Zone de Bordeaux avec de nombreuses surprises.
+
+ 
+Une soirée conviviale sur le thème du bien-être et un retour très positif de la part de nos clients présents.
+
+Bravo à toute l'équipe pour cette jolie opération !",actualités,https://go.sudouest-publicite.com/e/433602/GwBLP4sZv6c7DzXdFHOVkaZWQapmDQ/b5tts6/1776716435/h/FR8subKMWvKFA0aBSOkiDz-uuH8gQjFVlY55SIzXwcE
+78,Des formats Native pour une clinique vétérinaire,"A Pau, 2 sociétés se font la guerre au sujet des urgences et Virginie Bertheau a profité de cette motivation pour vendre le triptyque grand angle + publi web et publi boost.",success story,
+79,Opérations Petits Fils sur la région PACA,"3 x 36 opérations de STREET MARKETING, blister et impression pour les agences PETITS FILS PACA.
+
+L'ambition est de continuer à remonter les autres régions !
+
+Budget 130k€ sur cette région
+Equipe commerciale Arcachon",success story,
+80,On questionne nos clients sur les prochaines rencontres,"Rendez-vous focus, webinaires, petits déjeuners, afterwork... ces derniers mois nous avons proposé divers événements à nos annonceurs.
+
+Un questionnaire va être envoyé à nos clients PME et GE afin de récolter leur avis sur les prochaines rencontres organisées par Sud Ouest Publicité et l'Agence Eliette.
+
+ 
+quel format correspond le mieux à leur besoin
+quel créneau horaire est le plus adapté à leur emploi du temps
+quelles thématiques sont prioritaires pour leurs stratégies
+L'objectif de cette opération est de leur proposer des rendez-vous toujours plus pertinents, utiles et proches de leurs enjeux.",,
+81,,Un bel exemple de collaboration inter-services pub-rédac-communication pour la conférence Santé 47,,https://go.sudouest-publicite.com/e/433602/GwBLP4sZv6c7DzXdFHOVkaZWQapmDQ/b5tts9/1776716435/h/FR8subKMWvKFA0aBSOkiDz-uuH8gQjFVlY55SIzXwcE
+82,,Retour sur le petit déjeuner de présentation de l'étude Françaises Français etc. 7e édition au CAPC,,https://go.sudouest-publicite.com/e/433602/GwBLP4sZv6c7DzXdFHOVkaZWQapmDQ/b5ttsd/1776716435/h/FR8subKMWvKFA0aBSOkiDz-uuH8gQjFVlY55SIzXwcE
+83,Evolution du produit SO Week End,"Depuis plusieurs mois, il y a des réflexions autour du produit SO Week End. 
+Le constat :
+
+80% du CA pub est généré par la Gironde et le Sud
+
+A 95% nous sommes en pratique sur 2 éditions et non sur 5 éditions
+
+Certains numéros sont remplis d'auto promos
+
+Ce qui fonctionne ce sont les numéros spéciaux : Thermalisme, Euskadi, Pêche, Sénior, Immobilier...
+
+Il a donc été décidé de :
+
+Garder SO Week End en second tas le samedi avec possibilité suivant le volume pub d'être à 28 ou 32 pages (hors numéros spéciaux)
+Passer à 2 éditions en terme de publicité : Edition Sud 40+64 et Edition Gironde/Centre/Charente Maritime
+ 
+ 
+Le service marketing travaille en ce sens pour les tarifs et la politique commerciale dédiée tout en intégrant une offre Week End qui couple SO WE + SOD.
+
+En parallèle nous travaillons sur un nouveau segment éditorial avec un format pub innovant dans SO WE sur de la déco, tendances, ameublement, jardinage , plancha ...
+Toutes les idées de contenus qui permettent de séduire de nouveaux marchés pubs et annonceurs sont les bienvenues.",,https://go.sudouest-publicite.com/e/433602/1yY5g-3BNacxU-edit-usp-sharing/b5st55/1764831940/h/pUtj_7ZyTdZvggVkKBHU9dcxW_A1pebPs_mNX2_Zt2M
+84,Offre Local Booster,Une nouvelle offre à la performance avec notre partenaire Localvista pour des campagnes digitales diffusées sur nos sites et sur le bouquet de sites du partenaire.,offres,https://go.sudouest-publicite.com/e/433602/VxwttUUkF0nuH-view-usp-sharing/b5st58/1764831940/h/pUtj_7ZyTdZvggVkKBHU9dcxW_A1pebPs_mNX2_Zt2M
+85,Offres estivales,"Du 21 juin au 24 aût, des offres commerciales attractives sur le weekend, le print, le digital, One day ou encore TV7.
+De quoi booster la communication saisonnière de vos annonceurs.",offres,https://go.sudouest-publicite.com/e/433602/7q747MM1ycsA4-edit-usp-sharing/b5st5c/1764831940/h/pUtj_7ZyTdZvggVkKBHU9dcxW_A1pebPs_mNX2_Zt2M
+86,Plusieurs suppléments pour accompagner l'UBB,"Un supplément demi finale, un supplément finale et un hors série sur le parcours de l'équipe.
+
+Caisse d'Epargne Aquitaine Poitou-Charentes, Mairie de Bordeaux, Chambre des Notaires de la Gironde, Martin Sols, SUZUKI BORDEAUX, Écouter Voir, Voltalis, CACOLAC, CEVA SANTE ANIMALE, Mutuelle Ociane Matmut, GILBERT...
+
+Pour un CA global de 60k€
+
+Une jolie réussite collective !",success story,
+87,Edition 2025 du salon Résolution,"1500 visiteurs, 77 exposants, 80 intervenants experts, une journée pleine de rencontres pour accélérer la transformation des modèles d'affaires (thème phare de cette 3e édition de Résolution Gironde).
+
+L'événement est également une réussite commerciale avec des objectifs financiers largement atteints.
+
+Le fruit d'une belle coopération inter-filiale GSO avec le concours de SOP, Sud Ouest, Côte Ouest, Le Studio, sous le patronage de Placéco.",,https://go.sudouest-publicite.com/e/433602/GwBLP4sZv6c7DzXdFHOVkaZWQapmDQ/b5st5g/1764831940/h/pUtj_7ZyTdZvggVkKBHU9dcxW_A1pebPs_mNX2_Zt2M
+88,Placéco publie sa charte RSE,"Un travail réalisé par les 18 salariés, accompagnés de Delphine Jacque Vaucamp",placéco,https://go.sudouest-publicite.com/e/433602/nouvelle-aquitaine-charte-rse/b5st5k/1764831940/h/pUtj_7ZyTdZvggVkKBHU9dcxW_A1pebPs_mNX2_Zt2M
+89,"Audrey Brouage, commerciale à La Rochelle","J'ai 42 ans et je suis maman de deux garçons de 14 et 10 ans. J'ai eu la chance de vivre plusieurs années dans les Dom-Tom ainsi que sur la Côte d'Azur avant de m'installer à La Rochelle en septembre dernier. 
+
+ 
+Après avoir été expert produit automobile chez Renault, je suis sophrologue depuis sept ans et occupe désormais le poste d'attachée commerciale chez Sud Ouest Publicité.
+
+Mes nouvelles missions consistent à trouver des idées créatives et les supports de communication les plus adaptés, qui vont résonner avec les objectifs de mes clients.
+
+Je suis actuellement très investie dans la prise en main de mon nouveau métier, c'est très stimulant. 
+
+Enfin pour mon péché mignon: J'ai une passion pour le chocolat ... parmi tant d'autres 😊",portrait,
+90,Soyons vigilants sur la diffusion de nos contenus et suppléments,Attention lorsque vous envoyez le PDF d'un supplément en justificatif à un client à bien leur préciser de ne pas diffuser gratuitement les suppléments. Exemple avec ce post sur Linkedin qui renvoi vers un lien avec notre supplément (payant) à télécharger gratuitement.,,https://go.sudouest-publicite.com/e/433602/GwBLP4sZv6c7DzXdFHOVkaZWQapmDQ/b5st5r/1764831940/h/pUtj_7ZyTdZvggVkKBHU9dcxW_A1pebPs_mNX2_Zt2M
+91,,"Quand nos clients surfent sur les programmes tendances, ça donne une jolie production Digivision",,https://go.sudouest-publicite.com/e/433602/GwBLP4sZv6c7DzXdFHOVkaZWQapmDQ/b5st5v/1764831940/h/pUtj_7ZyTdZvggVkKBHU9dcxW_A1pebPs_mNX2_Zt2M
+92,,"La transition écologique n’est plus une option, c’est un impératif.",,https://go.sudouest-publicite.com/e/433602/GwBLP4sZv6c7DzXdFHOVkaZWQapmDQ/b5st62/1764831940/h/pUtj_7ZyTdZvggVkKBHU9dcxW_A1pebPs_mNX2_Zt2M
+93,"Découvrez la nouvelle campagne de notoriété ""Connectés aux territoires""","Sud Ouest Publicité souhaite réaffirmer sa puissance locale et ses expertises de publicité à travers la campagne Connectés aux territoires.
+
+Le concept : illustrer nos médias et nos activités tout en montrant la synergie avec les filiales. 
+
+Le fil conducteur est séquencé en 3 parties : proximité et ancrage local, la force de nos médias, expertises et compétences métiers.
+
+Aussi, un plan média est mis en place pour relayer cette campagne sur divers canaux pour une visibilité maximale (on et offline). 
+
+Notre ambition est de toucher l'ensemble des cadres et décideurs de la Nouvelle-Aquitaine 
+
+Cette campagne s'illustre à travers deux contenus : 
+
+Une vidéo corporate dynamique réalisée par Digivision
+Une nouvelle plaquette régie retravaillée et un pitch storytellé en version courte ou version complète. (disponible dans la Market Place)
+La communication met à votre disposition un kit de communication complet pour que vous soyez chacun, acteurs de cette campagne ",actualités,https://go.sudouest-publicite.com/e/433602/zvq0T-zKfF8tA-edit-usp-sharing/b5r8dv/1745758240/h/hxxnY1yRpYFL_wtAfE4JblSC2K1kqnXoQoPkE0mvnQk
+94,Projet local : évolution de la DER Sud Ouest,"Une nouvelle offre éditoriale et publicitaire est lancée depuis le 31 mars.
+
+Nouveauté éditoriale
+
+un contenu éditorial en DER : la DER est désormais consacrée à un contenu rédactionnel positif du lundi au samedi et sera commune à toutes les éditions Sud Ouest,
+le site évolue avec des pages locales enrichies et de l'info géolocalisée. Première étape avec La Rochelle déjà en ligne et bien d'autres à venir
+ 
+
+Nouvelle opportunité publicitaire : un format unique de Formule DER départementale
+
+La page Météo et le carré météo sont déplacés en 3ème de couverture.
+
+A noter qu'il n'y a aucun changement pour PP, CL et DL",actualités,https://go.sudouest-publicite.com/e/433602/3k-V7rNd73QI4-edit-usp-sharing/b5r8dy/1745758240/h/hxxnY1yRpYFL_wtAfE4JblSC2K1kqnXoQoPkE0mvnQk
+95,Agglomération Agen avec la Technopole,Création d'un podcast Eco avec son visuel et un mini documentaire pour présenter la nouvelle pépinière d'entreprise de l'agglomération agenaise.,success story,https://go.sudouest-publicite.com/e/433602/GwBLP4sZv6c7DzXdFHOVkaZWQapmDQ/b5r8f2/1745758240/h/hxxnY1yRpYFL_wtAfE4JblSC2K1kqnXoQoPkE0mvnQk
+96,Benoît Audition x Digivision,"Pour Benoît Audition, expert en confort auditif, deux publicités pensées pour la télévision segmentée. 
+
+Le premier spot met en scène un chef cuisinier qui orchestre chaque étape de préparation et de cuisson en s’appuyant sur les sons de sa cuisine, transformant son audition en véritable atout de précision.
+
+Le second spot adopte le point de vue des clients : une cliente, attentive aux bruits de la cuisine, devine que son plat est prêt, soulignant ainsi l’importance des sons dans l’expérience sensorielle.
+
+ Un contenu où le rythme sonore, des mouvements dynamiques et une palette de couleurs vibrantes s’entrelacent pour offrir un rendu aussi esthétique qu’impactant.",success story,https://go.sudouest-publicite.com/e/433602/RYz5HwmeT44dh6mBfUj6V1bbjweA7P/b5r8f5/1745758240/h/hxxnY1yRpYFL_wtAfE4JblSC2K1kqnXoQoPkE0mvnQk
+97,Focus sur le Boost Publi,L'équipe Marketing ajoute au fur et à mesure des réussites de l'offre Boost Publi dans la Market Place.,offres,https://go.sudouest-publicite.com/e/433602/w-vDBWzeMvopOID-usp-drive-link/b5r8fc/1745758240/h/hxxnY1yRpYFL_wtAfE4JblSC2K1kqnXoQoPkE0mvnQk
+98,Focus sur le Boost Publi,"En terme de process, n'oubliez pas la fiche brief pour le trading. Le lien est accessible dans les liens utiles de Sobiz Advendio.",offres,https://go.sudouest-publicite.com/e/433602/2f93j-58062-O5EJ2SOJO86QW80NK2/b5r8fg/1745758240/h/hxxnY1yRpYFL_wtAfE4JblSC2K1kqnXoQoPkE0mvnQk
+99,"Guide Été 2025 , c'est lancé !","Vous retrouvez dans l'opération Sobusiness Guide Été 2025 les contacts ayant ouvert l'email de communication, cliqué sur un lien ou effectué une demande de contacts. (onglet ""cible d'opération""). 
+
+Ce sont des opportunités à saisir pour prioriser vos relances. 
+
+Bonne commercialisation !",offres,https://go.sudouest-publicite.com/e/433602/dgx66ZjwivxUw-edit-usp-sharing/b5r8fv/1745758240/h/hxxnY1yRpYFL_wtAfE4JblSC2K1kqnXoQoPkE0mvnQk
+100,Nouvelle offre exclusive,"Nouvelle offre à découvrir très bientôt ""HoloPub"" : des publicités holographiques projetées en plein ciel, vos clients vont adorer !
+
+ Plus d'informations et le kit média complet seront dévoilés prochainement par l'équipe marketing, restez connectés !",offres,https://go.sudouest-publicite.com/l/433602/2025-04-01/b5r88k/433602/1743518665eJfGOoj1/poisson_d_avril.png
+101,"Cahier Éco & Entreprises, décalages et interruptions 2025","En raison des jeudis fériés de mai, la parution du cahier Éco & Entreprises est décalée au mercredi 30 avril pour le premier et vendredi 9 mai pour le second.
+
+D'autre part, Éco & Entreprises s'interrompra 8 semaines cet été : dernière parution jeudi 3 juillet, reprise jeudi 4 septembre.
+
+Enfin, une interruption de fin d'année : dernière parution de 2025 jeudi 18 décembre, reprise jeudi 8 janvier 2026.
+
+Le tableau des suppléments est mis à jour. Merci d'en tenir compte pour vos prévis éditoriales et pour les réservations éventuelles de 4 pages et cahiers 3 rendues possibles pour la régie et la rédaction sur les jeudis de l'été.",outils,
+102,,Visite du CEVA campus avec des partenaires Sud Ouest et les joueurs UBB,,https://go.sudouest-publicite.com/e/433602/GwBLP4sZv6c7DzXdFHOVkaZWQapmDQ/b5r8fy/1745758240/h/hxxnY1yRpYFL_wtAfE4JblSC2K1kqnXoQoPkE0mvnQk
+103,,Une campagne Sunêlia réalisée par l'Agence Eliette avec des airs d'évasion !,,https://go.sudouest-publicite.com/e/433602/GwBLP4sZv6c7DzXdFHOVkaZWQapmDQ/b5r8g2/1745758240/h/hxxnY1yRpYFL_wtAfE4JblSC2K1kqnXoQoPkE0mvnQk
+104,"Le retour des ""RDV Focus"" avec les experts d'Eliette","Les experts de l'Agence Eliette sont de retour en agence pour prendre le petit déjeuner avec vos clients et prospects !
+
+L'objectif ? Apporter des éléments de compréhension et des conseils pour permettre à vos clients d'améliorer leur stratégie de communication.
+
+Cette année, l'équipe vous propose 4 thèmes :
+
+Contenu avec Jean-Marie : l'IA dans la rédaction de contenu, baguette magique ou bombe à retardement ? On vous explique les risques et on partage nos conseils pour une bonne utilisation.
+Stratégie de marque avec Elida et Isabelle : Comment communiquer sur ses engagements RSE et être crédible ?
+Social média avec Margot : Comment les contenus vidéos transforment l’engagement des marques ?
+Digital avec Elie : SEO & SEA : Comment optimiser l'utilisation de ces leviers ainsi que leur synergie pour accroître la visibilité de votre entreprise ?
+ 
+ 
+Ces RDV Focus sont aussi de parfaits rendez-vous pour faire connaître ces compétences métiers ou convaincre vos prospects. Ceux de l'an dernier, ont abouti sur des prises de contacts et de jolies signatures notamment : 
+
+Stratégie de marque avec Arobase pour un budget de 18 000€
+
+Stratégie de marque et design avec la Fédération des MFR Nouvelle-Aquitaine pour un budget de 8 000€ + 5 600€
+
+Influence marketing avec la Fédération de la chasse Gironde pour 3 000€
+
+Et bien d'autres encore !
+
+ 
+
+Et pourquoi pas vous et votre client ?
+
+L'équipe compte sur vous et votre investissement pour faire connaître ces rendez-vous et inviter vos prospects les plus pertinents.",agence eliette,https://go.sudouest-publicite.com/e/433602/ivity-7296098927143968769-asc0/b5pxsy/1732393486/h/faV9BoQ9H5OT8f6pZPzH0v3H7zEyYF1nFnHe-ZIc574
+105,Dernière soirée de lancement Eco & Entreprises,"La soirée du 6 février à Agen est venue clôturer les soirées dédiées au lancement du cahier Eco & Entreprises.
+
+Un événement qui a réunit une centaine d'invités parmi les entreprises les plus dynamiques du territoire Lot-et-Garonnais.
+
+Bravo à l'équipe du Lot-et-Garonne pour l'organisation de cette soirée qui fut une belle réussite !",actualités,https://go.sudouest-publicite.com/e/433602/et-placeco-a-agen-23162454-php/b5pxt2/1732393486/h/faV9BoQ9H5OT8f6pZPzH0v3H7zEyYF1nFnHe-ZIc574
+106,Kit Communication,"L'équipe communication met à votre disposition un Kit de communication pour diffuser la version numérique du Guide des Séminaires auprès de vos réseaux.
+
+Email personnalisé ou post social, à vous de choisir le canal que vous préférez pour promouvoir cet guide.","outils, offres",https://go.sudouest-publicite.com/e/433602/Ed6HjS1DKor2o-edit-usp-sharing/b5pxt8/1732393486/h/faV9BoQ9H5OT8f6pZPzH0v3H7zEyYF1nFnHe-ZIc574
+107,Retour sur les Prix Néo-Aquitains,"La finale des Prix Neo-Aquitains s'est tenue mardi 11/02 au siège de la Banque Populaire Aquitaine Centre Atlantique. 2 lauréats départementaux parmi les 12 représentants des départements de la région Nouvelle-Aquitaine :
+
+le Groupe Poujoulat des Deux-Sèvres, lauréat du Grand Prix Nouvelle-Aquitaine, fabricant de conduits de cheminée, de sorties de toit en inox et de combustibles,
+Centre Koel, centre esthétique alternatif à la chirurgie en Charente, récompensé par le Prix du Public",évènements,https://go.sudouest-publicite.com/e/433602/eoRIQi7cIe7Bd-view-usp-sharing/b5pxtg/1732393486/h/faV9BoQ9H5OT8f6pZPzH0v3H7zEyYF1nFnHe-ZIc574
+108,La page Événements sur sudouest.fr,"Accessible depuis la homepage, rubrique ""services"" puis ""événements"". Retrouvez :
+
+les événements à venir, Sud Ouest et Groupe avec renvois vers les articles en ligne, landings d'inscription et sites dédiés.
+retour sur événements, avec articles compte-rendu ou posts Linkedin
+replays via les articles compte-rendu avec la vidéo de l'événement",,https://go.sudouest-publicite.com/e/433602/evenements-/b5pxtk/1732393486/h/faV9BoQ9H5OT8f6pZPzH0v3H7zEyYF1nFnHe-ZIc574
+109,La newsletter Sud Ouest Événements,Une newsletter bimensuelle mise en place en septembre 2024 avec déjà 1 252 abonnés !,,https://go.sudouest-publicite.com/e/433602/28-8b7d-4cad-a511-1f8f8b672e8a/b5pxtn/1732393486/h/faV9BoQ9H5OT8f6pZPzH0v3H7zEyYF1nFnHe-ZIc574
+110,La page Linkedin SO Événements,"Une page dédiée qui répertorie les événements Sud Ouest avant, pendant et après l'événement. Une belle vitrine pour nos événements et nos partenaires.
+
+(🚨 pensez à la citer quand vous communiquez sur les événements !)",,https://go.sudouest-publicite.com/e/433602/O9HZC731vUdI4M-edit-slide-id-p/b5pxtr/1732393486/h/faV9BoQ9H5OT8f6pZPzH0v3H7zEyYF1nFnHe-ZIc574
+111,"Résolution 2025, c'est parti !","Les inscriptions pour le 3ème salon Résolution sont ouvertes avec une nouveauté cette année ""les prix Résolution""",placéco,https://go.sudouest-publicite.com/e/433602/ous-donne-rdv-le-10-avril-6972/b5pxtv/1732393486/h/faV9BoQ9H5OT8f6pZPzH0v3H7zEyYF1nFnHe-ZIc574
+112,,Découvrez les coulisses de la dernière pub Grand Angle Corporate pour la Banque des Territoires.,,https://go.sudouest-publicite.com/e/433602/hare-utm-medium-member-desktop/b5pxty/1732393486/h/faV9BoQ9H5OT8f6pZPzH0v3H7zEyYF1nFnHe-ZIc574
+113,,Sud Ouest dans le top 20 des marques numériques à la plus forte croissance en 2024 selon Similarweb,,https://go.sudouest-publicite.com/e/433602/nliactivity7289932451865350145/b5pxv2/1732393486/h/faV9BoQ9H5OT8f6pZPzH0v3H7zEyYF1nFnHe-ZIc574
+114,2025 s’annonce comme une année décisive pour l’Agence Eliette,"Une année de consolidation, d’expansion et d’innovation. Plus que jamais, nous affirmons notre positionnement en tant qu’agence de communication positive et durable.
+
+Pour renforcer notre implantation en Nouvelle-Aquitaine notre maillage commercial est un atout indéniable.
+
+La Média et la Brand Factory jouent un rôle essentiel dans notre stratégie pour répondre aux nouvelles attentes des entreprises. En renforçant nos expertises en contenu, influence et social media, nous visons à créer des expériences engageantes et durables :
+
+Le contenu comme levier stratégique : Nous accompagnons les entreprises dans la création de récits impactants, qui génèrent de l’émotion et de l’engagement.
+Une influence réinventée : Avec Influences Locales, nous bâtissons des alliances stratégiques entre marques et influenceurs régionaux, ancrées dans l’authenticité et la proximité.
+ 
+Un social media centré sur la conversation : Nous ne postons pas, nous créons des interactions qui comptent, en mettant la créativité au service du sens.
+Un ciblage média optimisé : Grâce à notre Média Factory, en complément de nos marques éditeurs, nous offrons une extension d’audience amplifiée sur l’ensemble des leviers médias disponibles.
+Plus qu’une agence, nous sommes un partenaire engagé, prêt à bâtir avec nos clients une communication plus créative, efficace et porteuse de sens.
+
+La réussite de 2025 reposera sur plusieurs leviers : l’augmentation de la part des prestations de conseil dans notre chiffre d’affaires (34 % en 2025), la fidélisation de nos clients sur ces offres, la sécurisation de 70 % du CA annuel en conseil avant le 1er juillet, et un renforcement de notre dynamique de prospection.
+
+2025 est une année charnière, une année où nous avons l'opportunité de marquer notre territoire, de renforcer notre impact et d’accélérer notre croissance. Notre force ? Une équipe engagée, audacieuse et experte, prête à relever ces défis ensemble.
+
+ 
+Fabrice Bory
+Directeur de l'Agence Eliette",agence eliette,
+115,Le rendez-vous Éco & Entreprises ,"Éco & Entreprises, le nouveau rendez-vous économique hebdomadaire proposé par Sud Ouest et Placéco, s'est imposé avec succès ! 
+
+Après une soirée de lancement plus que réussie à Bordeaux le 8 janvier, veille de la parution du premier cahier le 9 janvier dans Sud Ouest, puis d’un second événement à La Rochelle le 27 janvier, l’enthousiasme est au rendez-vous. 
+
+Prochaine étape : so",offres,https://go.sudouest-publicite.com/e/433602/nliactivity7285581617597677569/b5pf6y/1727720647/h/22XgK6knfb_mbcEABEWMIIf9nqhbx4lExNbittjEfnA
+116,Éco & Entreprises ,"Éco & Entreprises c'est : 
+
+un cahier tous les jeudis
+une rubrique digitale dédiée
+une offre d'abonnement dédiée
+Une belle dynamique qui ne fait que commencer et des espaces publicitaires premiums à propose à vos annonceurs chaque semaine !
+
+Merci à tous ceux qui ont participé et participent encore à la réussite de ce nouveau rendez-vous !",offres,https://go.sudouest-publicite.com/e/433602/P-tETFq2YVRJE-edit-usp-sharing/b5pf72/1727720647/h/22XgK6knfb_mbcEABEWMIIf9nqhbx4lExNbittjEfnA
+117,UBB x SOP,"A l'occasion de la sortir du poster officiel de l'UBB, un dispositif exceptionnel est mis en place : 
+
+6 000 posters envoyés aux abonnés UBB avec le journal 
+
+8 000 exemplaires distribués au Village UBB du Stade Chaban à l'occasion du match contre LOU Rugby
+
+2 000 exemplaires disponibles à la boutique UBB de Bordeaux
+
+52 000 ex offerts avec l'édition Gironde de Sud Ouest le 25 janvier
+
+Une opération unique pour célébrer le dévoilement de la photo officielle menée par Céline Pauquet",success story,https://go.sudouest-publicite.com/e/433602/ivity-7288473115213340672-Jy5E/b5pf7c/1727720647/h/22XgK6knfb_mbcEABEWMIIf9nqhbx4lExNbittjEfnA
+118,Connaissez-vous la newsletter SO Event ?,"Tous les mois, l'équipe événement éditeurs vous envoie une sélection des événements en Nouvelle-Aquitaine organisés par le Groupe Sud Ouest : conférences, débats, face aux lecteurs,...
+
+Inscrivez-vous pour ne rien manquer des événements éditeurs BtoB BtoC.",,https://go.sudouest-publicite.com/e/433602/evenements-/b5pf7k/1727720647/h/22XgK6knfb_mbcEABEWMIIf9nqhbx4lExNbittjEfnA
+119,Campus,"Les campus reprennent avec un premier rendez-vous en compagnie de Charlotte Claris pour tout savoir sur la Market Place et ses bonnes pratiques. 
+
+Profitez-en pour lui poser toutes vos questions / remarques",campus,https://go.sudouest-publicite.com/e/433602/97-ec55-44b6-ac3f-aca69d42d136/b5pf7n/1727720647/h/22XgK6knfb_mbcEABEWMIIf9nqhbx4lExNbittjEfnA
+120,Campus,"Et pour tous ceux que vous avez peut être manqués, les replays sont toujours disponibles",campus,https://go.sudouest-publicite.com/e/433602/X7VGYNqFyPi-hzf-usp-drive-link/b5pf7r/1727720647/h/22XgK6knfb_mbcEABEWMIIf9nqhbx4lExNbittjEfnA
+121,Célébrer l'anniversaire de sa marque : un levier stratégique incontournable,"Fabrice Bory aborde la célébration d'anniversaire de marque, vrai levier stratégique",agence eliette,https://go.sudouest-publicite.com/e/433602/vity-7272230737179815936-lu0K-/b5pf7v/1727720647/h/22XgK6knfb_mbcEABEWMIIf9nqhbx4lExNbittjEfnA
+122,Digital 100 Winner by Similarweb,Sud Ouest dans le top 20 des marques numériques à la plus forte croissance en 2024 selon Similarweb,gso,https://go.sudouest-publicite.com/e/433602/nliactivity7289932451865350145/b5pf7y/1727720647/h/22XgK6knfb_mbcEABEWMIIf9nqhbx4lExNbittjEfnA
+123,Dernière ligne droite avant le lancement du nouveau média Éco & Entreprises,"Un nouveau rendez-vous économique porté par Sud Ouest et Placéco tous les jeudis au coeur de notre quotidien Sud Ouest, pour une dose hebdomadaire d'actualité économique positive.
+
+Un plan de communication est mis en place pour faire connaître ce nouveau rendez-vous et notamment les soirées de lancement le 8 janvier à Bordeaux et le 15 janvier à La Rochelle en compagnie des acteurs économiques et élus de ces départements.
+
+email auprès des annonceurs SOP
+campagne dans Sud Ouest et sur sudouest.fr
+campagne de DOOH dans les gares
+Envoi de TAP du premier numéro à un fichier d'acteurs économiques de la région
+ 
+Un projet groupe d'envergure mené main dans la main entre Sud Ouest, Placéco, Eliette et Sud Ouest Publicité pour faire de ce nouveau produit LE rendez-vous économique incontournable de la région.",actualités,https://go.sudouest-publicite.com/e/433602/P-tETFq2YVRJE-edit-usp-sharing/b5nnnd/1717008086/h/Hv-r2KpP-N4cLXmqcYRQmlNY9DABjD1pPz1ZjRb99eE
+124,SOP x Haute Garonne Tourisme,"Création, impression et diffusion d'un 8 pages pour mettre en avant le territoire
+
+ 
+
+Diffusion : Loire Atlantique, Lyon et Gironde
+
+Total : 37388 € HT
+
+Commerciale : Marie Lagauzère",success story,https://go.sudouest-publicite.com/e/433602/e71jMbLjp59kW-view-usp-sharing/b5nnnh/1717008086/h/Hv-r2KpP-N4cLXmqcYRQmlNY9DABjD1pPz1ZjRb99eE
+125,,"Top 10 des pubs iconiques de Noël. Drôles, créatives, décalées, récap de ces campagnes qui continuent de nous inspirer !",,https://go.sudouest-publicite.com/e/433602/vity-7272988611480838144-oK8P-/b5nnnl/1717008086/h/Hv-r2KpP-N4cLXmqcYRQmlNY9DABjD1pPz1ZjRb99eE
+126,,En panne d'inspiration pour vos vacances ? Eliette vous propose son Top films de Noël pour se mettre dans l'ambiance !,,https://go.sudouest-publicite.com/e/433602/hare-utm-medium-member-desktop/b5nnnp/1717008086/h/Hv-r2KpP-N4cLXmqcYRQmlNY9DABjD1pPz1ZjRb99eE
+127,Focus sur les Annonces Classées,"Les annonces classées ont connu une profonde transformation ces dernières années. Pour maintenir nos chiffres d'affaires à un niveau élevé, la digitalisation s'est imposée comme une nécessité. En quelques années, nous sommes passés des petites annonces traditionnelles aux plateformes en ligne, offrant une multitude de services. J'ai l'habitude de dire : ""de la PA à Papa à l'internet serviciel"".
+
+Chez SOP, les annonces classées reposent sur trois piliers principaux : les ""Hommages & Souvenirs"", les Annonces Officielles et Légales, et l'Emploi. Ces trois segments sont en croissance en 2024, avec un chiffre d'affaires prévisionnel à 10,3 millions d'euros, soit une hausse de +4 % par rapport à l'année précédente et de +600 000 euros par rapport au budget.
+
+ 
+ 
+De nombreux projets sont d'ores et déjà prévus pour l'année prochaine. Nous allons notamment enrichir les fonctionnalités de notre site Carnets avec un nouvel annuaire des professionnels digitalisé et des fonctions pour rendre hommage aux défunts. Nous allons également permettre la publication automatisée d'annonces officielles et légales sur notre zone, quel que soit le support habilité, directement via notre plateforme. Enfin, notre site Emploi fera l'objet de nouvelles améliorations, après avoir bénéficié d'un nouveau logo et d'une nouvelle page d'accueil. Nous nous positionnons comme agence de communication RH avec beaucoup d'interactions entre Eliette et nous.
+
+ 
+
+Le maître-mot des annonces classées reste et demeure : le service client. C'est en mettant le client au cœur de nos préoccupations que nous continuerons à développer notre activité.
+
+ 
+Mikael Magnier, 
+Direction des Annonces Classées",,
+128,Les vidéos au coeur de la stratégie,"Depuis quelques mois, les vidéos sont au coeur de la stratégie de développement du groupe.
+
+Récemment deux actions viennent soutenir ce développement : 
+
+Depuis le mois d'octobre, les journalistes intègrent des vidéos en média principal, ce qui veut que le contenu principal de l'article est une vidéo en grand format, avec le son ON par défaut : parfait pour les annonceurs qui veulent un espace qualitatif et une grande visibilité.
+
+La nouvelle homepage de sudouest.fr met en avant les vidéos verticales grâce à un carrousel. Même si les investissements publicitaires sur ce format restent aujourd'hui captés essentiellement par les Réseaux Sociaux, nous pouvons espérer intégrer petit à petit ce format dans les habitudes de nos utilisateurs.",,https://go.sudouest-publicite.com/e/433602/aut-il-s-attendre-22371336-php/b5n8pl/1711476365/h/IWWJglQHxQEmCh6XuZ4t5weg2yavzkHBynNeXYiHOXk
+129,ARS x Eliette,"Le client est l'ARS NA, Agence régionale de Santé de Nouvelle Aquitaine.
+
+Afin de protéger les futurs adultes contre les papillomavirus à l’origine de très nombreux cancers et autres pathologies, l’ARS Nouvelle-Aquitaine de santé en lien avec la région académique organise une campagne de vaccination dans les collèges.
+
+Enjeu 1 : amener les parents à consulter la plateforme
+
+Enjeu 2 : Amener les parents à inscrire leur enfant de 5ème sur la plateforme
+
+ 
+Un dispositif large proposé ciblant les parents d'ados/pré-ados et comprenant :
+
+PQR Digitale (SO et NRCO et Centre Presse), SO week-end, Youtube, Audion, DOOH, TV digitale, Meta Ads, Posts FB et Insta et 3 influenceuses. ","success story, agence eliette",
+130,REGAZ x Eliette,"L'agence Eliette a accompagné le client REGAZ pour sa communication interne et en particulier l'organisation de sa ""Semaine de l'Impact Positif"".
+
+Une semaine pour fédérer les collaborateurs autour de valeurs de responsabilité sociétale et environnementale. 
+
+Objectifs : Fédérer, Découvrir, Agir, Partager
+
+Un dispositif complet incluant une charte graphique aux couleurs de Régaz, des communications physiques et digitales, des vidéos de captation et des enquêtes
+
+ 
+Une réussite collective et un retour très positif du client satisfait des moments partagés.
+
+Un projet suivi par Camille Mathon et Elida Delbourg
+","success story, agence eliette",
+131,Bisca Grands Lacs x Eliette,"Eliette a remporté une nouvelle consultation pour redéfinir le positionnement de Bisca Grands Lacs.
+
+L'objectif : aligner la marque sur les nouveaux enjeux du tourisme et sur ses ambitions renouvelées. 
+
+ Afin de répondre au mieux à cette mission, nous proposons de débuter le projet par une étude de social intelligence en collaboration avec notre partenaire Dynvide. 
+
+ 
+Cette étude permettra de décrypter l’image et la perception de la destination en s’appuyant sur trois sources de données : le Social Data, le Search Data et l’Influence Data.
+
+Une nouveauté testée par Isabelle Dousset et Diane Guibourt, on a hâte de voir les résultats !","success story, agence eliette",
+132,Salon du Livre Gourmand en Dordogne,"L équipe 24 à l'inauguration du Salon du Livre gourmand avec en guest star Thierry Marx.
+
+La commercialisation d'un supplément pour l'éditeur Dordogne Libre et un 4 pages pour Sud Ouest.",success story,
+133,Connaissez-vous la newsletter SO Event ?,"Deux fois par mois, l'équipe événement éditeurs vous envoie une sélection des événements en Nouvelle-Aquitaine organisés par le Groupe Sud Ouest : conférences, débats, face aux lecteurs,...
+
+Inscrivez-vous pour ne rien manquer des événements éditeurs BtoB BtoC.",,https://go.sudouest-publicite.com/e/433602/evenements-/b5n8q3/1711476365/h/IWWJglQHxQEmCh6XuZ4t5weg2yavzkHBynNeXYiHOXk
+134,Replay des campus,"Le mois de novembre a été riche en rendez-vous. Merci à nos animateurs et participants réguliers !
+
+Et pour ceux qui ont loupé un rendez-vous, les replays sont disponibles :
+
+Découvrez la nouvelle page d'accueil de Sud Ouest avec Emeline Saez",campus,https://go.sudouest-publicite.com/e/433602/muro1EKO8j-view-usp-drive-link/b5n8q6/1711476365/h/IWWJglQHxQEmCh6XuZ4t5weg2yavzkHBynNeXYiHOXk
+135,Replay des campus,Les produits digitaux dans SOBIZ 2025 avec Carine Dubuc et Katia Doublet,campus,https://go.sudouest-publicite.com/e/433602/1y-ZSUEo30-view-usp-drive-link/b5n8q9/1711476365/h/IWWJglQHxQEmCh6XuZ4t5weg2yavzkHBynNeXYiHOXk
+136,Replay des campus,Offres recrutement et marque employeur avec Camille Lespes et Mikael Magnier,campus,https://go.sudouest-publicite.com/e/433602/Ir3WRZzV1iDNg-view-usp-sharing/b5n8qd/1711476365/h/IWWJglQHxQEmCh6XuZ4t5weg2yavzkHBynNeXYiHOXk
+137,,Un documentaire Grand Angle Corporate pour la Région Nouvelle-Aquitaine qui obtient le label ECOPROD.,,https://go.sudouest-publicite.com/e/433602/hare-utm-medium-member-desktop/b5n8ql/1711476365/h/IWWJglQHxQEmCh6XuZ4t5weg2yavzkHBynNeXYiHOXk
+138,,L'Agence Eliette nous a concocté un calendrier de l'avant avec chaque jour une campagne coup de ❤️ d'un membre de l'équipe. ,agence eliette,https://go.sudouest-publicite.com/e/433602/ce-eliette-posts--feedView-all/b5n8qp/1711476365/h/IWWJglQHxQEmCh6XuZ4t5weg2yavzkHBynNeXYiHOXk
+139,Focus sur Advendio / So Biz 2025,"Les chantiers en cours
+
+PA ligne
+366
+finalisation des tests avec les autres outils (CUE, Adsuite...)
+
+ 
+Retrouvez les supports, la FAQ, le guide utilisateurs, vidéos supports et fiches mémo sur le site dédié :",advendio,https://go.sudouest-publicite.com/e/433602/sudouest-fr-sobiz-assistance/b5mm3d/1703740628/h/RZsMHmDO2mveoLAcUyhzM495XXdhIaTW1jbNPavKtIc
+140,Replay des campus,Campus contrats,campus,https://go.sudouest-publicite.com/e/433602/1I07jBRi2F5rZ-view-usp-sharing/b5mm3l/1703740628/h/RZsMHmDO2mveoLAcUyhzM495XXdhIaTW1jbNPavKtIc
+141,Replay des campus,Campus campagne,campus,https://go.sudouest-publicite.com/e/433602/lz88rKsMtxd1v-view-usp-sharing/b5mm3p/1703740628/h/RZsMHmDO2mveoLAcUyhzM495XXdhIaTW1jbNPavKtIc
+142,Focus Tarifs 2025,"En cette fin d'année, les choses s'accélèrent sur les tarifs et changements 2025. Les tarifs 2025 sont désormais calés et déjà intégrés dans Advendio / SO Biz.
+
+Afin que vous puissiez avancer dans vos contrats 2025 l'équipe de l'offre a mis à votre disposition un document qui synthétise les changements 2025.",,https://go.sudouest-publicite.com/e/433602/M899DlnJgveS8-edit-usp-sharing/b5mm3s/1703740628/h/RZsMHmDO2mveoLAcUyhzM495XXdhIaTW1jbNPavKtIc
+143,Le Book des Réussites,"Si vous ne connaissez pas encore cet outil, l'équipe marketing regroupe chaque mois une sélection de cas clients éditeurs concis, prêts à illustrer vos propals ou vous inspirer !
+
+Deux Books des réussites sont déjà disponibles dans la Market Place > Editeurs > Quotidiens > Success Stories",outils,https://go.sudouest-publicite.com/e/433602/idXliHeZsHdvJvD-a6-usp-sharing/b5mm3w/1703740628/h/RZsMHmDO2mveoLAcUyhzM495XXdhIaTW1jbNPavKtIc
+144,Suivre la saisie des contrats 2025,"Pour retrouver vos contrats, 2 possibilités : 
+
+la vue de liste ""Mes Contrats""
+le rapport ""SOP - Mes contrats 2025""",outils,https://go.sudouest-publicite.com/e/433602/AO-view-queryScope-userFolders/b5mm43/1703740628/h/RZsMHmDO2mveoLAcUyhzM495XXdhIaTW1jbNPavKtIc
+145,"Pour voir rapidement et facilement les prochains rendez-vous Campus, ajoutez l'agenda ""Actions Communication SOP"" dans votre agenda Google. ","Une fois ajouté, sélectionnez-le pour visualiser les rendez-vous et masquez le à tout moment ! Les liens d'inscription sont directement dans la description de chaque rendez-vous.",,https://go.sudouest-publicite.com/e/433602/3VwLmNhbGVuZGFyLmdvb2dsZS5jb20/b5mm4p/1703740628/h/RZsMHmDO2mveoLAcUyhzM495XXdhIaTW1jbNPavKtIc
+146,,Lancement de la contractualisation avec une journée de coaching sur le thème de nos marques éditeurs.,,https://go.sudouest-publicite.com/e/433602/hare-utm-medium-member-desktop/b5mm4s/1703740628/h/RZsMHmDO2mveoLAcUyhzM495XXdhIaTW1jbNPavKtIc
+147,Tendance de l'influence,"Plusieurs constructeurs intègrent l’influence dans leur stratégie de marque sous différentes formes : défis sportifs, découverte de paysages, courts séjours, tests de véhicules…on note notamment une mise en avant des gammes électriques.
+
+Stratégies a décrypté les principales tendances de l’influence dans l’industrie automobile",,https://go.sudouest-publicite.com/e/433602/ntre-100-sur-l-electrique-html/b5lzmt/1698069099/h/Mjg1y0INEGTlAWEBdmU1lkQfLLMGD401pHcN5TnEosU
+148,Idée créative : automobile,La campagne Rent a Car sous la forme d'un micro-trottoir qui donne lieu à de nombreuses erreurs.,,https://go.sudouest-publicite.com/e/433602/res-rent-avec-rosa-paris-87713/b5lzmx/1698069099/h/Mjg1y0INEGTlAWEBdmU1lkQfLLMGD401pHcN5TnEosU
+149,Tendances et Innovation,"Les 5 Grandes Innovations qui Révolutionneront la Mobilité Électrique en 2025
+
+On retient : l'idée créative de recharger sa maison avec sa voiture et vice-versa",,https://go.sudouest-publicite.com/e/433602/la-mobilite-electrique-en-2025/b5lzn1/1698069099/h/Mjg1y0INEGTlAWEBdmU1lkQfLLMGD401pHcN5TnEosU
+150,Témoignages,"Des géants du commerce donnent les clés du commerce en 2024. 
+
+Selon Leroy Merlin, un constat s’impose : le digital influence fortement les ventes en magasin 
+
+La solution : des campagnes omnicanales",,https://go.sudouest-publicite.com/e/433602/-party-branding-commerce-2024-/b5lzn4/1698069099/h/Mjg1y0INEGTlAWEBdmU1lkQfLLMGD401pHcN5TnEosU
+151,Tendances,Les marques de retail adoptent une posture empathique en proposant des solutions d’achat malines pour accompagner les consommateurs dans leurs arbitrages.,,https://go.sudouest-publicite.com/e/433602/-sectorielles-2024-vml-google-/b5lzn7/1698069099/h/Mjg1y0INEGTlAWEBdmU1lkQfLLMGD401pHcN5TnEosU
+152,Etude,"Shopper Trends 2024,une étude réalisée par Epsilon pour Imediacenter et Publicis Media, un baromètre annuel des habitudes d’achats des Français.",,https://go.sudouest-publicite.com/e/433602/dPwVvjt0w4myV-view-usp-sharing/b5lznb/1698069099/h/Mjg1y0INEGTlAWEBdmU1lkQfLLMGD401pHcN5TnEosU
+153,Consommation et usages,"La tendance Long life Tech émerge dans le secteur technologique en réponse à la critique croissante de l’obsolescence programmée. Un mouvement qui vise à prolonger la durée de vie des appareils réduisant ainsi leur impact environnemental et financier.
+
+La tendance de la consommation plus durable : réparation, économie circulaire.
+
+L'intérêt de recherche pour la réparation a augmenté d’environ 30% sur les cinq dernières années. L’intérêt croissant du public pour le bricolage et la maintenance est un phénomène réel.",,https://go.sudouest-publicite.com/e/433602/-consommation-2024-vml-google-/b5lznj/1698069099/h/Mjg1y0INEGTlAWEBdmU1lkQfLLMGD401pHcN5TnEosU
+154,Idée créative : santé,"«Pas à vendre», une campagne sur la difficulté des femmes ayant eu un cancer du sein à accéder à la propriété
+
+On retient : reprendre les codes d'un autre secteur pour montrer son engagement.",,https://go.sudouest-publicite.com/e/433602/sein-acceder-la-propriete-html/b5lznm/1698069099/h/Mjg1y0INEGTlAWEBdmU1lkQfLLMGD401pHcN5TnEosU
+155,Idée créative : tourisme,Campagne d'attractivité pour la Bretagne qui joue de ses défauts et préjugés.,,https://go.sudouest-publicite.com/e/433602/Post-7248455755752706048-w2bb-/b5lznq/1698069099/h/Mjg1y0INEGTlAWEBdmU1lkQfLLMGD401pHcN5TnEosU
+156,Influence x Corrèze,"Des influenceurs partagent les coins secrets de la Corrèze, qui s'amuse de ses faiblesses.",,https://go.sudouest-publicite.com/e/433602/merciales20et20promotionnelles/b5lznt/1698069099/h/Mjg1y0INEGTlAWEBdmU1lkQfLLMGD401pHcN5TnEosU
+157,,"L'équipe Hors Zone au complet Laurent, Bruno, Camille et Karim MEDRAOUI. 
+
+Pour les demandes EXPORT ou DOOH, rien ne change avec l'adresse commune : sopublicite@sudouest.fr ",,
+158,,"En soutien à la lutte contre le cancer du sein et ce mois d'Octobre Rose, l'équipe des Annonces Classées s'est vêtue de rose ce mardi !",,
+159,Célébrons ensemble les 80 ans de Sud Ouest,"Un dispositif a été mis en place pour fêter cet anniversaire symbolique : 
+
+une rubrique spéciale sur sudouest.fr
+des archives photos
+le jeu des UNES
+Et bien plus encore ! Découvrez le dispositif complet sur RESO
+
+🙏 Nous recherchons des bénévoles pour accueillir, informer et accompagner le public lors de cette journée qui s'annonce déjà comme un succès collectif !",,https://go.sudouest-publicite.com/e/433602/fetons-les-80-ans-de-sud-ouest/b5kz6z/1689660962/h/-9eHzTotRFwo5IFEJamk2mGOlyEGFmBlHcCeJGpedlI
+160,Netflix x Solutions Médias,"Le Solutions Médias a fait une reco pour Netflix à l'occasion de la sortie d'un nouveau film
+
+Objectif : communiquer en local sur Bordeaux
+
+La propal : 100% éditeur print, digital, impression et street Marketing",,https://go.sudouest-publicite.com/e/433602/aHODBlcazpJh0-view-usp-sharing/b5kz73/1689660962/h/-9eHzTotRFwo5IFEJamk2mGOlyEGFmBlHcCeJGpedlI
+161,Barreau de Bordeaux x AVA,Un projet par Eliette et le Solutions Médias pour faire connaître l'extension du Barreau de Bordeaux et son service AVA grâce à un dispositif 360°,,https://go.sudouest-publicite.com/e/433602/fL4v2yiQ1y6g9-view-usp-sharing/b5kz76/1689660962/h/-9eHzTotRFwo5IFEJamk2mGOlyEGFmBlHcCeJGpedlI
+162,DARTY Capbreton x Eliette,Une campagne pour renforcer l'image de marque du nouveau magasin et assurer la visibilité sur les 3 grosses opérations de la fin d'année,,https://go.sudouest-publicite.com/e/433602/gnhYucap4Dx1J-view-usp-sharing/b5kz79/1689660962/h/-9eHzTotRFwo5IFEJamk2mGOlyEGFmBlHcCeJGpedlI
+163,"Campagnes Programmatiques, Social Ads, pack mixtes : faites des enveloppes !","L’enveloppe numérique prend désormais en charge les créas pour vos campagnes trading (Programmatique display, social Ads et pack mixte).
+
+À partir du 09/09/2024, toutes vos demandes de créas trading doivent être réalisées via l’enveloppe numérique. En complément, la fiche brief doit être complétée sur les attendus de votre campagne.
+
+Pour rappel, l'envoi doit se faire à J-5 du début de la campagne.
+
+En cas de difficultés sur l’enveloppe numérique, envoyez un mail à Katia Doublet avec le numéro de votre campagne et la difficulté que vous rencontrez.",,https://go.sudouest-publicite.com/e/433602/contraintes-techniques-/b5kz7d/1689660962/h/-9eHzTotRFwo5IFEJamk2mGOlyEGFmBlHcCeJGpedlI
+164,Des cas clients éditeurs pour illustrer vos propals !,"L'équipe Marketing a créé le Book des réussites. Un document avec des réalisations 100% éditeur pour illustrer vos propals.
+
+Partagez vos belles réalisations à Anaïs Sultana pour compléter ce book !",,https://go.sudouest-publicite.com/e/433602/oTVfIK5mVmRb8-edit-usp-sharing/b5kz7h/1689660962/h/-9eHzTotRFwo5IFEJamk2mGOlyEGFmBlHcCeJGpedlI
+165,,Avez-vous remarqué que la Market Place a évolué ? Consultez le doc tuto pour vous y retrouver !,,https://go.sudouest-publicite.com/e/433602/v1og4UoDB-qHV-view-usp-sharing/b5kz7l/1689660962/h/-9eHzTotRFwo5IFEJamk2mGOlyEGFmBlHcCeJGpedlI
+166,Nous sommes ravis de vous annoncer le lancement de Sobiz (Advendio) qui remplacera Publissimo.,"Pour rendre cette transition aussi fluide que possible, nous avons créé une série de courtes vidéos intitulée ""L'Instant Sobiz"".
+
+Chaque vidéo met en lumière les fonctionnalités clés de Sobiz, vous offrant un avant-goût des avantages à venir. Ces vidéos vous permettent de vous familiariser progressivement avec le nouvel outil avant la formation officielle.
+
+Introduction : Présentation 360° de Sobiz
+
+ 
+2. ""Les statuts"" pour découvrir les différents statuts que vous allez rencontrer au fil de votre process commercial
+
+3. ""Créez vos Campagnes avec Sobiz"" pour découvrir comment mettre en œuvre une campagne en quelques clics
+
+4. ""Créez vos contrats avec Sobiz"" pour la gestion contractuelle et la transparence de vos projets
+
+5. Inventaire Print",,https://go.sudouest-publicite.com/e/433602/v8sLdpq1iHFji-view-usp-sharing/b5kz86/1689660962/h/-9eHzTotRFwo5IFEJamk2mGOlyEGFmBlHcCeJGpedlI
+167,"Portrait d'Anne-Claire JOANTEGUY, au Solutions Médias","Hello, moi c'est Anne-Claire et j'ai rejoint la team Eliette le 1er juillet ! J'ai fait mes armes en agence et chez l'annonceur, notamment dans une petite boîte de la région pas très connue... Cdiscount 😉
+
+Là-bas, j'étais aux achats média. Mais assez parlé boulot ! Si vous ne me trouvez pas à mon siège du rez-de-chaussée, n'hésitez pas à jeter un œil du côté du Pays Basque (#pusabaiona), ma deuxième maison. Et si je suis toujours introuvable, préparez votre passeport, car vous devrez peut-être franchir quelques frontières ! J'adore explorer le monde dès que l'occasion se présente. Et là, si je reste introuvable, il ne vous reste plus qu'une solution : contacter Julien Courbet pour lancer Appel à témoins ! 
+
+Quelles sont tes missions actuelles ? Nous collaborons avec les commerciaux afin de construire la meilleure visibilité possible pour leurs clients. Suivant la problématique évoquée nous décryptons leurs cibles, et examinons les audiences médias, afin d'apporter la réponse la plus pertinente possible.
+
+Quelle est ton actualité du moment ? La rentrée et la fin d'année s'annoncent intenses ! Nous répondons aux demandes entrantes actuelles, préparons la peak season et restons en veille sur l'ensemble des médias émergents.
+
+Quel est ton péché mignon ?
+
+Chez moi, il n'y a pas de péché mignon.
+
+Honnêtement, c'est juré
+
+On me demande souvent si j’ai un faible pour quelque chose, mais non, jamais.
+
+Céder ? surtout pas.
+
+On peut dire que je suis raisonnable.
+
+L'envie, c'est maîtrisé.
+
+Après tout, pourquoi craquer.
+
+Toutefois un petit carré de cho...",,
+168,,Dernière réalisation audiovisuelle pour SMICTOM Lot-Garonne-Baïse avec Digivision,,https://go.sudouest-publicite.com/e/433602/vity-7238803367244775425-uexM-/b5kz89/1689660962/h/-9eHzTotRFwo5IFEJamk2mGOlyEGFmBlHcCeJGpedlI
+169,,Les groupes La Dépêche du Midi et DC Company scellent un partenariat historique,,https://go.sudouest-publicite.com/e/433602/vity-7237713675115991041-2hcH-/b5kz8d/1689660962/h/-9eHzTotRFwo5IFEJamk2mGOlyEGFmBlHcCeJGpedlI
+170,SudOuest Emploi change d'identité !,"La marque emploi se modernise avec un nouveau logo mais pas seulement !
+
+Un changement s'opère dans la manière d'aborder l'emploi : filières métiers, offres digitales, marque employeur ...
+
+Le site internet est aussi en cours de refonte à découvrir très prochainement.
+
+Bravo à Camille Lespes et Mikael Magnier pour ce coup de frais sur la marque Emploi. 
+
+ Un kit de communication est à votre disposition pour partager cette actualité sur vos réseaux. ",,https://go.sudouest-publicite.com/e/433602/zmPpMblP0wB-w-edit-usp-sharing/b5hjlb/1673824038/h/aKhmq11OsvTiRrp8lginapNvEPkjkEbYYUXAJgbZCmU
+171,Supplément demi-finale TOP14 du vendredi 21 juin,"Supplément de 8 pages, avec 6 annonceurs dont Bord'eau Village, la Chambre des Notaires, Cheops, Intersport, Suzuki et l'UBB.
+
+CA total de 14 900€ HT.",,
+172,Supplément sur la finale TOP14 du vendredi 28 juin,"Supplément de 12 pages, avec 11 annonceurs dont la Chambre des Notaires, la Mairie de Bègles, Intersport, la CCI, la Société Générale, la Région...
+
+CA total de 20 750€ HT + 3 000€ sur TV7 (Orange).",,https://go.sudouest-publicite.com/e/433602/uzqgl-uffq-/b5hjlf/1673824038/h/aKhmq11OsvTiRrp8lginapNvEPkjkEbYYUXAJgbZCmU
+173,HS Saison UBB du lundi 1er juillet,"Supplément de 32 pages avec 9 annonceurs dont Bord'eau Village, Intersport, Neuflize, 
+
+ 
+Mairie de Bordeaux, Martin Sols, Bordelaise de Lunetterie, Pechavy...
+
+CA total de : 7 400€ (Print) + 1 200€ HT (Vente) chaque annonceur a eu 100 exemplaires du supplément.",,https://go.sudouest-publicite.com/e/433602/uzqgl-kgmf-/b5hjlj/1673824038/h/aKhmq11OsvTiRrp8lginapNvEPkjkEbYYUXAJgbZCmU
+174,Finale UBB x Toulouse ,"Plusieurs services ont été mobilisés :Les ventes : Création de Tifos pour dynamiser les ventes : ""Allez UBB"" et le 2D : ""Fiers de l'UBB"".
+
+La promo Olivier Moreau : visibilité et partenariat ClubUBB & Sud Ouest.
+
+Côte Ouest : réactivité hors norme et organisation de la Fan Zone place des Quinconces.
+
+Rugby 360 / Raffut (Aymeric) : communication verticale rugby. ",,
+175,🎬 Nouveau format vidéo sur les réseaux ! ,"L'équipe communication propose un nouveau format de contenus vidéos pour les réseaux sociaux sur le thème ""6 bonnes raisons de communiquer dans la presse régionale"".
+
+Nous mettons à votre disposition un kit de communication avec des exemples de posts pour relayer ces vidéos. 
+
+Retrouvez les liens des vidéos chaque semaine !",,https://go.sudouest-publicite.com/e/433602/jZfGKTjtG-LK8-edit-usp-sharing/b5hjlm/1673824038/h/aKhmq11OsvTiRrp8lginapNvEPkjkEbYYUXAJgbZCmU
+176,📢 [Appel à bénévoles] Sud Ouest ouvre ses portes le 21 septembre prochain,"À l'occasion des 80 ans de Sud Ouest, le Pôle communication Groupe renoue avec la tradition de la journée portes ouvertes !
+
+Cette journée d'accueil au public aura lieu le samedi 21 septembre 2024, dans le cadre des journées du patrimoine.
+
+Vous souhaitez être bénévole et les aider dans l'organisation et / ou l'animation de cette journée ? Faites part de votre disponibilité, de vos préférences en terme d'animation (accueil des visiteurs, guides, animateurs…) et de créneaux horaires à l'adresse : communication@groupesudouest.com
+
+Un grand merci par avance pour votre contribution !",,
+177,Bilan Trophées Innovation Nautisme Arcachon ,,,https://go.sudouest-publicite.com/e/433602/xbOboB-C6sr69-view-usp-sharing/b5hjlq/1673824038/h/aKhmq11OsvTiRrp8lginapNvEPkjkEbYYUXAJgbZCmU
+178,Bilan conférence santé Lot-et-Garonne ,,,https://go.sudouest-publicite.com/e/433602/MVnWz4o-FCzbY-view-usp-sharing/b5hjlt/1673824038/h/aKhmq11OsvTiRrp8lginapNvEPkjkEbYYUXAJgbZCmU
+179,1 an d’abonnement gratuit et sans engagement pour tous les bacheliers de Nouvelle-Aquitaine !🥳,"Le Journal Sud Ouest propose pour la deuxième année consécutive, un abonnement offert à tous les bacheliers. N'hésitez pas à partager l'initiative autour de vous !",,https://go.sudouest-publicite.com/e/433602/hare-utm-medium-member-desktop/b5hjlx/1673824038/h/aKhmq11OsvTiRrp8lginapNvEPkjkEbYYUXAJgbZCmU
+180,Nous avons inauguré la nouvelle agence Sud Ouest Agen !,"L'équipe Sud Ouest Publicité d'Agen s'est associée à la rédaction pour organiser un afterwork et inaugurer les nouveaux locaux de l'Agence.
+
+Depuis le 17 avril, l'agence Sud Ouest Agen a rejoint les bureaux de l'espace de coworking Hemera République.
+
+ 
+C'est la première fois dans l'histoire de Sud Ouest qu'une agence de rédaction rejoint un espace de coworking !
+
+Nous avons profité de cette nouveauté pour faire des photos corporate de l'équipe et de ces bureaux colorés et modernes. A découvrir très bientôt...
+
+Merci à Jean-Rémy de l'Agence Eliette d'avoir immortalisé l'afterwork !",,https://go.sudouest-publicite.com/e/433602/uAyRpZjkO2AFo14tQi-usp-sharing/b5gsyv/1670017909/h/G0FfDlPfFe_dpJmKc7-01Nq6F4MiSMHvvB0DMDDNtpI
+181,Eliette x Liverpool & Bordeaux Fête le Vin,"Une stratégie média proposée par le Solution Média avec 2 objectifs  :
+
+CONSCIENCE : Sensibiliser le public sur Liverpool et ses nombreuses attractions : gastronomie, culture, musique, sport, etc.
+
+TRAFIC : Inviter le public du département de la Gironde à venir à Bordeaux Fête le Vin et découvrir le stand de Liverpool City Region (LCR).",,https://go.sudouest-publicite.com/e/433602/c2A4nKf-F3Grw-edit-usp-sharing/b5gsyy/1670017909/h/G0FfDlPfFe_dpJmKc7-01Nq6F4MiSMHvvB0DMDDNtpI
+182,Digivision - Campus du DUSA,"Un film original produit par DIGIVISION, joliment conçu & réalisé par William BERNARD, pour dévoiler le dynamique Campus du DUSA, Département universitaire des Sciences d'Agen DUSA et particulièrement ses filières agro-alimentaires accessibles en alternance.
+
+Commercial Marc Mathé
+",,https://go.sudouest-publicite.com/e/433602/Post-7210912602493755394-bOIJ-/b5gsz2/1670017909/h/G0FfDlPfFe_dpJmKc7-01Nq6F4MiSMHvvB0DMDDNtpI
+183,Offres BOOSTER été,La période estivale est pour nous l'occasion de mettre à votre disposition des offres BOOSTER print et digital. ,,https://go.sudouest-publicite.com/e/433602/-EpuxnJ4BFbcQ-edit-usp-sharing/b5gsz5/1670017909/h/G0FfDlPfFe_dpJmKc7-01Nq6F4MiSMHvvB0DMDDNtpI
+184,L'offre de notre produit post vidéo co-brandé évolue ! ,"La part du budget qui sera investi sur Méta est désormais de 60% du global, la part éditeur 15% et nos frais de gestion 25%. La bonne nouvelle est donc que nos annonceurs vont bénéficier dd'un volume de vidéo vues plus important vs l'ancienne offre. ",,https://go.sudouest-publicite.com/e/433602/9EkDiKHGqwYyszz-usp-drive-link/b5gsz8/1670017909/h/G0FfDlPfFe_dpJmKc7-01Nq6F4MiSMHvvB0DMDDNtpI
+185,Les salons Résolution (journée des solutions RSE) en région auront lieu cet automne,"Résolution Pays Basque 15 octobre à Bayonne au stade Jean Dauger
+
+Résolution Béarn 7 novembre à Pau, Hippodrome
+
+Résolution Charente-Maritime 28 novembre à La Rochelle, espace Encan
+
+L'édition de Charente-Maritime est une édition toute spéciale car construite en partenariat avec le Salon professionnel de la neutralité carbone, organisé par la Coopérative Carbone. Une convention d'union des salons va être signée, le 2 juillet prochain, lors de l'assemblée des sociétaires de la Coopérative Carbone, à La Rochelle.
+
+ 
+
+> Le Salon pro. de la neutralité carbone traitera des sujets d'environnement (décarbonation principalement) et Résolution des thématiques sociétales (Inclusion, QVCT, Gouvernance, Parité, Diversité, etc).
+
+Un espace exposants communs, des salles de conférences distinctes et des ateliers, rencontres, fresques & serious games toute la journée de 9h à 19h.",,https://go.sudouest-publicite.com/e/433602/nouvelle-aquitaine-/b5gszc/1670017909/h/G0FfDlPfFe_dpJmKc7-01Nq6F4MiSMHvvB0DMDDNtpI
+186,,"🎥 Revivez les meilleurs moments de la première soirée Influences Locales à Rochefort, au restaurant Vivre[s] par Gregory Coutanceau",,https://go.sudouest-publicite.com/e/433602/hare-utm-medium-member-desktop/b5gszg/1670017909/h/G0FfDlPfFe_dpJmKc7-01Nq6F4MiSMHvvB0DMDDNtpI
+187,,📰 Ce qu’on a retenu de LA PREUVE 2024  #DemainLaPresse,,https://go.sudouest-publicite.com/e/433602/hare-utm-medium-member-desktop/b5gszk/1670017909/h/G0FfDlPfFe_dpJmKc7-01Nq6F4MiSMHvvB0DMDDNtpI
+188,Avez-vous remarqué les changements sur le site SOP ? 👀,"L'équipe communication travaille sur une refonte du style graphique du site SOP. Pas de modification de la maquette mais plutôt une évolution sur le travail des visuels et des accroches.
+
+L'objectif : donner un nouveau souffle au site avec des visuels plus immersifs et mettre davantage en avant nos offres de visibilité locale.
+
+Cette projet accompagne l'évolution de l'offre et du positionnement de la régie : le partenaire des entreprises pour la publicité locale et les médias de proximité.
+
+ 
+Pour le moment l'évolution est visible sur la Home Page et les pages de nos médias, mais petit à petit les autres pages évolueront à leur tour.
+
+Un travail sur le long terme essentiel pour améliorer le parcours des internautes sur notre site et valoriser nos offres de proximité.",,https://go.sudouest-publicite.com/e/433602/2024-06-11/b5g7mq/1666472679/h/KzVTenUlUbSMw_BlYMWovGqD3ztdd3GdU8Kom4ErinE
+189,Sud-ouest Emploi change de logo !,"La verticale Emploi est heureuse de vous dévoiler son nouveau logo. Davantage en accord avec l'ADN de Sud-ouest Emploi, ce logo au pictogramme très reconnaissable va permettre d'augmenter notre niveau de reconnaissance spontanée. La couleur pourpre, dynamique, donne un coup de jeune au logo.
+
+ 
+
+Bravo à Eva Benes, de l'agence Eliette qui a réalisé ce logo.",,
+190,Projet JO - Caisse d'Épargne Aquitaine Poitou-Charente,"Un supplément grand format pour présenter les 31 relayeurs de notre territoire : rédaction par l'Agence Eliette, montage Studio, impression de 100 000 exemplaires au NCI, distribution avec Diff Event sur tout le parcours de la flamme.
+
+Commerciale Stéfany Hayek",,https://go.sudouest-publicite.com/e/433602/nliactivity7199295494144110592/b5g7mt/1666472679/h/KzVTenUlUbSMw_BlYMWovGqD3ztdd3GdU8Kom4ErinE
+191,DIGIVISION - Office de tourisme du Haut Béarn,"Des films réalisés par Digivision pour l'office de tourisme du Haut Béarn (Pyrénées) avec de magnifiques images  !
+
+Diffusion en sponsoring d'émission sur TVPI durant l'été, diffusion sur le site du client, et capsules sur les réseaux sociaux.
+
+Commercial François BONNEMAIZON
+
+Budget 8 990€ HT",,"https://go.sudouest-publicite.com/e/433602/watch-v-DyubzwFKdrE/b5g7mx/1666472679/h/KzVTenUlUbSMw_BlYMWovGqD3ztdd3GdU8Kom4ErinE
+
+https://go.sudouest-publicite.com/e/433602/watch-v-aHQkZluUawE/b5g7n1/1666472679/h/KzVTenUlUbSMw_BlYMWovGqD3ztdd3GdU8Kom4ErinE
+
+https://go.sudouest-publicite.com/e/433602/watch-v-xjXLYJ7dH7A/b5g7n4/1666472679/h/KzVTenUlUbSMw_BlYMWovGqD3ztdd3GdU8Kom4ErinE"
+192,Book Tarifs à jour,"Le Book Tarifs 2024 a été mis à jour et intègre désormais les gammes visibilité.
+
+Dispo dans la Market Place !",,https://go.sudouest-publicite.com/e/433602/xYs4dRqnTBt7i-view-usp-sharing/b5g7n7/1666472679/h/KzVTenUlUbSMw_BlYMWovGqD3ztdd3GdU8Kom4ErinE
+193,Campus One Day,"Le prochain campus est proposé par Anaîs Sultana et l'équipe Solution Média pour vous présenter l'offre ONE DAY. 
+
+un dispositif clé en main
+une offre de puissance et d'émergence
+Ne manquez pas ce campus pour comprendre l'offre, poser toutes vos questions et être parfaitement à l'aise dans la commercialisation.
+
+📅 Deux dates au choix : jeudi 13 ou mardi 18 (cliquer sur la date pour voir la liste de choix déroulante).",,https://go.sudouest-publicite.com/e/433602/e-loffre-one-day-type-detailed/b5g7nb/1666472679/h/KzVTenUlUbSMw_BlYMWovGqD3ztdd3GdU8Kom4ErinE
+194,Focus sur les Éditions Sud Ouest,"Les éditions Sud Ouest (ESO) ont récemment signé avec le restaurant Le Chapon fin à Bordeaux (28K€ d'achats fermes sur un CA total de 37,7K€)  la réalisation d'un beau livre sur ce restaurant qui fête  en 2025  ses 200 ans. Il sera livré en octobre. 
+
+ 
+
+Mode d’emploi pour les Editions SO :
+
+ Je détecte un prospect susceptible d'être intéressé par l’édition d’un ouvrage
+Je remonte l'information à Marie-Luce Ribot
+On établit un budget prévisionnel
+ESO établit un BP
+Une éditrice ESO rencontre le prospect pour présenter le projet, le devis
+ESO propose une charte graphique, identifie les auteur(s) et ressources, ainsi qu’un calendrier
+Ecriture, conception et réalisation par ESO, le client est associé à chaque étape et valide le BAT
+Fabrication de l’ouvrage
+Possibilité de créer un événement pour marquer la sortie du livre",,
+195,Les 40 ans du Siba ,(CA : 15 K€- M.Malié),,https://go.sudouest-publicite.com/e/433602/read-007438584873d0ade8f3c/b5g7nf/1666472679/h/KzVTenUlUbSMw_BlYMWovGqD3ztdd3GdU8Kom4ErinE
+196,Les vignerons de Sainte-Victoire et les Cham-pagnes Philiponnat avec Terre de Vin,,,https://go.sudouest-publicite.com/e/433602/read-004637714ede4afa9e7a6/b5g7nj/1666472679/h/KzVTenUlUbSMw_BlYMWovGqD3ztdd3GdU8Kom4ErinE
+197,Les chantiers charentais Amel,"(CA : 39,8K€)",,https://go.sudouest-publicite.com/e/433602/read-004637714c11e20662491/b5g7nm/1666472679/h/KzVTenUlUbSMw_BlYMWovGqD3ztdd3GdU8Kom4ErinE
+198,L'équipe Gironde à la Médocaine VTT,Bravo à l'équipe Gironde qui a fièrement porté les couleurs Sud Ouest lors de la Médocaine VTT samedi 25 mai à Arsac.,,
+199,📢 Mise à jour des signatures de mails,"Nous remarquons un grand nombre de signatures de mails utilisant d'anciens logos, notamment le logo Sud Ouest. Le changement de ce logo datant de février, il est primordial d'avoir une signature à jour. Veuillez vérifier que votre signature est à jour et si ce n'est pas le cas pensez à l'actualiser rapidement.",,https://go.sudouest-publicite.com/e/433602/uHJg6UODwhg---view-usp-sharing/b5g7nq/1666472679/h/KzVTenUlUbSMw_BlYMWovGqD3ztdd3GdU8Kom4ErinE
+200,Club Résolution de Placéco,"La première réunion du Club Résolution s'est tenue le 4 juin dans nos locaux à Bordeaux. Ce club, créé par Placéco, réunit les référents RSE des entreprises locales. 44 personnes étaient présentes et ont pu suivre le journal de la RSE, assister à une table ronde ronde sur le mécénat et participer à un atelier de travail animé par la rédaction.",,https://go.sudouest-publicite.com/e/433602/nouvelle-aquitaine-/b5g7nt/1666472679/h/KzVTenUlUbSMw_BlYMWovGqD3ztdd3GdU8Kom4ErinE
+201,Bilan conférence BRS ,,,https://go.sudouest-publicite.com/e/433602/5rG-iFy1c-IvIKddOaGB17-GM-view/b5g7nx/1666472679/h/KzVTenUlUbSMw_BlYMWovGqD3ztdd3GdU8Kom4ErinE
+202,,"Dans quelques semaines, découvrez notre dispositif exceptionnel qui célébrera les 80 ans de Sud Ouest ",,https://go.sudouest-publicite.com/e/433602/ce-share-utm-medium-member-ios/b5g7p1/1666472679/h/KzVTenUlUbSMw_BlYMWovGqD3ztdd3GdU8Kom4ErinE
+203,"À l'instar du Groupe Sud Ouest, Eliette se transforme et évolue en permanence pour répondre aux défis du marché. Il était temps pour nos réseaux sociaux de traduire cette formidable évolution réalisée en quelques mois.","Et pour incarner cette évolution, nous avons choisi de repartir de zéro ! Après avoir travaillé sur une nouvelle charte graphique, la team Social Media avait à cœur de partir sur une page blanche, pour pouvoir communiquer différemment, tout en accentuant notre positionnement d'agence de marque.
+
+Notre nouvelle ligne directrice a été de mettre en lumière des données marketing sur les tendances social media (audio digital, FOOH, identité de marque…), tout en rebondissant sur des sujets de pop culture, et en ponctuant le tout de moments d’agence, de portraits de collaborateurs ou encore, de tournages. Le tout, agrémenté de nouvelles couleurs plus “friendly digital” et plus “punchy” !
+
+ 
+Nous sommes super contents du résultat ainsi que de cette nouvelle ligne éditoriale, et nous espérons qu’elle vous plaira autant qu’à nous ! Nous observons déjà un impact positif sur le taux d’engagement de notre communauté, un bon indicateur qualitatif sur notre nouvelle stratégie réseaux sociaux.
+
+Nous vous invitons d’ailleurs à nous rejoindre sur nos comptes Instagram et Linkedin (qui ne tardera pas à atteindre la barre des 4000 abonnés !). :)",,https://go.sudouest-publicite.com/e/433602/LJWMW3P5Pf-view-usp-drive-link/b5dwfn/1660999411/h/cy456cLO9R9R0MW1tlMif7BezaX7op2C2RsLrIphuTo
+204,VINCI -  Lot & Garonne,"Numéro spécial édité en partenariat avec VINCI et distribué à l'ensemble des lecteurs Sud Ouest de la région.
+
+Supplément toutes éditions en 8 pages édition déléguée + déclinaison en long format digital.
+
+Budget : 42 000 €
+
+Commerciale Marie Lagaüzère",,https://go.sudouest-publicite.com/e/433602/hare-utm-medium-member-desktop/b5dwfv/1660999411/h/cy456cLO9R9R0MW1tlMif7BezaX7op2C2RsLrIphuTo
+205,AGENCE DE L'EAU Adour-Garonne au siège ,Accueil de l'Agence de l'eau Adour-Garonne au sein de notre siège pour assister au JT du soir de TV7 et à la conférence de bouclage du journal.,,https://go.sudouest-publicite.com/e/433602/hare-utm-medium-member-desktop/b5dwfy/1660999411/h/cy456cLO9R9R0MW1tlMif7BezaX7op2C2RsLrIphuTo
+206,Tutoriel sur le tableau de bord de la page d’accueil SoBiz,"Le Tableau de Bord de la page d'accueil des commerciaux SOP PME/GE a été mis à jour ! 
+
+Vous pouvez constater aujourd'hui qu'une réorganisation du tableau de bord a été réalisée, toujours dans le soucis d' apporter une vision plus claire sur votre activité commerciale. 
+
+Dans la foulée, un tutoriel interactif (Diaporama Slide) vous permet de naviguer dans ce Tableau de bord et vous donner les clés de compréhension des rapports accessibles pour chaque tuile et comment l'information y est organisée.  
+
+ 
+
+Le lien vers le tutoriel est directement accessible depuis le tableau de bord sinon il suffit de cliquer ici !",,https://go.sudouest-publicite.com/e/433602/xmnuLwlFDeaFY-edit-usp-sharing/b5dwg2/1660999411/h/cy456cLO9R9R0MW1tlMif7BezaX7op2C2RsLrIphuTo
+207,Mise à jour des signatures de mail ,Le logo Eliette s'est fait une beauté ! Il est temps d'actualiser votre signature avec le nouveau logo. ,,https://go.sudouest-publicite.com/e/433602/uHJg6UODwhg---view-usp-sharing/b5dwg5/1660999411/h/cy456cLO9R9R0MW1tlMif7BezaX7op2C2RsLrIphuTo
+208,Puissance de nos titres Groupe Sud Ouest par départements,"L'équipe Solution Média a préparé des présentations sur la puissance par titre et par département pour vous aider dans vos propals.
+
+Les fiches sont disponibles dans la Market Place !",,https://go.sudouest-publicite.com/e/433602/G5Atz6L0U9O4Nse-usp-drive-link/b5dwg8/1660999411/h/cy456cLO9R9R0MW1tlMif7BezaX7op2C2RsLrIphuTo
+209,Conférences Sud Ouest / TV7 : un format qui fonctionne !,"Un format simple qui se fait sans public uniquement sur le plateau TV
+
+Un sujet défini qu'on décide d'aborder avec les partenaires. 
+
+Suite auquel, un dispositif est mis en place :
+
+- Publication d'un article par la rédaction Sud Ouest
+
+- Conférence filmée sur le plateau TV7 animé par un journaliste et diffusé sous forme de live Facebook et sur sudouest.fr quelques jours après le tournage 
+
+- Campagne social média : avant pour inciter les gens à s'inscrire au faux live et après la diffusion pour inciter les gens à visionner le replay
+
+À partir de 7000 euros ",,
+210,Save the date : Néo Aquitains 2024,"La 18ème année consécutive par Sud Ouest, la Banque Populaire, la Région Nouvelle-Aquitaine, en partenariat avec Pouey International, ces prix distinguent des chefs d’entreprises performants de notre territoire.
+
+5 soirées auront lieux dans les différents départements de diffusion, rassemblant institutionnels, acteurs économiques et médias 
+
+Mardi 5 novembre : Palio de Boulazac
+Mardi 12 novembre : Centre des Congrès à Agen
+Mardi 19 novembre : Atrium de Dax
+Mardi 10 décembre : Centre des Congrès Bellevue à Biarritz
+Mardi 17 décembre : Palais de la Bourse à Bordeaux",,https://go.sudouest-publicite.com/e/433602/2024-05-22/b5dwgc/1660999411/h/cy456cLO9R9R0MW1tlMif7BezaX7op2C2RsLrIphuTo
+211,Événements Placéco,"- le 21 juin se déroulera la 2e édition d'""Athlétiques, les rencontres sportives Placéco"", qui regroupera plus de 40 entreprises et 200 personnes sur le Village Decathlon Mérignac le temps d'une après-midi sportive et conviviale. ",,https://go.sudouest-publicite.com/e/433602/ment-les-rencontres-sportives-/b5dwgg/1660999411/h/cy456cLO9R9R0MW1tlMif7BezaX7op2C2RsLrIphuTo
+212,Événements Placéco,"- le 4 juin se déroulera le premier rendez-vous du ""Club Résolution"", dédié à la RSE dans les entreprises et organisations.",,https://go.sudouest-publicite.com/e/433602/sera-a-lhonneur-le-4-juin-4845/b5dwgk/1660999411/h/cy456cLO9R9R0MW1tlMif7BezaX7op2C2RsLrIphuTo
+213,"Tournage Digivision pour 
+SMICTOM Lot-et-Garonne",,,https://go.sudouest-publicite.com/e/433602/hare-utm-medium-member-desktop/b5dwgn/1660999411/h/cy456cLO9R9R0MW1tlMif7BezaX7op2C2RsLrIphuTo
+214,Les résultats des audiences S1 de nos quotidiens ont été dévoilés ! ,"Les marques du Groupe Sud Ouest sont en tête du classement PQR et marques d’actualités de l’ACPM One Next Global 2024 !
+
+Des résultats très prometteurs avec :
+
+61% des néo-aquitains lisent un des médias du Groupe Sud Ouest chaque mois.*
+
+Sud Ouest 3ème marque de PQR en France avec 11 050 000 de lecteurs sur les 30 derniers jours.
+
+La République des Pyrénées progresse de 6% sur son nombre de lecteurs print et digital.
+
+Charente Libre progresse de 7% sur son audience mensuelle sur le digital.
+
+N'hésitez pas à en auprès de votre réseaux avec le kit de com !",,
+215,HIRUAK - Pays Basque,"Suite à une piste de prospection issue du fichier Pouey reçu en juillet 2023, un premier compte rendu de visite a été effectué en septembre 2023 avec HIRUAK. L'entreprise a souhaité communiquer sur ses 50 ans célébrés en mars 2024.  Un dispositif print et TV a été mis en place, comprenant :
+
+La parution d'un Grand Angle dans Sud Ouest diffusé dans les Landes, le Pays Basque et la Gironde.
+ 
+La création d'un spot de 30 secondes par Digivision diffusé pendant 2 semaines sur TVPI.
+Après une période de prospection prolongée, les résultats de la campagne ont été dévoilés en mars 2024. 
+
+Bilan : le client est satisfait avec une progression de 15% du chiffre d'affaires en avril.
+
+Budget : 11K€
+
+Commercial : Ludovic Jouault",,https://go.sudouest-publicite.com/e/433602/uHSwLKjoj4JQ4-edit-usp-sharing/b5c9fm/1654214697/h/zrbc_1J3EYHrKAn8DNXP5Asc7SamIPH3mQ8fkMoGOv4
+216,PME 16 - 17 IMMOBILIER,"Dans un contexte où les ventes automobiles sont à la peine : 2 suppléments de 8 pages sur les idées reçues sur les Véhicules Hybrides sont sortis 
+
+Un dispositif : 2 suppléments, une campagne display et des mini sites ont été mis en place. 
+
+Un travail collectif entre ETIGE et PME 
+
+Budget : 9,5K€ pour le 16 et 13,5K€ pour le 17.",,
+217,1er Salon du Camping car/vans et fourgon de tourisme - Rochefort (17),"Du 18 au 21 avril les 7 concessionnaires du département se sont associés pour la première fois pour créer un événement commun. 
+
+Avec un début d'année compliqué chez les concessionnaires, beaucoup de stock étaient à écouler. 
+
+Dispositif médias Classic : print  QSO et Sud Ouest Week-End + Display sur le 16 et 17, Nord Gironde simple et efficace conseillé par Sylvie Bernard.
+
+Budget : plus de 8k€ 
+
+Bilan : 5500 entrées des ventes sur site et à venir la deuxième édition aura lieu en septembre  et peut être plus vite que prévue",,
+218,MCDO - Barbezieux (16),"Le 5ème Mcdo de Charente à ouvert le mardi 16 avril à Barbezieux.
+
+Budget : 7K€ de signé par Samuel
+
+Dispositif : une double page, un arche, une manchette de Une , un F1 et du display 100% impactant.
+
+Bilan : client ravi.",,
+219,Nouveau Dossier commercial pour le spécial immobilier 2024,,,https://go.sudouest-publicite.com/e/433602/OS1wuOcbneVNc-edit-usp-sharing/b5c9g1/1654214697/h/zrbc_1J3EYHrKAn8DNXP5Asc7SamIPH3mQ8fkMoGOv4
+220,"L'équipe de l'agence Eliette était présente au salon Résolution, jeudi 11 avril.",,,https://go.sudouest-publicite.com/e/433602/hare-utm-medium-member-desktop/b5c9gb/1654214697/h/zrbc_1J3EYHrKAn8DNXP5Asc7SamIPH3mQ8fkMoGOv4
+221,Beach Rugby 2024 : c'est parti !,"La deuxième édition du Beach Rugby, organisée par Sud Ouest, la Ligue de Rugby Aquitaine et pilotée par Rugby 360 débarque sur la plage centrale d’Arcachon les 19 et 20 juillet prochains. Un tournoi entreprise est organisé, inscriptions ouvertes à toutes et à tous.",,https://go.sudouest-publicite.com/e/433602/1Aflg9MOWBmj4-edit-usp-sharing/b5c9gf/1654214697/h/zrbc_1J3EYHrKAn8DNXP5Asc7SamIPH3mQ8fkMoGOv4
+222,Retour sur Résolution #2,"La 2e édition de Résolution, la journée des solutions RSE, a eu lieu le 11 avril dernier à Bordeaux.
+
+Bilan : 1200 visiteurs, 60 exposants, 6 tables rondes
+
+Un supplément Sud Ouest x Placéco spécial #RSE
+
+Une belle opération événementielle, éditoriale et commerciale, qui illustre la bonne coopération entre entités du groupe : Placéco, Sud Ouest Publicité, la Cellule Créa et Côte Ouest.",,https://go.sudouest-publicite.com/e/433602/s-des-congres-de-bordeaux-5021/b5c9gj/1654214697/h/zrbc_1J3EYHrKAn8DNXP5Asc7SamIPH3mQ8fkMoGOv4
+223,Sud Ouest récompensé par l’étoile ACPM ⭐ pour  « la plus forte progression de l’audience marque »,(journal papier + digital) pour un titre de Presse Quotidienne Régionale au cours du premier trimestre 2024.,,https://go.sudouest-publicite.com/e/433602/ctivity3A718955531526310707229/b5c9gm/1654214697/h/zrbc_1J3EYHrKAn8DNXP5Asc7SamIPH3mQ8fkMoGOv4
+224,"Ce weekend, le MAG devient Sud Ouest Week-End","Nouveau format, nouveau nom, à partir de ce week-end, notre hebdomadaire fait peau neuve et révèle sa nouvelle identité. 
+
+Un format plus moderne aux mêmes dimensions que nos quotidiens. 
+Un nouveau nom « Sud Ouest Week-End » pour mettre en exergue sa place singulière. Un mag qui s’inscrit dans la continuité et reste fidèle à ses valeurs. 
+Une promesse éditoriale qui entend renforcer son identité « régionale ».
+
+Un plan de communication global est mis en place pour faire connaître et découvrir ce rendez-vous et notamment à nos annonceurs.
+
+ 
+Nous encourageons chacun à partager cette nouveauté sur vos réseaux sociaux dès aujourd’hui grâce à un kit de communication à votre disposition (à communiquer sans modération !) 
+
+Pour en savoir plus, vous disposez dans la Market Place du Kit média dédié.
+
+Pour ceux qui voudraient se rafraîchir la mémoire sur les évolutions commerciales de ce nouveau rendez-vous, le replay du campus animé par l’équipe Solutions Médias est disponible dans la Market Place.",,https://go.sudouest-publicite.com/e/433602/8-VYcyeyaJHcg-edit-usp-sharing/b57kqb/1641616155/h/v920xb3sortrc-4Oix0h8IVvB04wwtQJKlBtMhQq-R0
+225,"Event  ""la ligue dénonce"" - Gironde","L'objectif de la campagne a été de promouvoir l'événement “La ligue dénonce” et inciter la population à se mobiliser en assistant à cette journée organisé par la ligue contre le cancer qui aura lieu le 28 mai prochain.
+
+Cible : tous les publics 
+Zone géographique : Gironde
+
+Un dispositif print :
+
+manchette UNE print ( 2 parutions/ sem. durant 8 semaines)
+1 page Grand Angle pour le 11/05
+Budget : 9 KE 
+Signé par Carole Jallot ",,
+226,Nouvelle offre Spotify proposée par Eliette,"Création et diffusion de spots publicitaires audio de 30sec, sur la plateforme de streaming Spotify, à l'occasion des portes ouvertes des écoles CFA Poitou-Charentes et CCI Charente Formation.
+
+Idéal dans un objectif drive to store ou pour mettre en avant un évènement (festival, JPO).
+
+Diffusion des publicités entre les chansons ou entre les podcasts pour les clients non premium. 
+
+Possibilité de réaliser le spot en interne : le client envoie son script et donne des indications sur le type de voix souhaité : femme / homme, jeune / senior, enjoué / exalté , etc.",,https://go.sudouest-publicite.com/e/433602/f5-c631-4dfe-99e0-3d8ff2921e03/b57kqm/1641616155/h/v920xb3sortrc-4Oix0h8IVvB04wwtQJKlBtMhQq-R0
+227,Identité de marque pour Arobase intérim - Eliette,"Suite au RDV Focus Marque Employeur organisé par SOP et Eliette du 31/01 à Bayonne, nous avons signé en mode sprint avec Arobase Intérim. 
+
+Nous les accompagnons dans la conception d'une plateforme de marque ainsi que d'une nouvelle identité de marque. Budget signé : 14K€
+
+Bravo aux équipes Maguy, Isabelle, Elida et client de Virginie.",,
+228,Campagne offres éditeurs,"La communication fait actuellement une campagne sur la puissance de nos titres éditeurs afin de soutenir les nouvelles offres Visibilité. 
+
+Nous mettons à votre disposition un Kit de communication si vous souhaitez vous aussi relayer la puissance de nos titres et apporter des éléments de réassurance à votre réseau.",,https://go.sudouest-publicite.com/e/433602/Ci-pvx7AHnm6I-edit-usp-sharing/b57kqq/1641616155/h/v920xb3sortrc-4Oix0h8IVvB04wwtQJKlBtMhQq-R0
+229,3 réalisations Eliette ,Dernier campus proposé par Diane et Maguy ,,https://go.sudouest-publicite.com/e/433602/KYr3AbyhvS8Rp-view-usp-sharing/b57kqt/1641616155/h/v920xb3sortrc-4Oix0h8IVvB04wwtQJKlBtMhQq-R0
+230,L'année internet 2023 par Médiamétrie,Proposé par Isabelle Dousset,,https://go.sudouest-publicite.com/e/433602/IRE1uN41M-PYJ-view-usp-sharing/b57kqx/1641616155/h/v920xb3sortrc-4Oix0h8IVvB04wwtQJKlBtMhQq-R0
+231,Offres de Marketing d'influence,Proposé par Jean-Marie,,https://go.sudouest-publicite.com/e/433602/NMazvsEDXy-view-usp-drive-link/b57kr1/1641616155/h/v920xb3sortrc-4Oix0h8IVvB04wwtQJKlBtMhQq-R0
+232,Synchronisation des agendas et des e-mails dans Salesforce,"Dans le cadre de l'amélioration des usages autour de Salesforce, nous activons une fonctionnalité qui permet de :
+
+synchroniser vos agendas (SF et Google)
+capturer les mails échangés avec des clients dont l'adresse mail est renseignée dans les contacts
+IMPORTANT : à ce stade, cette fonctionnalité n'est accessible qu'aux commerciaux. 
+
+Mercredi 03 avril, vous allez recevoir un mail qui doit attirer toute votre attention.
+
+ 
+
+(si vous ne recevez pas le mail, pensez à regarder dans les SPAMS).
+
+En cas de souci, contacter Katia  Doublet en décrivant le souci rencontré.",,https://go.sudouest-publicite.com/e/433602/93VKo1ldWvAdm-view-usp-sharing/b57kr4/1641616155/h/v920xb3sortrc-4Oix0h8IVvB04wwtQJKlBtMhQq-R0
+233,Bilan santé Pays-Basques ,,,https://go.sudouest-publicite.com/e/433602/mWMOMog5g2EEx-view-usp-sharing/b57kr7/1641616155/h/v920xb3sortrc-4Oix0h8IVvB04wwtQJKlBtMhQq-R0
+234, Bilan CNDP,,,https://go.sudouest-publicite.com/e/433602/sk06LaB8dNsiF-view-usp-sharing/b57krb/1641616155/h/v920xb3sortrc-4Oix0h8IVvB04wwtQJKlBtMhQq-R0
+235,Les 1 an de Placéco Béarn,Placéco Béarn a fêté son premier anniversaire le 7 mars au Palais Beaumont. 300 chefs d'entreprise étaient présents. Au programme: un faux procès sur le sujet de la marque employeur.,,https://go.sudouest-publicite.com/e/433602/T4C5Xtrx2wN1y-view-usp-sharing/b57krf/1641616155/h/v920xb3sortrc-4Oix0h8IVvB04wwtQJKlBtMhQq-R0
+236,L'audio Digital : un marché en plein essor,"En pleine expansion, l'audio digital bouleverse la façon dont nous consommons et créons du contenu aujourd'hui...",,
+237,HOMEXPO - Gironde,"HOMEXPO est un village permanent de constructeurs de maisons individuelles situé à Bordeaux Lac
+
+Cette année ils souhaitent maintenir une bonne pression publicitaire dans un contexte de crise de l'immobilier et de la construction.
+
+Ils re-signent pour une campagne télé replay et Youtube avec un film réalisé par DIGIVISION, un abonnement META 6 mois, une campagne search à l'année pour un budget global de 35k€.
+
+Une belle signature collective entre Carole Jallot, Murielle Lefrancier, Julie Maingourd et Benjamin Legrand.",,https://go.sudouest-publicite.com/e/433602/tg1mIhZ5NbTts-view-usp-sharing/b4vkh1/1607555631/h/npZY-xpbNuNOA4r1k_giUiJB-v04dKK2w4M1yX-gF0E
+238,TPE PME GIRONDE,"Mardi 30 janvier, l'équipe commerciale du marché PME Sud Ouest Publicité s'est réunie pour sa première réunion de l'année 2024. Une journée dédiée au partage, à la collaboration et à la construction de nouvelles perspectives. 
+
+Merci et bravo aux commerciaux et managers Pierre-Emmanuel DAVANT, Emmanuelle Roullet, Murielle Lefrancier,  Julien Aymard, Mathieu Gonzalez, Olivier MODESTE pour leur travail et leur implication. Un immense merci également à notre invité Serge Dessay, dont la pensée inspirante confirme que tout est possible lorsque nous prenons la décision d'agir !",,
+239,Digivision pour Bordeaux Métropole,"""La Métropole au cœur battant"" une carte de voeux sous la forme d'un slam rythmé par des images de la Métropole, ses agents et ses habitants. Originalité et émotion au programme.",,https://go.sudouest-publicite.com/e/433602/ivity-7157754928508096512-EvlA/b4vkht/1607555631/h/npZY-xpbNuNOA4r1k_giUiJB-v04dKK2w4M1yX-gF0E
+240,Eliette partenaire de confiance de la CCI Gironde ,"L'agence Eliette a remporté un AMI  et est devenue ""partenaire de confiance"" de la CCI Bordeaux Gironde afin d'accompagner les TPE et PME dans leur développement tout au long de 2024.
+
+La CCI Bordeaux Gironde a sélectionné 3 agences pour les accompagner sur les thématiques suivantes :
+
+Design
+Stratégie de marque
+Brand (influence, RS, contenu)
+ 
+
+Ce partenariat dure 1 an durant lequel, la CCI mettra en relation les entreprises avec l'agence.",,https://go.sudouest-publicite.com/e/433602/e-All-secteur-14766-metier-All/b4vkhx/1607555631/h/npZY-xpbNuNOA4r1k_giUiJB-v04dKK2w4M1yX-gF0E
+241,Nouveautés Offre 2024,"Nous avons de nouvelles conditions tarifaires qui s'appliquent sur les offres programmatique sur mesure :
+
+Google display, Méta, Linkedin et Youtube : les frais de gestion passent de 20% à 30%
+
+ 
+Gravity, Dv 360 et Displayce : des frais de setup fixe de 300 € doivent être appliqués pour chaque campagne. Ces frais de setup correspondent au paramétrage de la campagne, intégration des visuels. Ces frais ne bénéficient pas de la remise CA.
+TV, audion et Leboncoin : rien ne change.
+Le book tarif et la calculette digitale sont à jour.
+
+Autre nouvelle, vous pouvez découvrir le kit média Week end disponible dans la market place.",,https://go.sudouest-publicite.com/e/433602/4JOHE7BFN-E9k-edit-usp-sharing/b4vkj7/1607555631/h/npZY-xpbNuNOA4r1k_giUiJB-v04dKK2w4M1yX-gF0E
+242,Retour sur les premier petit dej RDV Focus avec les experts Eliette,"1er rdv 31/01 à Bayonne très positif avec 3 très bons contacts PME : groupe AROBASE Interim (Virginie) avec une mise en concurrence Eliette sur projet de Marque, Groupe Bouney (Marie) pour les 75 ans en 2025 et Groupe Clim (Ludo) pour com Interne.
+
+Pour avoir plus d'informations sur vos rendez-vous, contactez Maguy ou Diane de chez Eliette !",,
+243,Résolution : la journée des solutions RSE,La journée des solutions RSE en Nouvelle-Aquitaine tient sa deuxième édition le 11 avril 2024 au Palais des Congrès de Bordeaux.,,
+244,Sud Ouest Evénement lance sa page LinkedIn,Découvrez la nouvelle page Linkedin du groupe à suivre pour tout savoir des prochains événements éditeurs et être relais des actualités des événements Sud Ouest.,,https://go.sudouest-publicite.com/e/433602/ny-sud-ouest-C3A9vC3A8nements-/b4vkjf/1607555631/h/npZY-xpbNuNOA4r1k_giUiJB-v04dKK2w4M1yX-gF0E
+245,Replay du campus sur les événements éditeurs,Découvrez la nouvelle page Linkedin du groupe à suivre pour tout savoir des prochains événements éditeurs et être relais des actualités des événements Sud Ouest.,,https://go.sudouest-publicite.com/e/433602/aeXlN2JAQP32h-view-usp-sharing/b4vkjb/1607555631/h/npZY-xpbNuNOA4r1k_giUiJB-v04dKK2w4M1yX-gF0E
+246,Bilan du Forum Santé et Avenir de La Rochelle - 18/01/24 ,La journée des solutions RSE en Nouvelle-Aquitaine tient sa deuxième édition le 11 avril 2024 au Palais des Congrès de Bordeaux.,,https://go.sudouest-publicite.com/e/433602/r-3NR5yvhed-H-view-usp-sharing/b4vkjj/1607555631/h/npZY-xpbNuNOA4r1k_giUiJB-v04dKK2w4M1yX-gF0E
+247,"Le  marché global du Search,  Social, Display et lAffiliation rencontrent une croissance en 2023 ",,,https://go.sudouest-publicite.com/e/433602/hare-utm-medium-member-desktop/b4vkjm/1607555631/h/npZY-xpbNuNOA4r1k_giUiJB-v04dKK2w4M1yX-gF0E
+248,📣 Les titres de presse du Groupe Sud Ouest se réinventent,,,https://go.sudouest-publicite.com/e/433602/nliactivity7165639704711794688/b4vkjq/1607555631/h/npZY-xpbNuNOA4r1k_giUiJB-v04dKK2w4M1yX-gF0E
+249,Le chantier de changement des JSO c'est parti !,"Ça y est, le chantier de changement de Laize a commencé au Centre d'Impression. La première grande étape pour Sud Ouest était la bascule à 5 éditions dès ce lundi 8 janvier.
+
+Un plan de communication interne et externe est mis en place pour informer au mieux les différentes parties prenantes :
+
+sms et mail auprès des abonnés print et numérique PDF
+email auprès des annonceurs SOP
+diverses communications via le quotidien, le site et l'application
+ 
+Le changement de format du journal représente pour l’entreprise une occasion de se projeter dans un nouveau journal, de renouveler son style sans rompre avec l’esprit Sud Ouest.
+
+Afin de garantir le bon déroulé des campagnes publicitaires de nos annonceurs, Katia et Philippe ont répondu à toutes vos questions dans le campus de ce jour. ",,https://go.sudouest-publicite.com/e/433602/Fd0Rf7oc0ie6M-edit-usp-sharing/b4k6ff/1574129160/h/q_1FDtJ5-L5rqpRzWtmqlFdM0xER1zK1FMVIqm5dTVE
+250,Dordogne - Dalbe,"La particularité de ce succès est que ce fut un travail d'une équipe.
+
+ 
+
+En effet, la synergie a été menée entre l'agence de Périgueux, le solution center, et l'équipe hors zone.
+
+Le client a décidé de nous tester sur l'année 2023 sur deux opérations qui furent très concluantes avec une augmentation du chiffre d'affaires, augmentation de la marge et une augmentation du trafic.... Bref un vrai succès suite aux recommandations et aux préconisations de nos différents experts.
+
+ 
+
+Le PDG de Dalbe a décidé donc de nous confier l'ensemble de sa communication au niveau national sur l'ensemble des magasins pour 5 opérations trafic et une campagne de notoriété TV avec un CA de 280 k€.",,
+251,Eliette - Campagne Sunêlia,"Nouveau client Eliette avec Sunêlia et Alexandra Michelet. 
+
+Eliette accompagne Sunêlia, une entreprise de réservation de camping, sur toute sa stratégie SEO et SEA.
+
+Deux objectif :
+
+Améliorer le positionnement SEO du site dans les résultats de recherches
+Reprendre l'accompagnement SEA et Meta ads pour la prochaine saison de réservations",,
+252,Offres soldes 2024,"Le début des soldes c'est demain ! Pour cette occasion, des tarifs sont proposés pour le print GSO, le Mag, Diverto et TV7 du 10/01 au 06/02/2024.",,https://go.sudouest-publicite.com/e/433602/spPVAOkyRxFAw-view-usp-sharing/b4k6g4/1574129160/h/q_1FDtJ5-L5rqpRzWtmqlFdM0xER1zK1FMVIqm5dTVE
+253,Tableau events 2024 ,"Retrouvez l'ensemble des événements du Groupe Sud Ouest, qui auront lieu en 2024, répartis par secteurs d'activités : 
+santé, immobilier, tourisme, sport, économie, gastronomie.",,https://go.sudouest-publicite.com/e/433602/gcAzyEbVnnFJI-edit-usp-sharing/b4k6g7/1574129160/h/q_1FDtJ5-L5rqpRzWtmqlFdM0xER1zK1FMVIqm5dTVE
+254,Bilan Les Aidants,,,https://go.sudouest-publicite.com/e/433602/gQ8iyrsV4ZyLvDgpyEugXYiEa-view/b4k6gb/1574129160/h/q_1FDtJ5-L5rqpRzWtmqlFdM0xER1zK1FMVIqm5dTVE
+255,Bilan Immobilier Pays Basque,,,https://go.sudouest-publicite.com/e/433602/Oa-pV9mAnfvMJ-view-usp-sharing/b4k6gf/1574129160/h/q_1FDtJ5-L5rqpRzWtmqlFdM0xER1zK1FMVIqm5dTVE
+256,Bilan Logement Social Bordeaux,,,https://go.sudouest-publicite.com/e/433602/QyafKFV-ddoe7-view-usp-sharing/b4k6gj/1574129160/h/q_1FDtJ5-L5rqpRzWtmqlFdM0xER1zK1FMVIqm5dTVE
+257,Retour sur les soirées Néo- Aquitains,,,https://go.sudouest-publicite.com/e/433602/hare-utm-medium-member-desktop/b4k6gm/1574129160/h/q_1FDtJ5-L5rqpRzWtmqlFdM0xER1zK1FMVIqm5dTVE
+258,Les marques arrivent sur le nouveau réseau social Threads,,,https://go.sudouest-publicite.com/e/433602/hare-utm-medium-member-desktop/b4k6gq/1574129160/h/q_1FDtJ5-L5rqpRzWtmqlFdM0xER1zK1FMVIqm5dTVE
+259,💯 La pub sélectionnée par l'équipe,"Le média de communication Stratégies, met en lumière l'importance du Bescherelle face à l'IA ChatGPT.",,https://go.sudouest-publicite.com/e/433602/H--igsh-MXQ4OXNkN3g1eHpqbg3D3D/b4k6gt/1574129160/h/q_1FDtJ5-L5rqpRzWtmqlFdM0xER1zK1FMVIqm5dTVE
+260,Quelques rappels durant cette période de transition :,"L'ensemble des services sont mobilisés et les horaires de clôture des rédactions avancées afin de garantir le bon déroulé de ce renouveau.
+Aucun tirage de jour ne sera réalisé
+Le paramétrage des emplacements réservables est effectué.
+Pensez à rester informés sur ces sujets via le chatter SOBIZ :)
+
+Côté annonceurs, un emailing sera envoyé en tout début d'année à notre fichier client afin de les informer de ce changement.
+
+Pour les équipes SOP, vous avez rendez-vous le 9 janvier avec Katia Doublet et Philippe le Pape pour un campus dédié. En attendant, vous allez tous recevoir en agence les numéros 0.
+
+Ensemble, faisons de ce changement une opportunité !",,https://go.sudouest-publicite.com/e/433602/urnal-sud-ouest-index-html-p-1/b4h71x/1565728443/h/1Qc3iyNNesubXVPQ5aoOpPXBIerSGv8xw7aoLYQJnLw
+261,Agence de l'eau Adour Garonne en Lot-et-Garonne,"Un dispositif print, web et audiovisuel pour sensibiliser et éduquer le grand public sur les enjeux de l'eau.
+
+L’objectif est d'émettre un discours simple, compréhensible et accessible à tous.
+
+la publication de publi rédactionnels print et web
+la production d'une émission TV
+la création de capsules- reportages l'enregistrement de podcast  
+la multidiffusion d'une bande annonce
+un teaser 
+un rendez-vous événementiel en booster de lancement",,https://go.sudouest-publicite.com/e/433602/-agence-de-leau-adour-garonne-/b4h724/1565728443/h/1Qc3iyNNesubXVPQ5aoOpPXBIerSGv8xw7aoLYQJnLw
+262,Bataille de Castillon en Gironde,"Avec l’intention de valoriser le patrimoine local, cette campagne est un voyage à travers l’Aquitaine, en pleine bataille de Castillon et toutes les étapes qui la constituent et la rendent si extraordinaire.
+
+Un dispositif audiovisuel à été mis en place pour une communication prenante, captivante et engageante. L'objectif a été de créer des contenus photos et vidéos au format créatif pour transmettre le message naturellement.  ",,https://go.sudouest-publicite.com/e/433602/VO2w-qbqTy4Eg-edit-usp-sharing/b4h727/1565728443/h/1Qc3iyNNesubXVPQ5aoOpPXBIerSGv8xw7aoLYQJnLw
+263,Eliette et SOP remportent l'appel d'offre pour l'ARS,"En avril dernier, l'ARS Nouvelle-Aquitaine a lancé une consultation pour renouveler ses contrats agence media, agence social, agence audiovisuelle et agence créa.
+
+Une équipe de projet a été constituée pour répondre aux expertises de création et médiaplanning,  de social media ainsi que stratégie média et médiaplanning.",,https://go.sudouest-publicite.com/e/433602/VO2w-qbqTy4Eg-edit-usp-sharing/b4h727/1565728443/h/1Qc3iyNNesubXVPQ5aoOpPXBIerSGv8xw7aoLYQJnLw
+264,100 ans d'Hossegor dans les Landes,"En septembre 2022, suite à un échange avec la nouvelle équipe municipale et sa nouvelle chargée de com, l'équipe des landes se positionne sur de la vidéo, de l'influence locale, de l'édition ou de l'évènementiel à l'occasion de l'événement ""les 100 ans d'Hossegor"". 
+
+
+Résultat ils ont été choisit pour :
+
+l''édition de 3 programmes (printemps, été, hiver) par l'équipe de Marie-Luce Ribot, incluant la distribution sous blister avec le MAG dans les Landes. Budget : 23k€
+L'édition d'un livre reprenant l'expo de 40 photos de personnages locaux Budget 22k€",,https://go.sudouest-publicite.com/e/433602/fmdXvw305gJ1Q-edit-usp-sharing/b4h72b/1565728443/h/1Qc3iyNNesubXVPQ5aoOpPXBIerSGv8xw7aoLYQJnLw
+265,La Cité de la BD en Charente,"Les équipes de Sud Ouest réalisent 
+
+tous les mois les catalogues d'expositions et animation du cinéma de la cité située à Angoulême. 
+relai des événements et expositions dans le quotidien Sud Ouest en gironde 
+Pour un budget annuel de 28k€ en 2023, propositions en cours pour 2024...",,https://go.sudouest-publicite.com/e/433602/GqZpIo4daA9oM-edit-usp-sharing/b4h72f/1565728443/h/1Qc3iyNNesubXVPQ5aoOpPXBIerSGv8xw7aoLYQJnLw
+266,Les boucheries Boeuf Tricolore en Charente-Maritime,"Accompagnement pour mettre en avant leur 9 boucheries en Charente-Maritime (17)  et dans le Yonne  (89).
+
+Accompagnement Facebook avec la diffusion de promotions, jeux concours, et d'actualités.
+
+Diffusion de 2 spots de pour 2 campagnes de TV segmentée à Pâques et en décembre en replay sur TF1. 
+
+Pour un budget annuel de 79k€ en 2023 et l'équivalent en 2024. ",,https://go.sudouest-publicite.com/e/433602/23tT8J36Q2FyA-edit-usp-sharing/b4h72j/1565728443/h/1Qc3iyNNesubXVPQ5aoOpPXBIerSGv8xw7aoLYQJnLw
+267,Posts réseaux sociaux pour Sud Ouest Emploi,"La cellule emploi à développé une Page Facebook sudouestemploi.com pour promouvoir les annonces du job board mais aussi mettre en ligne du contenu se rapportant à la thématique Emploi/Recrutement.
+
+Les posts Facebook à l'origine gratuit, ont été commercialisés pour devenir aujourd'hui indispensables à une reco Emploi ! 
+
+Résultats : 41 ventes en 2023 pour un CA de 10K€ ce qui est très encourageant pour 2024",,https://go.sudouest-publicite.com/e/433602/AayeT2F6zxFIg-edit-usp-sharing/b4h72m/1565728443/h/1Qc3iyNNesubXVPQ5aoOpPXBIerSGv8xw7aoLYQJnLw
+268,Livre Blanc Brand Content,"Nouveau livre blanc proposé par SOP sur le sujet du Brand Content. 
+
+L'objectif : apporter des réponses pratiques et utiles aux TPE et PME qui souhaitent mettre en place une stratégie de contenus.
+
+Afin de soutenir ce nouveau contenu, vous avez à votre disposition un Kit de communication avec tous les éléments pour relayer sur votre Linkedin : exemple de posts, visuels et lien de la page de téléchargement.",,https://go.sudouest-publicite.com/e/433602/LgvArqpm9WQms-edit-usp-sharing/b4h72q/1565728443/h/1Qc3iyNNesubXVPQ5aoOpPXBIerSGv8xw7aoLYQJnLw
+269,Retour sur l'édition 2023 des Prix de l'économie Neo-Aquitains,"7 novembre en Dordogne avec 300 participants
+14 novembre en Lot-et-Garonne avec 400 personnes
+21 novembre dans les Pyrénées-Atlantiques + de 300 participants
+28 novembre en Gironde avec 400 participants
+5 décembre dans les Landes + de 300 participants",,
+270,Nouveau MAG,Un numéro 0 du Nouveau MAG a été imprimé au Centre d'Impression de Bordeaux. L'équipe marketing de l'offre vous ,,https://go.sudouest-publicite.com/e/433602/blicite-nouveau-mag-index-html/b4h72t/1565728443/h/1Qc3iyNNesubXVPQ5aoOpPXBIerSGv8xw7aoLYQJnLw
+271,Lancement de la page Linkedin Rugby 360 ,en septembre dernier Rugby 360 lançait sa page LinkedIn dans un objectif de notoriété au sein de sa cible professionnelle. ,,https://go.sudouest-publicite.com/e/433602/y-rugby-360--viewAsMember-true/b4chsc/1552457347/h/NjUtJoEA6pmMls7KKWaixZmkcuWVHlP3oREuUwI04SI
+272,Lancement du site web Raffut,La revue Raffut fait également partie de Rugby 360. Un club des ambassadeurs Raffut s’est constitué et rassemble aujourd’hui une trentaine de chefs d’entreprises autour d’une passion commune : le rugby. Des événements sont régulièrement organisés afin de faire vivre ce club des ambassadeurs. Ce mois-ci Raffut lance son propre site web. ,,https://go.sudouest-publicite.com/e/433602/2023-12-05/b4chsg/1552457347/h/NjUtJoEA6pmMls7KKWaixZmkcuWVHlP3oREuUwI04SI
+273,Les Etoiles du Rugby Amateur,"Sud Ouest met à l'honneur le rugby amateur en 2024 ! Les Etoiles du Rugby Amateur sont des cérémonies qui récompensent l'ensemble de l'environnement du rugby amateur en Nouvelle-Aquitaine, des joueur-euse-s jusqu'aux arbitres en passant par le bénévole le plus investi au sein de son club.  L'objectif ? Faire rayonner le rugby sur le territoire et mettre en lumière l'ensemble des acteurs des clubs amateurs ! 
+
+Pour cette première édition, les Etoiles du Rugby Amateur débutent leur tournée à Bordeaux pour récompenser le département de la Gironde le 13 février prochain à l'Arkéa Arena. Les cérémonies auront également lieu sur les autres départements du Journal Sud Ouest les mois de mars et avril prochains. 
+
+Faites partie de l'aventure en contactant nos équipes commerciales !",,
+274,SOP sur le podium des Ratecard Stars,"Sud Ouest Publicité termine sur la seconde place du classement Ratecard Stars dans la catégorie ""Star Success Sell Side"" pour notre partenariat avec Smile Wanted.
+
+Pour rappel il s'agit d'un concours annuel qui récompense les acteurs phares de la publicité digitale.
+
+A noter que nous étions le seul groupe de la PQR nominé lors de cette cérémonie et terminons second de notre catégorie (notamment devant 366).
+
+Bravo à Benjamin Catel, en charge des revenus programmatiques pour cette belle visibilité et crédibilité pour notre groupe au sein du secteur de la publicité digitale.",,
+275,Agence de l'eau Adour Garonne en Lot-et-Garonne,Encore une belle réalisation pour la Chambre des Notaires de Gironde par Digivision,,https://go.sudouest-publicite.com/e/433602/hare-utm-medium-member-desktop/b4chsk/1552457347/h/NjUtJoEA6pmMls7KKWaixZmkcuWVHlP3oREuUwI04SI
+276,Les évènements éditeurs 2024... c'est parti !,"Découvrez-les 3 évènements éditeurs phare du 1er trimestre :
+
+La Conférence Santé Pays basque (janvier)
+Le Salon de l'Immobilier de la Dordogne (3/4 février)
+Le Salon de l'Immobilier de la Charente (9/10 mars)
+Côté contractualisation 2024, 7 évènements mercenaires sont a intégrer :
+
+Les Trophées du Nautisme (avril et septembre)
+Les Trophées de l'Environnement et du Climat (11 juin)
+Les Étoiles de l'Économie Béarn (novembre)
+Les Béarnais de l'Année (décembre)
+Les Charentais de l'Année (décembre)
+Les Néo Aquitains (novembre)
+Les Oscars du Sport (décembre)",,https://go.sudouest-publicite.com/e/433602/7bpZil6eMRt-W-view-usp-sharing/b4chsr/1552457347/h/NjUtJoEA6pmMls7KKWaixZmkcuWVHlP3oREuUwI04SI
+277,5 nouveaux talents ont rejoint les équipes de placéco ces dernières semaines : ,"Pierre-Henry CHAZEAU : Commercial en CDI à Bordeaux
+Laurianne GARNIER : Chargée événementiel, communication et production en CDI à Bordeaux
+Laura BARRAQUÉ : Animatrice réseau en CDI au Béarn
+Justine BARAT-LATUITE : Chargée de développement en alternance
+Corentin GAUTIER : Vidéaste en alternance
+Bienvenue à eux !",,
+278,,"Les chaînes WhatsApp, nouveaux canaux de diffusion des informations, via Mediarama.",,https://go.sudouest-publicite.com/e/433602/-nouveau-canal-de-distribution/b4chsv/1552457347/h/NjUtJoEA6pmMls7KKWaixZmkcuWVHlP3oREuUwI04SI
+279,,"L'équipe ETI/GE Girondine a réunit clients, partenaires et influenceurs dans un lieu d'exception bordelais.",,https://go.sudouest-publicite.com/e/433602/nliactivity7135938032993464321/b4chsy/1552457347/h/NjUtJoEA6pmMls7KKWaixZmkcuWVHlP3oREuUwI04SI
+280,Le nouveau Livre Blanc SOP x Eliette,"Sud Ouest Publicité et l'Agence Eliette proposent un nouveau livre blanc à télécharger autour des réseaux sociaux.
+
+L'objectif de ce document : apporter des réponses pratiques et utiles aux TPE et PME qui souhaitent développer leur présence sur les RS.
+
+Afin de soutenir ce nouveau contenu et booster les téléchargements, nous vous invitons à communiquer sur votre Linkedin.
+
+ 
+ 
+Pour cela rien de plus simple : vous avez à votre disposition un Kit de Communication avec tous les éléments dont vous avez besoin : exemple de posts, visuels et lien de la page de téléchargement.
+
+ Ensemble faisons rayonner nos expertises avec des contenus utiles !",,https://go.sudouest-publicite.com/e/433602/eB9-jbZ8qGJKA-edit-usp-sharing/b48wxv/1541370784/h/X6tsLQGBq4wcdjgbe4Qz5CcKcSGdza85p4c6TFMICpE
+281,40 + 64,"Supplément Francis Lavigne Développement en éditions Déléguées 
+
+Un supplément “SUD OUEST Partenaires” - 4 pages format tabloïd - encarté le mercredi 8 novembre 2023 : 
+
+- En Landes et Pays Basque dans Sud Ouest.
+
+- En Béarn dans Sud Ouest, La République des Pyrénées et l’Eclair.
+
+Déclinaison digitale du Supplément en Publiscope - Mini site home page hébergé sur sudouest.fr et larépubliquedespyrenees.fr.
+
+Accès via une campagne Display Native de 350 000 affichages sur nos sites éditoriaux pendant 1 semaine, et accès permanent au mini site pendant plusieurs mois avec possibilité de partage sur vos réseaux sociaux.
+
+3000 ex du supplément mis à disposition  en papier blanc 80gr.
+
+Budget net global : 15 610 €HT
+
+ 
+
+Témoignage du client  :
+
+""Par ce petit message, je tiens à vous remercier et  à vous féliciter pour la réussite de ce communiqué. Vous avez été excellents et ça a été un véritable plaisir de travailler avec vous pour vous confier les infos. 
+
+Par votre rigueur, votre professionnalisme et votre compréhension, vous avez construit un article unanimement apprécié par les lecteurs. « Magnifique, très bel article »… les compliments fusent quotidiennement.
+
+Un grand bravo. Maintenant, à nous d’être aussi bons.""",,
+282,DORDOGNE,"1ère vente pour notre alternante Emma DONADIER pour le SO Eco Dordogne 
+Mobi Experts (prospect) = 1/4 de page 460 € H.T
+
+Gagnante du Challenge PME - Lydia BESNARDIERE avec 10 clients et un CA de 12 200 € généré
+
+Cindy ANSARD signe un contrat avec Sud Ouest Bâches pour un montant de 39 400 € (création du site, logo...)
+
+Lydia BESNARDIERE vend un pack de 4 capsules pour son client GAUME ENERGIES pour un montant de 3000 € H.T",,
+283,Opération Commando de l'équipe gironde pour booster la commercialisation du Guide des séminaires,"Une journée dédiée et des ateliers pour se challenger en équipe sur la commercialisation du dossier Séminaires.
+
+Au 08/11 l'équipe est à 25 K€ et prévoyait 5K€ de plus soit 50 % de l'objectif régie.",,
+284,Le nouveau format qui en dit long,"“Le format long”, ce nouveau format digital offre une expérience de lecture optimale avec des contenus à forte valeur ajoutée adaptés à chaque cible. Il répond aux objectifs de visibilité et de notoriété des annonceurs en bénéficiant de la puissance du groupe.
+
+Visible dans un espace dédié sur le site Sud Ouest, nous optimisons le contenu pour un référencement Google performant. Un réel atout qui propose une variété de formats (article, podcast, vidéo, infographie,..) ce qui permet d’aborder un sujet sous différents angles afin de toucher une cible plus large.
+
+Déjà adopté par deux de nos clients, le format long a fait ses preuves auprès du CRT Nouvelle-Aquitaine et de Gironde Tourisme. Contactez l’agence Eliette pour en savoir plus sur l’offre.",,https://go.sudouest-publicite.com/e/433602/contenu-partenaire-/b48wy8/1541370784/h/X6tsLQGBq4wcdjgbe4Qz5CcKcSGdza85p4c6TFMICpE
+285,Vous avez à votre disposition une bannière à mettre sur votre profils Linkedin,L'objectif : uniformiser les pages des salariés du groupe.,,"https://go.sudouest-publicite.com/e/433602/Lo0MON7ylmP7--view-usp-sharing/b48wyc/1541370784/h/X6tsLQGBq4wcdjgbe4Qz5CcKcSGdza85p4c6TFMICpE
+
+https://go.sudouest-publicite.com/e/433602/shXsijWx4F-view-usp-drive-link/b48wyg/1541370784/h/X6tsLQGBq4wcdjgbe4Qz5CcKcSGdza85p4c6TFMICpE"
+286,Le Book Tarifs 2024 est disponible dans la Market Place,"Vous y retrouverez:
+
+- ce qui existe dans les configurations actuelles (du Journal, du MAG), et en parallèle ce qu'il sera possible de faire avec les évolutions prévues (Journal et MAG).
+
+- tous les autres items habituels (Pôle Audiovisuel, Médias spécialisés, Home média, Digital)
+
+- la confirmation qu'il n'y a pas d'augmentation tarifaire, à part quelques réajustements à la marge (SOD, zones de chalandises, ouvertures de Bassins)",,
+287,Fiches audiences ,Nouvelles fiches audiences départementales et zone par zone réactualisées dispo dans la Market Place.,,https://go.sudouest-publicite.com/e/433602/fgyeGqmoz3j9I-edit-usp-sharing/b48wyn/1541370784/h/X6tsLQGBq4wcdjgbe4Qz5CcKcSGdza85p4c6TFMICpE
+288,Replay campus sur le changement de journal,L'équipe marketing répond à toutes vos questions ,,https://go.sudouest-publicite.com/e/433602/y53wU9KEuI-view-usp-drive-link/b48wyr/1541370784/h/X6tsLQGBq4wcdjgbe4Qz5CcKcSGdza85p4c6TFMICpE
+289,,L'équipe de l'offre a mis à votre dispo un doc dédié à ce changement dans la Market Place,,https://go.sudouest-publicite.com/e/433602/f76kGt23el-mY-edit-usp-sharing/b48wyv/1541370784/h/X6tsLQGBq4wcdjgbe4Qz5CcKcSGdza85p4c6TFMICpE
+290,Replay campus sur la nouvelle formule du MAG ,,,https://go.sudouest-publicite.com/e/433602/QCT-ipabYJZH1-view-usp-sharing/b48wyy/1541370784/h/X6tsLQGBq4wcdjgbe4Qz5CcKcSGdza85p4c6TFMICpE
+291,Les Français et l'info ,Une étude publiée par NPA Conseil et Harris Interactive montre que nous sommes massivement favorables à l’éducation aux médias et à la labellisation des sources fiables. Mais il y a encore loin de la coupe aux lèvres… ,,https://go.sudouest-publicite.com/e/433602/-et-linfo--token-654b62a59eebb/b48wz2/1541370784/h/X6tsLQGBq4wcdjgbe4Qz5CcKcSGdza85p4c6TFMICpE
+292,Côte Ouest est certifié ISO 20121,"L'Agence événementielle du Groupe obtient la certification ISO 20121.
+
+Une certification qui valorise une réflexion déjà entamée par les équipes de l'agence, obtenue après deux années de travail collectif et un audit mené lors du Caraïbos Lacanau Pro 2023. ",,https://go.sudouest-publicite.com/e/433602/nt-la-certification-iso-20121-/b45ln8/1528748200/h/2vRKy0wR7lp29vVFdTlyNyueM_3_-C5h6A_DaCQ0vdU
+293,Julien Aymard organise une opération Commando avec des étudiants BTS pour booster les soirées Neo Aquitains.,"4 étudiants volontaires du BTS Communication d'Agen, en formation initiale ont relevé le défi de faire du phoning pour booster les inscriptions pour la soirée des Néo en seulement 3 jours.
+
+Les étudiants disposaient des fichiers d'inscrits des années antérieures avec pour objectif : contacter des dirigeants pour faire du volume en restant sur des profils qualitatifs.
+
+Briefés sur la première matinée, les étudiants ont été reçus en agence avec un petit déjeuner et mis en autonomie en binômes les deux  jours suivants. Des briefings et debriefings ont eu lieu les deux matinées suivantes pour évoquer les éventuels problèmes qu'ils ont pu rencontrer.
+
+Bilan : 100 personnes inscrites qui représentent à date la moitié des inscrits à la soirée Néo-Aquitains du Lot-et-Garonne.
+
+ 
+
+Un dispositif gagnant-gagnant qui permet de former des étudiants sur les notions fondamentales de relation client et soutient les équipes commerciales. 
+
+Une nouvelle opération sera mise en place en partenariat avec un BTS NDRC pour la conférence Santé de décembre prochain.",,
+294,SOP et Benjamin Catel nommés aux Ratecard Stars 2023,"Benjamin Catel, chargé des revenus programmatique va représenter SOP aux côtés de notre partenaire Smile Wanted aux Ratecard Stars dans la catégorie « Star Success Sell Side ».",,https://go.sudouest-publicite.com/e/433602/liactivity7119619778331193344-/b45lnk/1528748200/h/2vRKy0wR7lp29vVFdTlyNyueM_3_-C5h6A_DaCQ0vdU
+295,Retour sur le campus ,Isabelle Dousset vous a partagé la présentation de son campus sur les audiences de nos marques de Presse.,,https://go.sudouest-publicite.com/e/433602/uqODzr3NwR-view-usp-drive-link/b45lnn/1528748200/h/2vRKy0wR7lp29vVFdTlyNyueM_3_-C5h6A_DaCQ0vdU
+296,Offre Black Friday ,"Les offres du Black Friday sont en place, n'hésitez pas à en parler à vos annonceurs !
+
+Offre Black Friday semaine du 20 au 25 novembre ",,https://go.sudouest-publicite.com/e/433602/edit-slide-id-gf8dd756a1f-0-81/b45lnr/1528748200/h/2vRKy0wR7lp29vVFdTlyNyueM_3_-C5h6A_DaCQ0vdU
+297,Prolongement offre 30 jours pouvoir d'achat,"Prolongement de l'offre (uniquement sur les prospects et abandonistes)
+
+avec une nouveauté : le format carre météo",,https://go.sudouest-publicite.com/e/433602/edit-slide-id-g294f1aae84c-0-0/b45lnv/1528748200/h/2vRKy0wR7lp29vVFdTlyNyueM_3_-C5h6A_DaCQ0vdU
+298,"Commerciaux, du nouveau dans votre page d’accueil !","Depuis le 26 octobre, une nouvelle section a été ajoutée dans votre page d’accueil.
+
+L’objectif est de vous simplifier l’accès à des vues de listes sur vos comptes, affaires et contacts : vous y retrouvez plus rapidement les informations et les enregistrements que vous recherchez. Les vues de listes mises à disposition à travers ces liens d’accès seront susceptibles de changer pour s’adapter",,
+299,Bilan Conférence Polypose nasale,,,https://go.sudouest-publicite.com/e/433602/QKI5ut-aQwVQe-view-usp-sharing/b45lp2/1528748200/h/2vRKy0wR7lp29vVFdTlyNyueM_3_-C5h6A_DaCQ0vdU
+300,Bilan Trophées Innovation Nautisme La Rochelle,,,https://go.sudouest-publicite.com/e/433602/kN8JECN5Yq5n4-view-usp-sharing/b45lp5/1528748200/h/2vRKy0wR7lp29vVFdTlyNyueM_3_-C5h6A_DaCQ0vdU
+301, Résultats One Next S2 2023,,,https://go.sudouest-publicite.com/e/433602/hare-utm-medium-member-desktop/b45lp8/1528748200/h/2vRKy0wR7lp29vVFdTlyNyueM_3_-C5h6A_DaCQ0vdU
+302,C'est ça l'esprit corporate 🙂,,,https://go.sudouest-publicite.com/e/433602/hare-utm-medium-member-desktop/b45lpc/1528748200/h/2vRKy0wR7lp29vVFdTlyNyueM_3_-C5h6A_DaCQ0vdU
+303,"Apparemment, les Suédois en ont marre qu’on confonde leur pays avec la Suisse 😆",,,https://go.sudouest-publicite.com/e/433602/p-Cy6G0v0sIwt-/b45lpg/1528748200/h/2vRKy0wR7lp29vVFdTlyNyueM_3_-C5h6A_DaCQ0vdU
+304,Inspiration opportuniste pour du DOOH,,,https://go.sudouest-publicite.com/e/433602/hare-utm-medium-member-desktop/b45lpk/1528748200/h/2vRKy0wR7lp29vVFdTlyNyueM_3_-C5h6A_DaCQ0vdU
+305,Grand Cognac : le pluri-médias toujours en progression,"Cette année encore l'agglomération du Grand Cognac à fait appel a nos services. Une demande initiale web et pack tourisme (guide été + Magazine La Charente J'adore) pour un CA de 31,4k €. 
+
+Le CA initial à été gonflé suite à des ventes additionnelles :   
+
+- 2 events Charente Libre
+
+- une campagne sur l'Eau (pages, carrés Météo, pack exclu CL.FR arche + pavé + campagne web MF) 
+
+- une campagne sur un nouvel event imaginé par le président de Grand Cognac : Le ban de la distillation avec un supplément, un pack co-brandé So.fr
+
+Nous sommes à ce jour à 75 K€, une année au top !",,https://go.sudouest-publicite.com/e/433602/SI9ipL2cYi-view-usp-share-link/b41vnv/1514148640/h/S-WOXL-51VW7Nua-IaRM9Y-A0tiLdknK5Efl0EH2j-Q
+306,"Meubles Debiais, une success 100% Réseaux sociaux","Meubles Debiais est revendeur et créateur de meubles. Ils ont une forte notoriété sur le territoire nord Charente. Mais cette notoriété sur le territoire ne fait pas tout... Comme la plupart de nos annonceurs, ils ont besoin de toucher de nouveaux clients.
+
+ 
+
+Depuis plusieurs années, je leur avais parlé de l'animation des réseaux sociaux mais sans trop de succès car ils n'étaient pas prêts.
+
+2023 fût la bonne année ! Avec l'aide de Mathieu Ribeiro, nous avons présenté l'agence Eliette mais surtout l'offre ""full media social"". Après un long échange avec M. Debiais (prise de brief, présentation de l'offre, argumentation) nous avons réussi à valider le partenariat.
+
+Ce qui à fait signer M. Debiais c'est un entretien téléphonique avec M. Geoffroy (Maître Cochon) qui à joué en notre faveur.
+
+La satisfaction de Maître Cochon, du travail fourni par Eliette a permis à mon client de s'engager sur 1 an au full social media. La recommandation client est un vrai levier, cela à permis à mon client de lever les freins.
+
+Samuel JOSEPH - commercial PME Charente",,
+307,Suivre sa contract sur SOBIZ,"Le Marketing Client va apporter une nouvelle vue de liste sur les affaires pour suivre et accéder à toutes les affaires de type contrat créées depuis le 1er septembre. 
+
+Un tableau de suivi va être ajouté sur les tableaux de bords des commerciaux SOP en page d'accueil en collaboration avec les managers.",,https://go.sudouest-publicite.com/e/433602/-filterName-00B08000005TyRSEA0/b41vny/1514148640/h/S-WOXL-51VW7Nua-IaRM9Y-A0tiLdknK5Efl0EH2j-Q
+308,L'Agence Eliette a organisé une soirée Influences Locales le 26 septembre à l'UCPA de Bordeaux,"Pour rappel, Influences Locales est l'offre de marketing d'influence portée par l'agence Eliette. Nous mettons en relation des annonceurs très souvent de Nouvelle-Aquitaine, mais pas que, et des créateurs de contenu fiers de leur région à l'occasion de campagnes que nous créons. Aujourd'hui l'équipe Influences Locales est composée de 4 personnes : Jean-Marie, Coralie, Maud et Anaïs.
+
+Cette soirée était l'occasion d'animer la communauté de créateurs de contenu que nous montons au quotidien. C'était également une opportunité de les réunir avec des annonceurs qui souhaitent découvrir ou redécouvrir le marketing d'influence tout en affirmant leur ancrage territorial.
+
+Nous avons organisé cette édition à l'UCPA Sport Station Bordeaux qui était partenaire de cette soirée tout comme la Toque Cuivrée, Maison Meneau, Pin Galant, Bordelaise de literie, Bord'eau village et Les Bateaux Bordelais.
+
+ 
+
+Merci aux commerciaux qui ont vendu l'offre de la soirée aux partenaires présents : 
+
+Carole JALLOT (Toque Cuivrée et Les Bateaux Bordelais)
+Murielle LEFRANCIER (Maison Meneau)
+Alexandra MICHELET (Bord'eau Village)
+Krislaine DANCHE (UCPA et Pin Galant)
+Aurélie THOMAZIC (Bordelaise de literie)
+Maguy BUSNEL et Diane GUIBOURT qui ont coordonné le tout",,https://go.sudouest-publicite.com/e/433602/ivity-7114894673847926785-WDiU/b3yspr/1506019792/h/AqrWTgf_LZ20apXCxMimfhSlqwek_a_ImZScJnpflCU
+309,Actualités de l'équipe Dordogne,"Caroline signe avec les Notaires de la Dordogne 16k€ et 130k€ avec DALBE
+
+Cindy signe un contrat google chez un pisciniste
+
+Lydia continue de vendre des capsule vidéos pour deux clients auto et nouvelles énergies
+
+L'équipe, sous le pilotage d'Emmanuelle réalise un supplément Service à la Personne : 12.5k€ et via la rédaction, réalisation d'un supplément rentrée économique 12k€
+
+Caroline et Emmanuelle ont réalisé à ce jour leur objectif annuel 👏",,
+310,Actualités de l'équipe PME 16 et 17,"Un collectif d'artisans souhaite valoriser le travail artisanal et de haute qualité effectué sur le Domaine luxe 5* du Domaine de la Nauve? Samuel Joseph (QSO forever) propose un supplément 4 pages Grand Format dans Charente libre : budget 4k€
+
+👉des clients ravis, un post de la CAPEB repartagé et joli coup de pub pour Le Domaine de la Nauve !",,https://go.sudouest-publicite.com/e/433602/BH6qEQ4YSrtuP-view-usp-sharing/b3yspv/1506019792/h/AqrWTgf_LZ20apXCxMimfhSlqwek_a_ImZScJnpflCU
+311,Première capsule Vidéo sur les réseaux pour Gite de France et un joli contrat qui monte avec Sylvie Bernard.,"Le client souhaite recruter de nouveaux adhérents à Gite de France en Charente Maritime et rajeunir son image.
+
+A découvrir très bientôt sur les RS",,
+312,,"Lancement de la commercialisation du 8ème Salon de L'immobilier de la Charente par Nina Soun prévu les 9 et 10 mars 2024, à suivre...",,
+313,Un premier post co-brandé à Grand Cognac vendu par Marie Cocuaud.,"Une belle campagne multimédias sur octobre/novembre à Grand Cognac pour des portes ouvertes pour découvrir la Distillation du Cognac.
+
+Le ban de la Distillation budget 16500€ avec 2 *4 pages en charente et Charente Maritime + programmatique + campagne co-brandé Sud Ouest ",,https://go.sudouest-publicite.com/e/433602/BH6qEQ4YSrtuP-view-usp-sharing/b3yspv/1506019792/h/AqrWTgf_LZ20apXCxMimfhSlqwek_a_ImZScJnpflCU
+314,Le service ADV s'enrichit d'une nouvelle mission : la gestion des litiges,"A partir du 1er octobre, merci d'envoyer toutes vos demandes de litiges à l'adresse mail suivante : litiges@sudouest.fr
+
+Pour les autres missions de l'ADV, c'est toujours le mail adv@sudouest.fr qui est à utiliser.
+
+Pour rappel : Laurence Larignon est la spécialiste des factures clients à déposer sur les plateformes  (Chorus et autres). Marie Laure et Nathalie traitent les autres missions ADV (validation clients, facturation client, factures fournisseurs, piges...)
+
+Pour les échanges marchandises Stéphanie Delpon devient votre nouvelle interlocutrice",,
+315,Kit Media 2024 Rugby 360,Le nouveau Kit Media de l'offre Rugby 360 est disponible dasn la Market Place,,https://go.sudouest-publicite.com/e/433602/PtbfGUORgAnd4Ji-usp-drive-link/b3yspy/1506019792/h/AqrWTgf_LZ20apXCxMimfhSlqwek_a_ImZScJnpflCU
+316,Replay du campus sur les offres,Le replay du campus sur les dernières offres digitales est disponible dans la Market Place,,https://go.sudouest-publicite.com/e/433602/iFZENxnzlL-view-usp-drive-link/b3ysq2/1506019792/h/AqrWTgf_LZ20apXCxMimfhSlqwek_a_ImZScJnpflCU
+317,L'événement Résolution revient,"SAVE THE DATE ! la 2ème édition de Résolution aura lieu le 11 avril prochain au Palais des Congrès de Bordeaux.  Nous attendons cette année 60 exposants et 1500 visiteurs, des ateliers avec des experts de la RSE, des fresques, des RDV diagnostic consultants et des conférences et tables rondes.",,
+318,"Camille LESPES, chef de produit emploi","Peux-tu te présenter ? Je suis Camille LESPES, je vais avoir 38 ans, je suis mariée et maman d’une petite tornade prénommée Agathe, qui vient de faire 2 ans. Je suis une grande épicurienne, authentique et punchy ! 
+
+Ça fait 16 ans cette année que je suis rentrée à Sud Ouest, quand j’y pense c’est dingue ! J’ai commencé au service des ventes à Agen à 20 ans, puis Angoulême et Saintes, et après un rapide passage à Mont de Marsan, je suis arrivée à la pub à Anglet, puis aux Annonces Officielles à Bordeaux et maintenant à l’Emploi! Entre-temps il y a une grave maladie, des grossesses douloureuses, toutes ces batailles ont façonné la personne que je suis aujourd’hui !
+
+En quoi consiste ta nouvelle mission ? Ma mission sur le marché de l'emploi et de la com RH est très claire : accompagner les entreprises dans leur stratégie de recrutement dans le grand Sud Ouest et promouvoir et développer leur marque Employeur à travers nos différents canaux de diffusion. 
+
+On a de très beaux produits pour ça et une efficacité redoutable sur notre site sudouestemploi.com (125 000 offres d'emploi en Nouvelle Aquitaine) et sur nos réseaux sociaux, notamment notre Facebook avec ses 10 000 abonnés ! Je peux également accompagner les commerciaux quand leurs clients ont besoin de recruter.
+
+ 
+Quelle est ton actualité du moment ? Ça fait à peine un mois que je suis en poste, mais les débuts sont prometteurs, j’ai signé une belle campagne de marque employeur avec Club Med Handicap, une première com avec la DDFIP 16 pour le recrutement des futurs contrôleurs des impôts sur la Charente sur un ton très décalé! Sans compter les demandes de nos petits entrepreneurs locaux qui nous font vraiment une confiance totale pour leurs recrutements ! Et j’ai encore de belles pistes en perspective !
+
+Quel est ton péché mignon ? ...J’en ai tellement! Mais je mettrais en premier le petit verre de rouge du vendredi soir pour fêter la fin d’une belle semaine de travail et le début d’un week-end en famille ! ",portrait,
+319,"Retour en vidéo sur le Forum Horizon(s), 2ème édition",,,https://go.sudouest-publicite.com/e/433602/ivity-7114976597471830017-LSXL/b3ysq8/1506019792/h/AqrWTgf_LZ20apXCxMimfhSlqwek_a_ImZScJnpflCU
+320,Netflix détourne les pubs de luxe pour la sortie de Lupin,,,https://go.sudouest-publicite.com/e/433602/etourne-publicites-luxe-lupin-/b3ysqc/1506019792/h/AqrWTgf_LZ20apXCxMimfhSlqwek_a_ImZScJnpflCU
+321,Connaissez-vous bien les bonnes pratiques sur Linkedin ?,"Bon nombre d'entre vous prennent la parole sur Linkedin, et pour certains de manière quotidienne. J'encourage vivement ces efforts car ils renvoient une image positive de l'entreprise et permettent de montrer notre compétitivité tout en favorisant le dialogue avec nos clients, prospects et marchés.
+
+Afin que nous travaillions tous dans le même objectif, je souhaite à nouveau mettre l'accent sur les bonnes pratiques, conseils et règles pour un usage responsable et collaboratif de la plateforme.
+
+- Je ne publie pas des contenus privés sur un réseau professionnel
+
+- Mes prises de paroles sont mesurées (les conflits se règlent en privé)
+
+ 
+- Je n'hésite pas à repartager les contenus publiés ou je tague le compte à l'origine du contenu (@SUD OUEST PUBLICITE ou @Groupe Sud Ouest par exemple)
+
+- Je structure mon post pour qu'il soit clair et lisible (pas de copier/coller brut)
+
+Les équipes terrain êtes les prescripteurs de la régie et la première vitrine chez nos annonceurs. Vous êtes un pilier essentiel de la notoriété de notre marque !
+
+Enfin, si vous avez des sujets, des offres d'emploi que vous souhaitez partager sur les réseaux, n'hésitez pas à me solliciter, nous vous aiderons à structurer le post et créer un visuel adapté pour en maximiser l'impact !
+
+Pour rappel, vous avez un Guide Social Media à votre disposition dans la Market Place qui peut vous guider dans vos habitudes de partage.",,https://go.sudouest-publicite.com/e/433602/EoecwUygqpVMJ-view-usp-sharing/b3vpny/1495746724?h=UoLuCa2QAhATMrZx5gmPfKvRxWA7Bp6eu4xDRxrxM40
+322,"En Nouvelle-Aquitaine, 2 décideurs économiques sur 3 lisent les journaux du Sud Ouest en version papier ou digital 💼","224 000 cadres et dirigeants de Nouvelle-Aquitaine s'informent avec les quotidiens du Sud Ouest* en édition papier, site ou application.
+
+Cela fait des Journaux du Sud Ouest la 1ère marque de presse en Nouvelle-Aquitaine sur la cible des décideurs économiques.
+
+*Résultats issus de l'étude One Next Influence Global 2023, audience BRAND 30 jours.
+Les quotidiens du Groupe Sud Ouest : Sud Ouest , Charente Libre , La République des Pyrénées , L'Eclair, Dordogne Libre",,https://go.sudouest-publicite.com/e/433602/nliactivity7110518024926834688/b3vpp2/1495746724?h=UoLuCa2QAhATMrZx5gmPfKvRxWA7Bp6eu4xDRxrxM40
+323,AGENCE DE L'EAU ADOUR GARONNE,"Signature de Marie Lagaüzère avec l'Agence de l'eau Adour Garonne (Eau grand Sud Ouest).
+Création d'un rendez-vous avec les lecteurs de Sud Ouest et les téléspectateurs de TV7.
+
+8 émissions TV + 8 Podcasts + 8 pages en édition déléguée pour du print + web.
+
+Objectif : Faire de la pédagogie et sensibiliser le grand public aux enjeux de l'eau. Mettre en avant les experts de l'agence.
+
+Le naming de l'émission : Temp'O, le mag de l'eau du grand Sud Ouest.
+CA : 247 556 € HT",,https://go.sudouest-publicite.com/e/433602/lachainetv7-emissions-temp-o-/b3vpp5/1495746724?h=UoLuCa2QAhATMrZx5gmPfKvRxWA7Bp6eu4xDRxrxM40
+324,FILHET ALLARD ,"Elaboration d'une émission de TV lors de la convention annuelle de FILHET ALLARD. Diffusée par canaux internes (1000 collaborateurs).
+
+Teaser, plateau façon ''Drucker'', grand écran infodécor, préparation à l'écriture, réalisation avec insertion d' infographies et de médias d'illustration, diffusion live avec participation active des collaborateurs...
+
+Démo globale plateau TV webcast (devis sur mesure).
+CA : 23 000 €",,https://go.sudouest-publicite.com/e/433602/Dbh-em56rs8RNPo52b-usp-sharing/b3vpp8/1495746724?h=UoLuCa2QAhATMrZx5gmPfKvRxWA7Bp6eu4xDRxrxM40
+325,CHARLES III sur TV7,"Ce vendredi 22 septembre, TV7 était en direct pour la venue de CHARLES III.
+
+2 partenaires se sont associés à ce programme avec billboards autour du programme et diffusion de spots dans les écrans publicitaires.
+CA :  3000 €",,https://go.sudouest-publicite.com/e/433602/QY3DoG0Jjw-view-usp-drive-link/b3vppc/1495746724?h=UoLuCa2QAhATMrZx5gmPfKvRxWA7Bp6eu4xDRxrxM40
+326,Comment savoir si un client n'est plus adressable,"Dans la partie “Abonnement”, on trouve les infos sur son état d'abonnement à nos communications mail, notamment s'il est opt-out (non adressable).
+
+Si un client n’est plus adressable, sur SOBIZ un tag apparait sur le compte client : “désinscription d'adresse e-mail”.
+
+La désinscription se fait automatiquement à partir du moment où le client s’est désabonné par mail.",,
+327,Nettoyage prospects,"En bas de la fiche contact SOBIZ apparaît un volet sur les informations issues Pardot (outil d'adressage).
+
+La case “Archivé” est cochée quand le prospect Pardot a été mis dans la corbeille donc ils ne reçoivent plus nos communications. ",,
+328,Tutos vidéo SOBIZ,"Découvrez les tutoriels réalisés par l'équipe Marketing Client pour connaître tous les tips de SOBIZ.
+
+Disponible dans la Market Place, rubrique ""SO BUSINESS - Mode d'emploi"" > Tutos vidéos.",,https://go.sudouest-publicite.com/e/433602/-kYFwuNfxA-view-usp-drive-link/b3vppv/1495746724?h=UoLuCa2QAhATMrZx5gmPfKvRxWA7Bp6eu4xDRxrxM40
+329,Offre Vidéo - post co-brandé,,,https://go.sudouest-publicite.com/e/433602/P2raVHCcy8xXw-edit-usp-sharing/b3vpq2/1495746724?h=UoLuCa2QAhATMrZx5gmPfKvRxWA7Bp6eu4xDRxrxM40
+330,Offre Digital Grand Format 2023,,,https://go.sudouest-publicite.com/e/433602/nQC1duoZTl2d8-edit-usp-sharing/b3vpq5/1495746724?h=UoLuCa2QAhATMrZx5gmPfKvRxWA7Bp6eu4xDRxrxM40
+331,Le contenu éditorial du 4ème numéro de FIL VERT est arrivé,"Comment agir près de chez soi pour la transition écologique et sociale ? 
+
+Vous trouverez, comme d'habitude, le dossier commercial dans la Market Place.",,https://go.sudouest-publicite.com/e/433602/SzHuQmVMEM-gA-edit-usp-sharing/b3vpq8/1495746724?h=UoLuCa2QAhATMrZx5gmPfKvRxWA7Bp6eu4xDRxrxM40
+332,Tableau récap : nouveau MAG  ,"En 2024, le mag évolue. Le 1er numéro sortira le 13 avril 2024. 
+Nous aurons désormais uniquement la page, la 1/2 page largeur, et le 1/4 de page hauteur.
+
+Pour ce qui concerne la page, 4 solutions : en 2ème de couv, en page 7, en P 29 (recto face ""dans nos archives"", ou en DER). Nous avons à notre disposition 1 vraie PANO centrale. 
+
+⚠️ Attention, plus de streamer, plus de blister, plus de sur la couverture ",,https://go.sudouest-publicite.com/e/433602/Za4F6qn2r9uoP-view-usp-sharing/b3vpqc/1495746724?h=UoLuCa2QAhATMrZx5gmPfKvRxWA7Bp6eu4xDRxrxM40
+333,Bilan conférence Eau en Charente-Maritime,,,https://go.sudouest-publicite.com/e/433602/DB38NGqCbV8cH-view-usp-sharing/b3vpqg/1495746724?h=UoLuCa2QAhATMrZx5gmPfKvRxWA7Bp6eu4xDRxrxM40
+334,Bilan conférence transition environnementale 64,,,https://go.sudouest-publicite.com/e/433602/2faTz00p5ne3A-edit-usp-sharing/b3vpqk/1495746724?h=UoLuCa2QAhATMrZx5gmPfKvRxWA7Bp6eu4xDRxrxM40
+335,La Foulée des Entreprises,Retour sur l'édition 2023 de la Foulée des Entreprises qui enregistre un nombre de participants record ! Bravo Ludovic Jouault et toute l'équipe de Bayonne pour cette belle réussite collective !,,https://go.sudouest-publicite.com/e/433602/liactivity7092443928074825728-/b3s591/1486713333?h=0R7b2hC_n7VHNF3kl_ZStooJMezRdxncC7pyYoJ5D50
+336,Réalisation Digivision,Une réalisation vidéo pour marquer le partenariat de la Chambre des Notaires de Gironde avec le Caraibos Lacanau Pro,,https://go.sudouest-publicite.com/e/433602/liactivity7091711592391667712-/b3s594/1486713333?h=0R7b2hC_n7VHNF3kl_ZStooJMezRdxncC7pyYoJ5D50
+337,Coupe du monde de rugby : c'est parti !,"La Coupe du Monde de Rugby a démarré et les médias du Groupe Sud Ouest se mobilisent pour couvrir la manifestation sous différents formats. De nombreuses opportunités de communication et de potentiels pour nos annonceurs !
+
+📌 La rédaction mobilise 20 journalistes et photographes ainsi que 3 envoyés spéciaux avec le XV de France qui suivront cet événement d'exception de près.
+
+📌 Un Hub aux couleurs de la Coupe du Monde réunit toutes les informations sur la compétition : actualités de la compétition et de l’équipe de France, calendrier et résultats, direct matchs, reportages. Mais aussi suivi en live des journées des matchs de l’équipe de France et des matchs se déroulant à Bordeaux.
+
+📌 Une série de vidéos ""Tout savoir sur le rugby"" traite de manière décalée la culture Rugby, en répondant à des questions aussi fondamentales que “Pourquoi le ballon est-il ovale ?”, “Comment une faute d’orthographe peut-elle être à l’origine du surnom “All Blacks ?“.
+
+📌 Un podcast exclusif de la rédaction ""Les Bleus contre les Blacks"" sur les France - Nouvelle-Zélande qui ont marqué l'histoire du Mondial.
+
+📌 La newsletter Rugby Mail devient exceptionnellement quotidienne et informera tous les amateurs de rugby tout au long de la compétition.
+
+📌 3 Hors-Séries exceptionnels sur l'histoire du XV de France, des coupes du monde précédentes
+
+📌 Côté audiovisuel, TV7 propose une émission spéciale pour le match d’ouverture ainsi que des émissions hebdomadaires avec des invités exclusifs en présence de Guy Accoberry.
+
+Bravo à toutes les équipes qui se mobilisent pour faire de cette compétition un temps fort de nos médias et du Groupe Sud Ouest.",,https://go.sudouest-publicite.com/e/433602/rugby-coupe-du-monde-de-rugby-/b3s597/1486713333?h=0R7b2hC_n7VHNF3kl_ZStooJMezRdxncC7pyYoJ5D50
+338,Un dossier RSE pour les annonceurs,Un nouveau dossier désormais disponible dans la Market Place pour présenter les engagements RSE du Groupe. Quelques slides pour montrer à vos annonceurs les engagements eco-responsables de notre centre d'impression et nos filiales.,,https://go.sudouest-publicite.com/e/433602/mgwxvrQxUs6M7-view-usp-sharing/b3s59b/1486713333?h=0R7b2hC_n7VHNF3kl_ZStooJMezRdxncC7pyYoJ5D50
+339,Premier rendez-vous du FSA le 19/09 à Bordeaux,5 dates et 5 rendez-vous sur notre territoire à découvrir et à partager !,,https://go.sudouest-publicite.com/e/433602/nouvelle-aquitaine-2023-09-19-/b3s59f/1486713333?h=0R7b2hC_n7VHNF3kl_ZStooJMezRdxncC7pyYoJ5D50
+340,J-15 avant la 2ème édition du forum Horizon(s) à Bordeaux,Le rendez-vous incontournable de la filière jeu vidéo avec un programme passionnant !,,https://go.sudouest-publicite.com/e/433602/ent-horizons-video-games-2023-/b3s59j/1486713333?h=0R7b2hC_n7VHNF3kl_ZStooJMezRdxncC7pyYoJ5D50
+341,Murielle LEFANCIER Responsable PME Gironde,"Peux-tu te présenter ? j'ai un parcours dans les médias et orienté développement commercial entre Paris et Bordeaux. J'ai fait mes études à INSEEC Bordeaux pour revenir quelques années sur Paris. Chez TF1 pub au service sponsoring sportif puis chez Dentsu (ex Carat) dans l'achat d'espace pub TV. Puis j'ai intégré IP TV au moment du démarrage des chaines du câble et du satellite en commercialisant Fox Kids, MTV, La 5, Arte et W9. En 2000, j'ai profité de la bulle internet pour intégrer Nomade.fr (le premier moteur de recherche Français qui a évidemment disparu) racheté en suivant par Liberty Surf et Tiscali (aussi dead ;))
+
+J'ai rejoint Bordeaux en 2003 ou j'ai lancé l'édition bordelaise de 20 Minutes, puis intégrer la régie de Cdiscount pour développer le business en région. Petit aparté dans mon parcours media : Le FC Girondin de Bordeaux m'a contacté pour intégrer leur équipe commerciale (pas sur le terrain) pour développer les partenaires du club avec l'arrivée du Matmut. En 2020, j'ai rejoint l'agence Link pour développer le business en Nouvelle Aquitaine sur le social media et la prod vidéo. Et me voici très heureuse aujourd'hui d'intégrer le pôle PME de SOP.
+
+Quelles sont tes missions actuelles ? Je suis en binôme avec Mathieu Gonzalez pour manager l' équipe PME Gironde, une très belle équipe.
+
+Quelle est ton actualité du moment ? Je prends des cours de tournage (céramique) et même si Patrick Swayze n'est plus là, je m'éclate, cela me vide l'esprit...
+
+Quel est ton péché mignon ? le fromage dans tous ses états !",,
+342,"Margot BARATON Responsable Social Média chez Eliette
+","Peux-tu te présenter ? Je m'appelle Margot je suis bordelaise, j'ai 33 ans, et je suis Responsable Social Media au sein de l'Agence Eliette.
+
+Quelles sont tes missions actuelles ? Je m'occupe de proposer des stratégies réseaux sociaux aux clients de l'Agence Eliette. J'ai une super team avec moi pour m'accompagner dans cette nouvelle aventure !
+
+Quelle est ton actualité du moment ? Je me prépare pour la Coupe du Monde de Rugby ! J'ai un entourage qui est très ""rugby"" alors on attend ça avec impatience ! Allez le XV de France !
+
+Quel est ton péché mignon ? Je suis passionnée de cuisine, notamment de tout ce qui est salé. Mais j'ai quand même une passion dévorante pour la pizza et la sauce piquante",,
+343,L'attention jour un rôle crucial dans l'efficacité des investissements médias,Selon Teads et Lumen,,https://go.sudouest-publicite.com/e/433602/NTYyYWQyMDBmNTg0YWIyYTQifQ3D3D/b3s59m/1486713333?h=0R7b2hC_n7VHNF3kl_ZStooJMezRdxncC7pyYoJ5D50
+344,L'implication d'un groupe média face aux engagements RSE,Interview de Florence Girou du Groupe Sud Ouest sur les engagements du Groupe,,https://go.sudouest-publicite.com/e/433602/ements-rse-par-florence-girou-/b3s59q/1486713333?h=0R7b2hC_n7VHNF3kl_ZStooJMezRdxncC7pyYoJ5D50
+345,Au tour du WWF de rebondir sur le nouveau nom de Twitter...,,,https://go.sudouest-publicite.com/e/433602/link-igshid-MzRlODBiNWFlZA3D3D/b3s59t/1486713333?h=0R7b2hC_n7VHNF3kl_ZStooJMezRdxncC7pyYoJ5D50
+346,Placéco a organisé sa grand soirée de rentrée jeudi 7 septembre,,,https://go.sudouest-publicite.com/e/433602/hare-utm-medium-member-desktop/b3s59x/1486713333?h=0R7b2hC_n7VHNF3kl_ZStooJMezRdxncC7pyYoJ5D50
