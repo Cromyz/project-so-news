@@ -24,14 +24,22 @@ client = genai.Client(api_key=api_key)
 
 # --- FONCTIONS DE CHARGEMENT CSV ---
 def parser_csv(reader):
-    """Parse un DictReader CSV et retourne une liste d'articles"""
+    """Parse un DictReader CSV et retourne une liste d'articles.
+    Format attendu : ID, Titre, Description, Tags, URL (ou Titre, Description, Tags, URL en rétrocompatibilité).
+    """
     articles = []
-    for ligne in reader:
+    for i, ligne in enumerate(reader):
+        raw_id = (ligne.get('ID') or '').strip()
+        raw_titre = (ligne.get('Titre') or '').strip()
+        raw_desc = (ligne.get('Description') or '').strip()
+        raw_tags = (ligne.get('Tags') or '').strip()
+        raw_url = (ligne.get('URL') or '#').strip()
         articles.append({
-            "titre": ligne.get('Titre', 'Sans titre'),
-            "description": ligne.get('Description', 'Pas de description'),
-            "tags": ligne.get('Tags', ''),
-            "url": ligne.get("URL", '#'),
+            "id": raw_id if raw_id else str(i),
+            "titre": raw_titre if raw_titre else "Article sans titre",
+            "description": raw_desc if raw_desc else "Aucune description disponible",
+            "tags": raw_tags,
+            "url": raw_url if raw_url else '#',
         })
     return articles
 
@@ -74,11 +82,12 @@ def charger_articles():
         return []
 
 def construire_contexte(articles):
-    """Construit le contexte texte pour l'IA (sans les URLs)"""
+    """Construit le contexte texte pour l'IA (sans les URLs), inclut l'ID pour le matching."""
     contexte = ""
     for i, art in enumerate(articles):
         contexte += f"""
 --- ARTICLE {i + 1} ---
+ID : {art['id']}
 TITRE : {art['titre']}
 DESCRIPTION : {art['description']}
 TAGS : {art['tags']}
@@ -95,6 +104,19 @@ def extraire_tags_uniques(articles):
             if tag:
                 tags_set.add(tag)
     return sorted(tags_set, key=str.lower)
+
+
+def rechercher_par_tag_exact(question, articles, tags):
+    """Si la requête correspond exactement à un tag, retourne les IDs des articles sans appeler l'API."""
+    q = question.strip().lower()
+    if not q or q not in {t.lower() for t in tags}:
+        return None
+    ids = []
+    for art in articles:
+        art_tags = [t.strip().lower() for t in art['tags'].split(',') if t.strip()]
+        if q in art_tags:
+            ids.append(str(art['id']))
+    return ids
 
 # 2. Cache avec rechargement automatique (TTL = 5 minutes)
 CACHE_TTL = 300
@@ -114,48 +136,110 @@ def get_donnees():
         _cache["last_refresh"] = now
     return _cache["articles"], _cache["tags"]
 
-def build_system_instruction(articles):
+def build_system_instruction(articles, feedback=None):
     contexte = construire_contexte(articles)
-    return f"""
-Tu es un assistant de recherche bibliographique interne.
-Ton rôle est de trouver les articles les plus pertinents dans la base de données fournie ci-dessous.
-
+    feedback_block = ""
+    if feedback:
+        feedback_block = f"\nRETOUR DU VÉRIFICATEUR (à corriger) : {feedback}\n"
+    return f"""Tu es un assistant de recherche bibliographique.
+{feedback_block}
 BASE DE DONNÉES :
 {contexte}
 
-RÈGLES DE RÉPONSE :
-1. Si aucun article ne correspond, réponds exactement : []
-2. Si tu trouves des articles pertinents, retourne UNIQUEMENT un tableau JSON avec les TITRES EXACTS des articles trouvés.
-3. Exemple de réponse attendue : ["Titre article 1", "Titre article 2"]
-4. Les titres doivent correspondre EXACTEMENT à ceux de la base (copie-les caractère par caractère).
-5. Ne retourne RIEN d'autre que le tableau JSON. Pas de texte, pas d'explication, pas de markdown.
-"""
+RÈGLES :
+1. Comprends la question en langage naturel.
+2. Retourne UNIQUEMENT un JSON : {{"ids": ["id1", "id2", ...]}} avec les IDs des articles pertinents.
+3. Si aucun article : {{"ids": []}}
+4. IDs doivent correspondre EXACTEMENT à la colonne ID de la base.
+5. Max 5 articles. Pas de texte, pas de synthèse, pas de markdown."""
 
-def construire_html_resultats(titres_trouves, articles):
-    """Construit le HTML des cards à partir des titres retournés par l'IA"""
+def construire_html_resultats(ids_trouves, articles):
+    """Construit le HTML des cards à partir des IDs retournés par l'IA. Match par id (prioritaire)."""
+    ids_str = {str(x).strip() for x in ids_trouves}
     html = ""
-    for titre in titres_trouves:
-        article = next((a for a in articles if a['titre'].strip().lower() == titre.strip().lower()), None)
+    for art_id in ids_trouves:
+        art_id_str = str(art_id).strip()
+        article = next((a for a in articles if str(a['id']).strip() == art_id_str), None)
+        if not article:
+            # Fallback: match par titre si id non trouvé (rétrocompatibilité)
+            article = next((a for a in articles if a['titre'].strip().lower() == str(art_id).strip().lower()), None)
         if article:
             url = article['url'].strip()
             has_url = url and url != '#'
             btn = f'<a href="{url}" target="_blank" class="btn-read">Lire l\'article &rarr;</a>' if has_url else ''
+            desc_display = article['description'] if article['description'] != "Aucune description disponible" else "—"
+            tags_display = f"🏷️ {article['tags']}" if article['tags'] else ""
             html += f"""
 <div class="article-card">
     <h3>{article['titre']}</h3>
-    <p class="tags">🏷️ {article['tags']}</p>
-    <p class="description">{article['description']}</p>
+    {f'<p class="tags">{tags_display}</p>' if tags_display else ''}
+    <p class="description">{desc_display}</p>
     {btn}
 </div>
 """
     return html if html else "<p>Aucun article correspondant trouvé dans la base.</p>"
 
+
+def extraire_json_reponse(raw_text):
+    """Extrait le JSON de la réponse brute (gère markdown, préfixes, etc.)."""
+    raw = raw_text.strip()
+    raw = re.sub(r'^```json\s*', '', raw)
+    raw = re.sub(r'^```\s*', '', raw)
+    raw = re.sub(r'\s*```\s*$', '', raw)
+    raw = raw.strip()
+    return raw
+
+
+def agent_principal(question, articles, feedback=None):
+    """Appelle l'agent Gemini pour produire une liste d'IDs d'articles pertinents."""
+    instruction = build_system_instruction(articles, feedback=feedback)
+    response = client.models.generate_content(
+        model="gemini-2.0-flash-lite",
+        config={
+            "system_instruction": instruction,
+            "http_options": {"timeout": 60000},
+        },
+        contents=question,
+    )
+    raw = extraire_json_reponse(response.text)
+    data = json.loads(raw)
+
+    if isinstance(data, list):
+        ids_valides = {str(a["id"]).strip() for a in articles}
+        ids = [str(x).strip() for x in data if str(x).strip() in ids_valides]
+        return {"ids": ids}
+
+    ids = data.get("ids", [])
+    if not isinstance(ids, list):
+        ids = []
+    return {"ids": ids}
+
+
+def agent_verificateur(reponse_brute, articles, question):
+    """Vérifie que les IDs retournés existent dans la base."""
+    ids_demandes = reponse_brute.get("ids", [])
+    ids_valides = {str(a["id"]).strip() for a in articles}
+
+    ids_invalides = [x for x in ids_demandes if str(x).strip() not in ids_valides]
+    if ids_invalides:
+        return {
+            "valid": False,
+            "feedback": f"IDs invalides : {ids_invalides}. Utilise uniquement des IDs de la base.",
+        }
+
+    return {"valid": True, "reponse": reponse_brute}
+
+
 # 3. Route Flask
+MAX_ITERATIONS = 2
+
+
 @app.route('/', methods=['GET', 'POST'])
 def home():
     articles, tags = get_donnees()
     resultat = None
     question = ""
+    nb_resultats = 0
 
     if request.method == 'POST':
         question = request.form.get('question', '').strip()
@@ -163,33 +247,41 @@ def home():
 
         if not cleaned or len(cleaned) < 2:
             resultat = "<p>Veuillez saisir une recherche valide (au moins 2 caractères).</p>"
+            nb_resultats = 0
         elif question:
             try:
-                instruction = build_system_instruction(articles)
-                response = client.models.generate_content(
-                    model="gemini-2.0-flash-lite",
-                    config={
-                        "system_instruction": instruction,
-                        "http_options": {"timeout": 60000},
-                    },
-                    contents=question
-                )
-                raw = response.text.strip()
-                raw = re.sub(r'```json\s*', '', raw)
-                raw = re.sub(r'```\s*', '', raw)
-                raw = raw.strip()
-
-                titres = json.loads(raw)
-                if isinstance(titres, list) and len(titres) > 0:
-                    resultat = construire_html_resultats(titres, articles)
+                ids = rechercher_par_tag_exact(question, articles, tags)
+                if ids is not None:
+                    resultat = construire_html_resultats(ids, articles) if ids else "<p class='no-results'>Aucun article correspondant trouvé dans la base.</p>"
+                    nb_resultats = len(ids)
                 else:
-                    resultat = "<p>Aucun article correspondant trouvé dans la base.</p>"
-            except json.JSONDecodeError:
-                resultat = "<p>Aucun article correspondant trouvé dans la base.</p>"
+                    reponse_brute = agent_principal(question, articles)
+                    verification = agent_verificateur(reponse_brute, articles, question)
+                    iteration = 1
+
+                    while not verification["valid"] and iteration < MAX_ITERATIONS:
+                        reponse_brute = agent_principal(question, articles, feedback=verification["feedback"])
+                        verification = agent_verificateur(reponse_brute, articles, question)
+                        iteration += 1
+
+                    ids = verification["reponse"]["ids"] if verification["valid"] else reponse_brute.get("ids", [])
+                    resultat = construire_html_resultats(ids, articles) if ids else "<p class='no-results'>Aucun article correspondant trouvé dans la base.</p>"
+                    nb_resultats = len(ids)
+            except json.JSONDecodeError as e:
+                resultat = f"<p style='color:red'>Erreur de format de réponse : {str(e)}</p>"
+                nb_resultats = 0
             except Exception as e:
                 resultat = f"<p style='color:red'>Erreur : {str(e)}</p>"
+                nb_resultats = 0
 
-    return render_template('index.html', resultat=resultat, question=question, tags=tags, nb_articles=len(articles))
+    return render_template(
+        'index.html',
+        resultat=resultat,
+        question=question,
+        tags=tags,
+        nb_articles=len(articles),
+        nb_resultats=nb_resultats,
+    )
 
 if __name__ == '__main__':
     print("CSV chargé. Serveur prêt.")

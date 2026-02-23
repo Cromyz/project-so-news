@@ -277,6 +277,41 @@
             background: var(--sop-navy-light);
         }
 
+        /* Loading bar */
+        .loader-overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: #e2e8f0;
+            z-index: 9999;
+            overflow: hidden;
+        }
+
+        .loader-overlay.active {
+            display: block;
+        }
+
+        .loader-bar {
+            height: 100%;
+            width: 30%;
+            background: var(--sop-navy);
+            animation: loaderMove 1.5s ease-in-out infinite;
+        }
+
+        @keyframes loaderMove {
+            0% { transform: translateX(-100%); }
+            50% { transform: translateX(230%); }
+            100% { transform: translateX(-100%); }
+        }
+
+        .no-results {
+            color: var(--text-secondary);
+            font-style: italic;
+        }
+
         /* Footer */
         .footer {
             margin-top: 3rem;
@@ -300,6 +335,10 @@
     </style>
 </head>
 <body>
+
+    <div class="loader-overlay" id="loaderOverlay">
+        <div class="loader-bar"></div>
+    </div>
 
     <div class="container">
         <div class="header">
@@ -336,15 +375,28 @@
                 const input = document.getElementById('searchInput');
                 const form = document.getElementById('searchForm');
                 input.value = tag;
+                showLoader();
                 form.submit();
+            }
+
+            function showLoader() {
+                document.getElementById('loaderOverlay').classList.add('active');
+            }
+
+            document.getElementById('searchForm').addEventListener('submit', function() {
+                showLoader();
+            });
+
+            if (document.getElementById('resultsSection')) {
+                document.getElementById('resultsSection').scrollIntoView({ behavior: 'smooth', block: 'start' });
             }
         </script>
 
         {% if resultat %}
-        <div class="results-section">
+        <div class="results-section" id="resultsSection">
             <div class="results-badge">
                 <img src="{{ url_for('static', filename='valentine.png') }}" alt="Valentine" class="avatar">
-                Réponse de Valentine
+                {% if nb_resultats <= 1 %}Réponse de Valentine{% else %}Réponses de Valentine : {{ nb_resultats }}{% endif %}
             </div>
             <div class="result-container">
                 {{ resultat | safe }}
